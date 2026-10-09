@@ -1,0 +1,7 @@
+# 临时/草稿
+*.tmp
+*.bak
+.DS_Store
+
+# 回推脚本的本地日志
+push-log/
