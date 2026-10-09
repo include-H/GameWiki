@@ -31,14 +31,14 @@
 - [ ] **人中之龙０ 誓约的场所** — Yakuza 0 → `人中之龙/人中之龙０ 誓约的场所_WIKI.md`
 
 ## 仙剑奇侠传（8）
-- [ ] **仙剑奇侠传5** — The Legend of Sword and Fairy 5 → `仙剑奇侠传/仙剑奇侠传5_WIKI.md`
-- [ ] **仙剑奇侠传6** — The Legend of Sword and Fairy 6 → `仙剑奇侠传/仙剑奇侠传6_WIKI.md`
-- [ ] **仙剑奇侠传1** — The Legend of Sword and Fairy → `仙剑奇侠传/仙剑奇侠传1_WIKI.md`
-- [ ] **仙剑奇侠传2** — The Legend of Sword and Fairy 2 → `仙剑奇侠传/仙剑奇侠传2_WIKI.md`
-- [ ] **仙剑奇侠传3** — The Legend of Sword and Fairy 3 → `仙剑奇侠传/仙剑奇侠传3_WIKI.md`
-- [ ] **仙剑奇侠传4** — The Legend of Sword and Fairy 4 → `仙剑奇侠传/仙剑奇侠传4_WIKI.md`
-- [ ] **仙剑奇侠传7** — The Legend of Sword and Fairy 7 → `仙剑奇侠传/仙剑奇侠传7_WIKI.md`
-- [ ] **仙剑客栈** — The Legend of Sword and Fairy Inn → `仙剑奇侠传/仙剑客栈_WIKI.md`
+- [x] **仙剑奇侠传5** — The Legend of Sword and Fairy 5 → `仙剑奇侠传/仙剑奇侠传5_WIKI.md`
+- [x] **仙剑奇侠传6** — The Legend of Sword and Fairy 6 → `仙剑奇侠传/仙剑奇侠传6_WIKI.md`
+- [x] **仙剑奇侠传1** — The Legend of Sword and Fairy → `仙剑奇侠传/仙剑奇侠传1_WIKI.md`
+- [x] **仙剑奇侠传2** — The Legend of Sword and Fairy 2 → `仙剑奇侠传/仙剑奇侠传2_WIKI.md`
+- [x] **仙剑奇侠传3** — The Legend of Sword and Fairy 3 → `仙剑奇侠传/仙剑奇侠传3_WIKI.md`
+- [x] **仙剑奇侠传4** — The Legend of Sword and Fairy 4 → `仙剑奇侠传/仙剑奇侠传4_WIKI.md`
+- [x] **仙剑奇侠传7** — The Legend of Sword and Fairy 7 → `仙剑奇侠传/仙剑奇侠传7_WIKI.md`
+- [x] **仙剑客栈** — The Legend of Sword and Fairy Inn → `仙剑奇侠传/仙剑客栈_WIKI.md`
 
 ## 传说（1）
 - [ ] **破晓传说** — Tales of ARISE → `传说/破晓传说_WIKI.md`
