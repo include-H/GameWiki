@@ -11,7 +11,7 @@
 
 ## 上古卷轴（2）
 - [ ] **上古卷轴5：天际** — The Elder Scrolls V: Skyrim → `上古卷轴/上古卷轴5：天际_WIKI.md`
-- [ ] **上古卷轴4：湮灭** — The Elder Scrolls IV: Oblivion → `上古卷轴/上古卷轴4：湮灭_WIKI.md`
+- [x] **上古卷轴4：湮灭** — The Elder Scrolls IV: Oblivion → `上古卷轴/上古卷轴4：湮灭_WIKI.md`
 
 ## 丧尸围城（5）
 - [ ] **丧尸围城2** — Dead Rising 2 → `丧尸围城/丧尸围城2_WIKI.md`
@@ -44,25 +44,25 @@
 - [ ] **破晓传说** — Tales of ARISE → `传说/破晓传说_WIKI.md`
 
 ## 使命召唤（19）
-- [ ] **使命召唤** — Call of Duty 2003 → `使命召唤/使命召唤_WIKI.md`
-- [ ] **使命召唤2** — Call of Duty 2 → `使命召唤/使命召唤2_WIKI.md`
-- [ ] **使命召唤：现代战争** — Call of Duty 4: Modern Warfare → `使命召唤/使命召唤：现代战争_2007_WIKI.md`
-- [ ] **使命召唤：战争世界** — Call of Duty: World at War → `使命召唤/使命召唤：战争世界_WIKI.md`
-- [ ] **使命召唤：现代战争 2** — Call of Duty: Modern Warfare 2 2009 → `使命召唤/使命召唤：现代战争 2_WIKI.md`
-- [ ] **使命召唤：黑色行动** — Call of Duty: Black Ops → `使命召唤/使命召唤：黑色行动_WIKI.md`
-- [ ] **使命召唤：现代战争 3** — Call of Duty: Modern Warfare 3 → `使命召唤/使命召唤：现代战争 3_WIKI.md`
-- [ ] **使命召唤：黑色行动 2** — Call of Duty: Black Ops II → `使命召唤/使命召唤：黑色行动 2_WIKI.md`
-- [ ] **使命召唤：幽灵** — Call of Duty: Ghosts → `使命召唤/使命召唤：幽灵_WIKI.md`
-- [ ] **使命召唤：高级战争** — Call of Duty: Advanced Warfare → `使命召唤/使命召唤：高级战争_WIKI.md`
-- [ ] **使命召唤：黑色行动 3** — Call of Duty: Black Ops III → `使命召唤/使命召唤：黑色行动 3_WIKI.md`
-- [ ] **使命召唤：无限战争** — Call of Duty: Infinite Warfare → `使命召唤/使命召唤：无限战争_WIKI.md`
-- [ ] **使命召唤：二战** — Call of Duty: WWII → `使命召唤/使命召唤：二战_WIKI.md`
-- [ ] **使命召唤：现代战争** — Call of Duty: Modern Warfare → `使命召唤/使命召唤：现代战争_2019_WIKI.md`
-- [ ] **使命召唤：现代战争 II 2022** — Call of Duty: Modern Warfare II → `使命召唤/使命召唤：现代战争 II 2022_WIKI.md`
-- [ ] **使命召唤：先锋** — Call of Duty: Vanguard → `使命召唤/使命召唤：先锋_WIKI.md`
-- [ ] **使命召唤：现代战争 III 2023** — Call of Duty: Modern Warfare III → `使命召唤/使命召唤：现代战争 III 2023_WIKI.md`
-- [ ] **使命召唤：黑色行动 冷战** — Call of Duty: Black Ops Cold War → `使命召唤/使命召唤：黑色行动 冷战_WIKI.md`
-- [ ] **使命召唤：黑色行动 6** — Call of Duty: Black Ops 6 → `使命召唤/使命召唤：黑色行动 6_WIKI.md`
+- [x] **使命召唤** — Call of Duty 2003 → `使命召唤/使命召唤_WIKI.md`
+- [x] **使命召唤2** — Call of Duty 2 → `使命召唤/使命召唤2_WIKI.md`
+- [x] **使命召唤：现代战争** — Call of Duty 4: Modern Warfare → `使命召唤/使命召唤：现代战争_2007_WIKI.md`
+- [x] **使命召唤：战争世界** — Call of Duty: World at War → `使命召唤/使命召唤：战争世界_WIKI.md`
+- [x] **使命召唤：现代战争 2** — Call of Duty: Modern Warfare 2 2009 → `使命召唤/使命召唤：现代战争 2_WIKI.md`
+- [x] **使命召唤：黑色行动** — Call of Duty: Black Ops → `使命召唤/使命召唤：黑色行动_WIKI.md`
+- [x] **使命召唤：现代战争 3** — Call of Duty: Modern Warfare 3 → `使命召唤/使命召唤：现代战争 3_WIKI.md`
+- [x] **使命召唤：黑色行动 2** — Call of Duty: Black Ops II → `使命召唤/使命召唤：黑色行动 2_WIKI.md`
+- [x] **使命召唤：幽灵** — Call of Duty: Ghosts → `使命召唤/使命召唤：幽灵_WIKI.md`
+- [x] **使命召唤：高级战争** — Call of Duty: Advanced Warfare → `使命召唤/使命召唤：高级战争_WIKI.md`
+- [x] **使命召唤：黑色行动 3** — Call of Duty: Black Ops III → `使命召唤/使命召唤：黑色行动 3_WIKI.md`
+- [x] **使命召唤：无限战争** — Call of Duty: Infinite Warfare → `使命召唤/使命召唤：无限战争_WIKI.md`
+- [x] **使命召唤：二战** — Call of Duty: WWII → `使命召唤/使命召唤：二战_WIKI.md`
+- [x] **使命召唤：现代战争** — Call of Duty: Modern Warfare → `使命召唤/使命召唤：现代战争_2019_WIKI.md`
+- [x] **使命召唤：现代战争 II 2022** — Call of Duty: Modern Warfare II → `使命召唤/使命召唤：现代战争 II 2022_WIKI.md`
+- [x] **使命召唤：先锋** — Call of Duty: Vanguard → `使命召唤/使命召唤：先锋_WIKI.md`
+- [x] **使命召唤：现代战争 III 2023** — Call of Duty: Modern Warfare III → `使命召唤/使命召唤：现代战争 III 2023_WIKI.md`
+- [x] **使命召唤：黑色行动 冷战** — Call of Duty: Black Ops Cold War → `使命召唤/使命召唤：黑色行动 冷战_WIKI.md`
+- [x] **使命召唤：黑色行动 6** — Call of Duty: Black Ops 6 → `使命召唤/使命召唤：黑色行动 6_WIKI.md`
 
 ## 侠盗猎车手（5）
 - [ ] **侠盗猎车手 3** — Grand Theft Auto III → `侠盗猎车手/侠盗猎车手 3_WIKI.md`
@@ -323,18 +323,18 @@
 
 ## 生化危机（14）
 - [ ] **生化危机0** — Resident Evil 0 → `生化危机/生化危机0_WIKI.md`
-- [ ] **生化危机5** — Resident Evil 5 → `生化危机/生化危机5_WIKI.md`
+- [x] **生化危机5** — Resident Evil 5 → `生化危机/生化危机5_WIKI.md`
 - [ ] **生化危机：浣熊市行动** — Resident Evil: Operation Raccoon City → `生化危机/生化危机：浣熊市行动_WIKI.md`
-- [ ] **生化危机6** — Resident Evil 6 → `生化危机/生化危机6_WIKI.md`
-- [ ] **生化危机：启示录** — Resident Evil: Revelations → `生化危机/生化危机：启示录_WIKI.md`
-- [ ] **生化危机1** — Resident Evil → `生化危机/生化危机1_WIKI.md`
+- [x] **生化危机6** — Resident Evil 6 → `生化危机/生化危机6_WIKI.md`
+- [x] **生化危机：启示录** — Resident Evil: Revelations → `生化危机/生化危机：启示录_WIKI.md`
+- [x] **生化危机1** — Resident Evil → `生化危机/生化危机1_WIKI.md`
 - [ ] **生化危机：启示录2** — Resident Evil Revelations 2 → `生化危机/生化危机：启示录2_WIKI.md`
 - [ ] **生化危机：保护伞小队** — Umbrella Corps → `生化危机/生化危机：保护伞小队_WIKI.md`
-- [ ] **生化危机7** — Resident Evil 7: Biohazard → `生化危机/生化危机7_WIKI.md`
-- [ ] **生化危机2：重制版** — Resident Evil 2 → `生化危机/生化危机2：重制版_WIKI.md`
-- [ ] **生化危机3：重制版** — Resident Evil 3 → `生化危机/生化危机3：重制版_WIKI.md`
-- [ ] **生化危机：村庄** — Resident Evil Village → `生化危机/生化危机：村庄_WIKI.md`
-- [ ] **生化危机4：重置版** — Resident Evil 4 → `生化危机/生化危机4：重置版_WIKI.md`
+- [x] **生化危机7** — Resident Evil 7: Biohazard → `生化危机/生化危机7_WIKI.md`
+- [x] **生化危机2：重制版** — Resident Evil 2 → `生化危机/生化危机2：重制版_WIKI.md`
+- [x] **生化危机3：重制版** — Resident Evil 3 → `生化危机/生化危机3：重制版_WIKI.md`
+- [x] **生化危机：村庄** — Resident Evil Village → `生化危机/生化危机：村庄_WIKI.md`
+- [x] **生化危机4：重置版** — Resident Evil 4 → `生化危机/生化危机4：重置版_WIKI.md`
 - [ ] **生化危机：安魂曲** — Resident Evil Requiem → `生化危机/生化危机：安魂曲_WIKI.md`
 
 ## 看门狗（2）
