@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**99 部**
-- 待写：153 = 本代理 **149** + 另一代理 **4**（光环/刺客信条/半条命/双人合作）
+- 已入库：**114 部**
+- 待写：138 = 本代理 **137** + 另一代理 **1**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -84,24 +84,24 @@
 ## 光环（1/1）（另一代理）
 - [x] **光环：士官长合集** — Halo: The Master Chief Collection → `光环/光环：士官长合集_WIKI.md`
 
-## 刺客信条（5/7）（另一代理）
+## 刺客信条（6/7）（另一代理）
 - [ ] **刺客信条：艾吉奥合集** → `刺客信条/刺客信条：艾吉奥合集_WIKI.md`
-- [ ] **刺客信条：黑旗** — Assassin’s Creed IV: Black Flag → `刺客信条/刺客信条：黑旗_WIKI.md`
+- [x] **刺客信条：黑旗** — Assassin’s Creed IV: Black Flag → `刺客信条/刺客信条：黑旗_WIKI.md`
 - [x] **刺客信条：大革命** — Assassin's Creed Unity → `刺客信条/刺客信条：大革命_WIKI.md`
 - [x] **刺客信条：自由呐喊** — Assassin's Creed Freedom Cry → `刺客信条/刺客信条：自由呐喊_WIKI.md`
 - [x] **刺客信条：叛变** — Assassin’s Creed Rogue → `刺客信条/刺客信条：叛变_WIKI.md`
 - [x] **刺客信条：枭雄** — Assassin’s Creed Syndicate → `刺客信条/刺客信条：枭雄_WIKI.md`
 - [x] **刺客信条 III** — Assassin’s Creed III → `刺客信条/刺客信条 III_WIKI.md`
 
-## 半条命（3/4）（另一代理）
+## 半条命（4/4）（另一代理）
 - [x] **半条命** — Half-Life → `半条命/半条命_WIKI.md`
-- [ ] **反恐精英** — Counter-Strike → `半条命/反恐精英_WIKI.md`
+- [x] **反恐精英** — Counter-Strike → `半条命/反恐精英_WIKI.md`
 - [x] **半条命2** — Half-Life 2 → `半条命/半条命2_WIKI.md`
 - [x] **黑山：起源** — Black Mesa → `半条命/黑山：起源_WIKI.md`
 
-## 双人合作（2/3）（另一代理）
+## 双人合作（3/3）（另一代理）
 - [x] **逃出生天** — A Way Out → `双人合作/逃出生天_WIKI.md`
-- [ ] **双人成行** — It Takes Two → `双人合作/双人成行_WIKI.md`
+- [x] **双人成行** — It Takes Two → `双人合作/双人成行_WIKI.md`
 - [x] **双影奇境** — Split Fiction → `双人合作/双影奇境_WIKI.md`
 
 ## 古墓丽影（8/8）
@@ -139,24 +139,24 @@
 - [x] **天国：拯救** — Kingdom Come: Deliverance → `天国：拯救/天国：拯救_WIKI.md`
 - [x] **天国：拯救 II** — Kingdom Come: Deliverance II → `天国：拯救/天国：拯救 II_WIKI.md`
 
-## 奇异人生（1/5）
+## 奇异人生（5/5）
 - [x] **奇异人生：风暴前夕** — Life is Strange: Before the Storm → `奇异人生/奇异人生：风暴前夕_WIKI.md`
-- [ ] **奇异人生2** — Life is Strange 2 → `奇异人生/奇异人生2_WIKI.md`
-- [ ] **奇异人生** — Life is Strange → `奇异人生/奇异人生_WIKI.md`
-- [ ] **奇异人生：双重曝光** — Life is Strange: Double Exposure → `奇异人生/奇异人生：双重曝光_WIKI.md`
-- [ ] **奇异人生：重聚** — Life is Strange: Reunion → `奇异人生/奇异人生：重聚_WIKI.md`
+- [x] **奇异人生2** — Life is Strange 2 → `奇异人生/奇异人生2_WIKI.md`
+- [x] **奇异人生** — Life is Strange → `奇异人生/奇异人生_WIKI.md`
+- [x] **奇异人生：双重曝光** — Life is Strange: Double Exposure → `奇异人生/奇异人生：双重曝光_WIKI.md`
+- [x] **奇异人生：重聚** — Life is Strange: Reunion → `奇异人生/奇异人生：重聚_WIKI.md`
 
-## 孤岛危机（0/3）
-- [ ] **孤岛危机** — Crysis → `孤岛危机/孤岛危机_WIKI.md`
-- [ ] **孤岛危机2** — Crysis 2 → `孤岛危机/孤岛危机2_WIKI.md`
-- [ ] **孤岛危机3** — Crysis 3 → `孤岛危机/孤岛危机3_WIKI.md`
+## 孤岛危机（3/3）
+- [x] **孤岛危机** — Crysis → `孤岛危机/孤岛危机_WIKI.md`
+- [x] **孤岛危机2** — Crysis 2 → `孤岛危机/孤岛危机2_WIKI.md`
+- [x] **孤岛危机3** — Crysis 3 → `孤岛危机/孤岛危机3_WIKI.md`
 
-## 孤岛惊魂（0/5）
-- [ ] **孤岛惊魂3** — Far Cry 3 → `孤岛惊魂/孤岛惊魂3_WIKI.md`
-- [ ] **孤岛惊魂4** — Far Cry 4 → `孤岛惊魂/孤岛惊魂4_WIKI.md`
-- [ ] **孤岛惊魂：原始杀戮** — Far Cry Primal → `孤岛惊魂/孤岛惊魂：原始杀戮_WIKI.md`
-- [ ] **孤岛惊魂5** — Far Cry 5 → `孤岛惊魂/孤岛惊魂5_WIKI.md`
-- [ ] **孤岛惊魂6** — Far Cry 6 → `孤岛惊魂/孤岛惊魂6_WIKI.md`
+## 孤岛惊魂（5/5）
+- [x] **孤岛惊魂3** — Far Cry 3 → `孤岛惊魂/孤岛惊魂3_WIKI.md`
+- [x] **孤岛惊魂4** — Far Cry 4 → `孤岛惊魂/孤岛惊魂4_WIKI.md`
+- [x] **孤岛惊魂：原始杀戮** — Far Cry Primal → `孤岛惊魂/孤岛惊魂：原始杀戮_WIKI.md`
+- [x] **孤岛惊魂5** — Far Cry 5 → `孤岛惊魂/孤岛惊魂5_WIKI.md`
+- [x] **孤岛惊魂6** — Far Cry 6 → `孤岛惊魂/孤岛惊魂6_WIKI.md`
 
 ## 对马岛之魂（0/1）
 - [ ] **对马岛之魂** — Ghost of Tsushima → `对马岛之魂/对马岛之魂_WIKI.md`
