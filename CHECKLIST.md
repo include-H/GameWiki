@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**216 部**
-- 待写：36 = 本代理 **36** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
+- 已入库：**228 部**
+- 待写：24 = 本代理 **24** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -354,28 +354,28 @@
 - [x] **空之轨迹 THE 1ST** — The Legend of Heroes:Trails in the Sky the 1st → `空之轨迹/空之轨迹 THE 1ST_WIKI.md`
 - [x] **空之轨迹 THE 2nd** — The Legend of Heroes: Trails in the Sky the 2nd → `空之轨迹/空之轨迹 THE 2nd_WIKI.md`
 
-## 纪念碑谷（1/3）
+## 纪念碑谷（3/3）
 - [x] **纪念碑谷** — Monument Valley → `纪念碑谷/纪念碑谷_WIKI.md`
-- [ ] **纪念碑谷2** — Monument Valley 2 → `纪念碑谷/纪念碑谷2_WIKI.md`
-- [ ] **纪念碑谷3** — Monument Valley 3 → `纪念碑谷/纪念碑谷3_WIKI.md`
+- [x] **纪念碑谷2** — Monument Valley 2 → `纪念碑谷/纪念碑谷2_WIKI.md`
+- [x] **纪念碑谷3** — Monument Valley 3 → `纪念碑谷/纪念碑谷3_WIKI.md`
 
-## 绯红结系（0/1）
-- [ ] **绯红结系** — SCARLET NEXUS → `绯红结系/绯红结系_WIKI.md`
+## 绯红结系（1/1）
+- [x] **绯红结系** — SCARLET NEXUS → `绯红结系/绯红结系_WIKI.md`
 
-## 英雄连（0/2）
-- [ ] **英雄连2** — Company of Heroes 2 → `英雄连/英雄连2_WIKI.md`
-- [ ] **英雄连3** — Company of Heroes 3 → `英雄连/英雄连3_WIKI.md`
+## 英雄连（2/2）
+- [x] **英雄连2** — Company of Heroes 2 → `英雄连/英雄连2_WIKI.md`
+- [x] **英雄连3** — Company of Heroes 3 → `英雄连/英雄连3_WIKI.md`
 
-## 荒野大镖客（0/2）
-- [ ] **荒野大镖客：救赎 2** — Red Dead Redemption 2 → `荒野大镖客/荒野大镖客：救赎 2_WIKI.md`
-- [ ] **荒野大镖客：救赎** — Red Dead Redemption → `荒野大镖客/荒野大镖客：救赎_WIKI.md`
+## 荒野大镖客（2/2）
+- [x] **荒野大镖客：救赎 2** — Red Dead Redemption 2 → `荒野大镖客/荒野大镖客：救赎 2_WIKI.md`
+- [x] **荒野大镖客：救赎** — Red Dead Redemption → `荒野大镖客/荒野大镖客：救赎_WIKI.md`
 
-## 荣誉勋章（0/5）
-- [ ] **荣誉勋章：三部曲合集** — Medal of Honor: Allied Assault → `荣誉勋章/荣誉勋章：三部曲合集_WIKI.md`
-- [ ] **荣誉勋章：血战太平洋** — Medal of Honor: Pacific Assault → `荣誉勋章/荣誉勋章：血战太平洋_WIKI.md`
-- [ ] **荣誉勋章：空降神兵** — Medal of Honor: Airborne → `荣誉勋章/荣誉勋章：空降神兵_WIKI.md`
-- [ ] **荣誉勋章** — Medal of Honor → `荣誉勋章/荣誉勋章_WIKI.md`
-- [ ] **荣誉勋章：战士** — Medal of Honor: Warfighter → `荣誉勋章/荣誉勋章：战士_WIKI.md`
+## 荣誉勋章（5/5）
+- [x] **荣誉勋章：三部曲合集** — Medal of Honor: Allied Assault → `荣誉勋章/荣誉勋章：三部曲合集_WIKI.md`
+- [x] **荣誉勋章：血战太平洋** — Medal of Honor: Pacific Assault → `荣誉勋章/荣誉勋章：血战太平洋_WIKI.md`
+- [x] **荣誉勋章：空降神兵** — Medal of Honor: Airborne → `荣誉勋章/荣誉勋章：空降神兵_WIKI.md`
+- [x] **荣誉勋章** — Medal of Honor → `荣誉勋章/荣誉勋章_WIKI.md`
+- [x] **荣誉勋章：战士** — Medal of Honor: Warfighter → `荣誉勋章/荣誉勋章：战士_WIKI.md`
 
 ## 莱莎的炼金工房（0/3）
 - [ ] **莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX** — Atelier Ryza：Ever Darkness&the Secret Hideout with Bonus → `莱莎的炼金工房/莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX_WIKI.md`
