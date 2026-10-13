@@ -10,7 +10,7 @@
 - 状态：`[ ]` 待写 · `[~]` 进行中 · `[x]` 完成
 
 ## 上古卷轴（2）
-- [ ] **上古卷轴5：天际** — The Elder Scrolls V: Skyrim → `上古卷轴/上古卷轴5：天际_WIKI.md`
+- [x] **上古卷轴5：天际** — The Elder Scrolls V: Skyrim → `上古卷轴/上古卷轴5：天际_WIKI.md`
 - [x] **上古卷轴4：湮灭** — The Elder Scrolls IV: Oblivion → `上古卷轴/上古卷轴4：湮灭_WIKI.md`
 
 ## 丧尸围城（5）
@@ -41,7 +41,7 @@
 - [x] **仙剑客栈** — The Legend of Sword and Fairy Inn → `仙剑奇侠传/仙剑客栈_WIKI.md`
 
 ## 传说（1）
-- [ ] **破晓传说** — Tales of ARISE → `传说/破晓传说_WIKI.md`
+- [x] **破晓传说** — Tales of ARISE → `传说/破晓传说_WIKI.md`
 
 ## 使命召唤（19）
 - [x] **使命召唤** — Call of Duty 2003 → `使命召唤/使命召唤_WIKI.md`
@@ -65,21 +65,21 @@
 - [x] **使命召唤：黑色行动 6** — Call of Duty: Black Ops 6 → `使命召唤/使命召唤：黑色行动 6_WIKI.md`
 
 ## 侠盗猎车手（5）
-- [ ] **侠盗猎车手 3** — Grand Theft Auto III → `侠盗猎车手/侠盗猎车手 3_WIKI.md`
-- [ ] **侠盗猎车手：罪恶都市** — Grand Theft Auto: Vice City → `侠盗猎车手/侠盗猎车手：罪恶都市_WIKI.md`
-- [ ] **侠盗猎车手：圣安地列斯** — Grand Theft Auto: San Andreas → `侠盗猎车手/侠盗猎车手：圣安地列斯_WIKI.md`
-- [ ] **侠盗猎车手4** — Grand Theft Auto IV → `侠盗猎车手/侠盗猎车手4_WIKI.md`
-- [ ] **侠盗猎车手5** — Grand Theft Auto V → `侠盗猎车手/侠盗猎车手5_WIKI.md`
+- [x] **侠盗猎车手 3** — Grand Theft Auto III → `侠盗猎车手/侠盗猎车手 3_WIKI.md`
+- [x] **侠盗猎车手：罪恶都市** — Grand Theft Auto: Vice City → `侠盗猎车手/侠盗猎车手：罪恶都市_WIKI.md`
+- [x] **侠盗猎车手：圣安地列斯** — Grand Theft Auto: San Andreas → `侠盗猎车手/侠盗猎车手：圣安地列斯_WIKI.md`
+- [x] **侠盗猎车手4** — Grand Theft Auto IV → `侠盗猎车手/侠盗猎车手4_WIKI.md`
+- [x] **侠盗猎车手5** — Grand Theft Auto V → `侠盗猎车手/侠盗猎车手5_WIKI.md`
 
 ## 偶像大师（1）
-- [ ] **偶像大师：星耀季节** — 偶像大师 STARLIT SEASON → `偶像大师/偶像大师：星耀季节_WIKI.md`
+- [x] **偶像大师：星耀季节** — 偶像大师 STARLIT SEASON → `偶像大师/偶像大师：星耀季节_WIKI.md`
 
 ## 僵尸世界大战（1）
-- [ ] **僵尸世界大战：劫后余生** — World War Z: Aftermath → `僵尸世界大战/僵尸世界大战：劫后余生_WIKI.md`
+- [x] **僵尸世界大战：劫后余生** — World War Z: Aftermath → `僵尸世界大战/僵尸世界大战：劫后余生_WIKI.md`
 
 ## 僵尸部队（2）
-- [ ] **僵尸部队：三部曲** — Zombie Army Trilogy → `僵尸部队/僵尸部队：三部曲_WIKI.md`
-- [ ] **僵尸部队4** — Zombie Army 4: Dead War → `僵尸部队/僵尸部队4_WIKI.md`
+- [x] **僵尸部队：三部曲** — Zombie Army Trilogy → `僵尸部队/僵尸部队：三部曲_WIKI.md`
+- [x] **僵尸部队4** — Zombie Army 4: Dead War → `僵尸部队/僵尸部队4_WIKI.md`
 
 ## 光环（1）
 - [ ] **光环：士官长合集** — Halo: The Master Chief Collection → `光环/光环：士官长合集_WIKI.md`
