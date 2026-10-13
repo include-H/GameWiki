@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**127 部**
-- 待写：125 = 本代理 **125** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
+- 已入库：**139 部**
+- 待写：113 = 本代理 **113** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -182,27 +182,27 @@
 ## 往日不再（1/1）
 - [x] **往日不在** — Days Gone → `往日不再/往日不在_WIKI.md`
 
-## 德军总部（0/4）
-- [ ] **重返德军总部** — Return to Castle Wolfenstein → `德军总部/重返德军总部_WIKI.md`
-- [ ] **德军总部：新秩序** — Wolfenstein: The New Order → `德军总部/德军总部：新秩序_WIKI.md`
-- [ ] **德军总部：旧血液** — Wolfenstein: The Old Blood → `德军总部/德军总部：旧血液_WIKI.md`
-- [ ] **重返德军总部：新巨像** — Wolfenstein II: The New Colossus → `德军总部/重返德军总部：新巨像_WIKI.md`
+## 德军总部（4/4）
+- [x] **重返德军总部** — Return to Castle Wolfenstein → `德军总部/重返德军总部_WIKI.md`
+- [x] **德军总部：新秩序** — Wolfenstein: The New Order → `德军总部/德军总部：新秩序_WIKI.md`
+- [x] **德军总部：旧血液** — Wolfenstein: The Old Blood → `德军总部/德军总部：旧血液_WIKI.md`
+- [x] **重返德军总部：新巨像** — Wolfenstein II: The New Colossus → `德军总部/重返德军总部：新巨像_WIKI.md`
 
-## 恶霸鲁尼（0/1）
-- [ ] **恶霸鲁尼** — Bully → `恶霸鲁尼/恶霸鲁尼_WIKI.md`
+## 恶霸鲁尼（1/1）
+- [x] **恶霸鲁尼** — Bully → `恶霸鲁尼/恶霸鲁尼_WIKI.md`
 
-## 悍马攻击（0/1）
-- [ ] **悍马攻击** — Humvee Assault → `悍马攻击/悍马攻击_WIKI.md`
+## 悍马攻击（1/1）
+- [x] **悍马攻击** — Humvee Assault → `悍马攻击/悍马攻击_WIKI.md`
 
-## 我的世界：故事模式（0/2）
-- [ ] **我的世界：故事模式** — Minecraft: Story Mode → `我的世界：故事模式/我的世界：故事模式_WIKI.md`
-- [ ] **我的世界：故事模式 第二季** — Minecraft: Story Mode Season 2 → `我的世界：故事模式/我的世界：故事模式 第二季_WIKI.md`
+## 我的世界：故事模式（2/2）
+- [x] **我的世界：故事模式** — Minecraft: Story Mode → `我的世界：故事模式/我的世界：故事模式_WIKI.md`
+- [x] **我的世界：故事模式 第二季** — Minecraft: Story Mode Season 2 → `我的世界：故事模式/我的世界：故事模式 第二季_WIKI.md`
 
-## 战地（0/6）
-- [ ] **战地：叛逆连队2** — Battlefield: Bad Company 2 → `战地/战地：叛逆连队2_WIKI.md`
-- [ ] **战地3** — Battlefield 3 → `战地/战地3_WIKI.md`
-- [ ] **战地4** — Battlefield 4 → `战地/战地4_WIKI.md`
-- [ ] **战地：硬仗** — Battlefield Hardline → `战地/战地：硬仗_WIKI.md`
+## 战地（4/6）
+- [x] **战地：叛逆连队2** — Battlefield: Bad Company 2 → `战地/战地：叛逆连队2_WIKI.md`
+- [x] **战地3** — Battlefield 3 → `战地/战地3_WIKI.md`
+- [x] **战地4** — Battlefield 4 → `战地/战地4_WIKI.md`
+- [x] **战地：硬仗** — Battlefield Hardline → `战地/战地：硬仗_WIKI.md`
 - [ ] **战地1942** — Battlefield 1942 → `战地/战地1942_WIKI.md`
 - [ ] **战地6** — Battlefield 6 → `战地/战地6_WIKI.md`
 
