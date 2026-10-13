@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**168 部**
-- 待写：84 = 本代理 **84** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
+- 已入库：**180 部**
+- 待写：72 = 本代理 **72** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -255,25 +255,25 @@
 - [x] **极品飞车：最高通缉** — Need for Speed: Most Wanted → `极品飞车/极品飞车：最高通缉_WIKI.md`
 - [x] **极品飞车：热力追踪** — Need for Speed: Hot Pursuit → `极品飞车/极品飞车：热力追踪_WIKI.md`
 
-## 极限竞速（0/3）
-- [ ] **极限竞速7** — Forza Motorsport 7 → `极限竞速/极限竞速7_WIKI.md`
-- [ ] **极限竞速：地平线 4** — Forza Horizon 4 → `极限竞速/极限竞速：地平线 4_WIKI.md`
-- [ ] **极限竞速：地平线 5** — Forza Horizon 5 → `极限竞速/极限竞速：地平线 5_WIKI.md`
+## 极限竞速（3/3）
+- [x] **极限竞速7** — Forza Motorsport 7 → `极限竞速/极限竞速7_WIKI.md`
+- [x] **极限竞速：地平线 4** — Forza Horizon 4 → `极限竞速/极限竞速：地平线 4_WIKI.md`
+- [x] **极限竞速：地平线 5** — Forza Horizon 5 → `极限竞速/极限竞速：地平线 5_WIKI.md`
 
-## 模拟人生（0/3）
-- [ ] **模拟人生** — The Sims → `模拟人生/模拟人生_WIKI.md`
-- [ ] **模拟人生3** — The Sims 3 → `模拟人生/模拟人生3_WIKI.md`
-- [ ] **模拟人生4** — The Sims 4 → `模拟人生/模拟人生4_WIKI.md`
+## 模拟人生（3/3）
+- [x] **模拟人生** — The Sims → `模拟人生/模拟人生_WIKI.md`
+- [x] **模拟人生3** — The Sims 3 → `模拟人生/模拟人生3_WIKI.md`
+- [x] **模拟人生4** — The Sims 4 → `模拟人生/模拟人生4_WIKI.md`
 
-## 模拟城市（0/2）
-- [ ] **模拟城市4：尖峰时刻** — SimCity 4 → `模拟城市/模拟城市4：尖峰时刻_WIKI.md`
-- [ ] **模拟城市：未来之城** — SimCity → `模拟城市/模拟城市：未来之城_WIKI.md`
+## 模拟城市（2/2）
+- [x] **模拟城市4：尖峰时刻** — SimCity 4 → `模拟城市/模拟城市4：尖峰时刻_WIKI.md`
+- [x] **模拟城市：未来之城** — SimCity → `模拟城市/模拟城市：未来之城_WIKI.md`
 
-## 樱花大战（0/4）
-- [ ] **樱花大战** — Sakura Wars → `樱花大战/樱花大战_WIKI.md`
-- [ ] **樱花大战2** — Sakura Wars 2: Thou Shalt Not Die → `樱花大战/樱花大战2_WIKI.md`
-- [ ] **樱花大战3** — Sakura Wars 3: Is Paris Burning? → `樱花大战/樱花大战3_WIKI.md`
-- [ ] **樱花大战4** — Sakura Wars 4: Fall in Love → `樱花大战/樱花大战4_WIKI.md`
+## 樱花大战（4/4）
+- [x] **樱花大战** — Sakura Wars → `樱花大战/樱花大战_WIKI.md`
+- [x] **樱花大战2** — Sakura Wars 2: Thou Shalt Not Die → `樱花大战/樱花大战2_WIKI.md`
+- [x] **樱花大战3** — Sakura Wars 3: Is Paris Burning? → `樱花大战/樱花大战3_WIKI.md`
+- [x] **樱花大战4** — Sakura Wars 4: Fall in Love → `樱花大战/樱花大战4_WIKI.md`
 
 ## 正当防卫（0/3）
 - [ ] **正当防卫2** — Just Cause 2 → `正当防卫/正当防卫2_WIKI.md`
