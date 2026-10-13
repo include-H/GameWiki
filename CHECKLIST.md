@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**180 部**
-- 待写：72 = 本代理 **72** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
+- 已入库：**192 部**
+- 待写：60 = 本代理 **60** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -275,25 +275,25 @@
 - [x] **樱花大战3** — Sakura Wars 3: Is Paris Burning? → `樱花大战/樱花大战3_WIKI.md`
 - [x] **樱花大战4** — Sakura Wars 4: Fall in Love → `樱花大战/樱花大战4_WIKI.md`
 
-## 正当防卫（0/3）
-- [ ] **正当防卫2** — Just Cause 2 → `正当防卫/正当防卫2_WIKI.md`
-- [ ] **正当防卫3** — Just Cause 3 → `正当防卫/正当防卫3_WIKI.md`
-- [ ] **正当防卫4** — Just Cause 4 → `正当防卫/正当防卫4_WIKI.md`
+## 正当防卫（3/3）
+- [x] **正当防卫2** — Just Cause 2 → `正当防卫/正当防卫2_WIKI.md`
+- [x] **正当防卫3** — Just Cause 3 → `正当防卫/正当防卫3_WIKI.md`
+- [x] **正当防卫4** — Just Cause 4 → `正当防卫/正当防卫4_WIKI.md`
 
-## 死或生（0/3）
-- [ ] **死或生5** — Dead or Alive 5 → `死或生/死或生5_WIKI.md`
-- [ ] **死或生：维纳斯璀璨假期** — Venus Vacation PRISM - DEAD OR ALIVE Xtreme - → `死或生/死或生：维纳斯璀璨假期_WIKI.md`
-- [ ] **死或生 6** — Dead or Alive 6 → `死或生/死或生 6_WIKI.md`
+## 死或生（3/3）
+- [x] **死或生5** — Dead or Alive 5 → `死或生/死或生5_WIKI.md`
+- [x] **死或生：维纳斯璀璨假期** — Venus Vacation PRISM - DEAD OR ALIVE Xtreme - → `死或生/死或生：维纳斯璀璨假期_WIKI.md`
+- [x] **死或生 6** — Dead or Alive 6 → `死或生/死或生 6_WIKI.md`
 
-## 求生之路（0/1）
-- [ ] **求生之路2** — Left 4 Dead 2 → `求生之路/求生之路2_WIKI.md`
+## 求生之路（1/1）
+- [x] **求生之路2** — Left 4 Dead 2 → `求生之路/求生之路2_WIKI.md`
 
-## 汤姆·克兰西（0/6）
-- [ ] **细胞分裂** — Tom Clancy's Splinter Cell → `汤姆·克兰西/细胞分裂_WIKI.md`
-- [ ] **细胞分裂3：混沌理论** — Tom Clancy's Splinter Cell: Chaos Theory → `汤姆·克兰西/细胞分裂3：混沌理论_WIKI.md`
-- [ ] **细胞分裂4：双重间谍** — Tom Clancy's Splinter Cell: Double Agent → `汤姆·克兰西/细胞分裂4：双重间谍_WIKI.md`
-- [ ] **细胞分裂5：断罪** — Tom Clancy's Splinter Cell: Conviction → `汤姆·克兰西/细胞分裂5：断罪_WIKI.md`
-- [ ] **细胞分裂6：黑名单** — Tom Clancy's Splinter Cell: Blacklist → `汤姆·克兰西/细胞分裂6：黑名单_WIKI.md`
+## 汤姆·克兰西（5/6）
+- [x] **细胞分裂** — Tom Clancy's Splinter Cell → `汤姆·克兰西/细胞分裂_WIKI.md`
+- [x] **细胞分裂3：混沌理论** — Tom Clancy's Splinter Cell: Chaos Theory → `汤姆·克兰西/细胞分裂3：混沌理论_WIKI.md`
+- [x] **细胞分裂4：双重间谍** — Tom Clancy's Splinter Cell: Double Agent → `汤姆·克兰西/细胞分裂4：双重间谍_WIKI.md`
+- [x] **细胞分裂5：断罪** — Tom Clancy's Splinter Cell: Conviction → `汤姆·克兰西/细胞分裂5：断罪_WIKI.md`
+- [x] **细胞分裂6：黑名单** — Tom Clancy's Splinter Cell: Blacklist → `汤姆·克兰西/细胞分裂6：黑名单_WIKI.md`
 - [ ] **细胞分裂2：明日潘多拉** — Tom Clancy's Splinter Cell: Pandora Tomorrow → `汤姆·克兰西/细胞分裂2：明日潘多拉_WIKI.md`
 
 ## 泰坦陨落（0/1）
