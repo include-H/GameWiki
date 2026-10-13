@@ -2,16 +2,12 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**76 部**（本文件 `[x]`）
-- 待写：176 部 = 本代理待写 **161** + 另一代理负责 **15**（光环/刺客信条/半条命/双人合作）
+- 已入库：**99 部**
+- 待写：153 = 本代理 **149** + 另一代理 **4**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
-- 结构：`<游戏IP>/<单作>_WIKI.md`；`index.json` 为 `public_id → file` 映射。
-- 规范：`/root/WikiAltas/skills`；执行说明：`WRITING-BRIEF.md`；派单模板：`DISPATCH.md`。
-- 素材：联网从头重写；GameAtlas 年份多为再发行年，首发以检索为准。
-- 回推：`PUT /api/games/{public_id}/wiki`（覆盖写，推生产前须二次确认）。
-
-## 清单（按 IP）
+- 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
+- 执行说明 `WRITING-BRIEF.md`；派单模板 `DISPATCH.md`；自检 `scripts/qa.py`。
 
 ## 上古卷轴（2/2）
 - [x] **上古卷轴5：天际** — The Elder Scrolls V: Skyrim → `上古卷轴/上古卷轴5：天际_WIKI.md`
@@ -85,28 +81,28 @@
 - [x] **僵尸部队：三部曲** — Zombie Army Trilogy → `僵尸部队/僵尸部队：三部曲_WIKI.md`
 - [x] **僵尸部队4** — Zombie Army 4: Dead War → `僵尸部队/僵尸部队4_WIKI.md`
 
-## 光环（0/1）（另一代理）
-- [ ] **光环：士官长合集** — Halo: The Master Chief Collection → `光环/光环：士官长合集_WIKI.md`
+## 光环（1/1）（另一代理）
+- [x] **光环：士官长合集** — Halo: The Master Chief Collection → `光环/光环：士官长合集_WIKI.md`
 
-## 刺客信条（0/7）（另一代理）
+## 刺客信条（5/7）（另一代理）
 - [ ] **刺客信条：艾吉奥合集** → `刺客信条/刺客信条：艾吉奥合集_WIKI.md`
 - [ ] **刺客信条：黑旗** — Assassin’s Creed IV: Black Flag → `刺客信条/刺客信条：黑旗_WIKI.md`
-- [ ] **刺客信条：大革命** — Assassin's Creed Unity → `刺客信条/刺客信条：大革命_WIKI.md`
-- [ ] **刺客信条：自由呐喊** — Assassin's Creed Freedom Cry → `刺客信条/刺客信条：自由呐喊_WIKI.md`
-- [ ] **刺客信条：叛变** — Assassin’s Creed Rogue → `刺客信条/刺客信条：叛变_WIKI.md`
-- [ ] **刺客信条：枭雄** — Assassin’s Creed Syndicate → `刺客信条/刺客信条：枭雄_WIKI.md`
-- [ ] **刺客信条 III** — Assassin’s Creed III → `刺客信条/刺客信条 III_WIKI.md`
+- [x] **刺客信条：大革命** — Assassin's Creed Unity → `刺客信条/刺客信条：大革命_WIKI.md`
+- [x] **刺客信条：自由呐喊** — Assassin's Creed Freedom Cry → `刺客信条/刺客信条：自由呐喊_WIKI.md`
+- [x] **刺客信条：叛变** — Assassin’s Creed Rogue → `刺客信条/刺客信条：叛变_WIKI.md`
+- [x] **刺客信条：枭雄** — Assassin’s Creed Syndicate → `刺客信条/刺客信条：枭雄_WIKI.md`
+- [x] **刺客信条 III** — Assassin’s Creed III → `刺客信条/刺客信条 III_WIKI.md`
 
-## 半条命（0/4）（另一代理）
-- [ ] **半条命** — Half-Life → `半条命/半条命_WIKI.md`
+## 半条命（3/4）（另一代理）
+- [x] **半条命** — Half-Life → `半条命/半条命_WIKI.md`
 - [ ] **反恐精英** — Counter-Strike → `半条命/反恐精英_WIKI.md`
-- [ ] **半条命2** — Half-Life 2 → `半条命/半条命2_WIKI.md`
-- [ ] **黑山：起源** — Black Mesa → `半条命/黑山：起源_WIKI.md`
+- [x] **半条命2** — Half-Life 2 → `半条命/半条命2_WIKI.md`
+- [x] **黑山：起源** — Black Mesa → `半条命/黑山：起源_WIKI.md`
 
-## 双人合作（0/3）（另一代理）
-- [ ] **逃出生天** — A Way Out → `双人合作/逃出生天_WIKI.md`
+## 双人合作（2/3）（另一代理）
+- [x] **逃出生天** — A Way Out → `双人合作/逃出生天_WIKI.md`
 - [ ] **双人成行** — It Takes Two → `双人合作/双人成行_WIKI.md`
-- [ ] **双影奇境** — Split Fiction → `双人合作/双影奇境_WIKI.md`
+- [x] **双影奇境** — Split Fiction → `双人合作/双影奇境_WIKI.md`
 
 ## 古墓丽影（8/8）
 - [x] **古墓丽影：传奇** — Tomb Raider: Legend → `古墓丽影/古墓丽影：传奇_WIKI.md`
@@ -118,33 +114,33 @@
 - [x] **古墓丽影1-3复刻版** — Tomb Raider I-III Remastered Starring Lara Croft → `古墓丽影/古墓丽影1-3复刻版_WIKI.md`
 - [x] **古墓丽影4-6复刻版** — Tomb Raider IV-VI Remastered → `古墓丽影/古墓丽影4-6复刻版_WIKI.md`
 
-## 合金装备（0/3）
-- [ ] **合金装备崛起：复仇** — Metal Gear Rising: Revengeance → `合金装备/合金装备崛起：复仇_WIKI.md`
-- [ ] **合金装备5：幻痛/原爆点** — Metal Gear Solid V: Ground Zeroes → `合金装备/合金装备5：幻痛_原爆点_WIKI.md`
-- [ ] **潜龙谍影 Δ：食蛇者** — Metal Gear Solid 3: Snake Eater → `合金装备/潜龙谍影 Δ：食蛇者_WIKI.md`
+## 合金装备（3/3）
+- [x] **合金装备崛起：复仇** — Metal Gear Rising: Revengeance → `合金装备/合金装备崛起：复仇_WIKI.md`
+- [x] **合金装备5：幻痛/原爆点** — Metal Gear Solid V: Ground Zeroes → `合金装备/合金装备5：幻痛_原爆点_WIKI.md`
+- [x] **潜龙谍影 Δ：食蛇者** — Metal Gear Solid 3: Snake Eater → `合金装备/潜龙谍影 Δ：食蛇者_WIKI.md`
 
-## 命令与征服（0/2）
-- [ ] **命令与征服：红色警戒3** — Command & Conquer: Red Alert 3 → `命令与征服/命令与征服：红色警戒3_WIKI.md`
-- [ ] **命令与征服：红色警戒** — Command & Conquer: Red Alert 2 → `命令与征服/命令与征服：红色警戒_WIKI.md`
+## 命令与征服（2/2）
+- [x] **命令与征服：红色警戒3** — Command & Conquer: Red Alert 3 → `命令与征服/命令与征服：红色警戒3_WIKI.md`
+- [x] **命令与征服：红色警戒** — Command & Conquer: Red Alert 2 → `命令与征服/命令与征服：红色警戒_WIKI.md`
 
-## 地平线（0/2）
-- [ ] **地平线：零之曙光** — Horizon Zero Dawn → `地平线/地平线：零之曙光_WIKI.md`
-- [ ] **地平线：西之绝境** — Horizon Forbidden West → `地平线/地平线：西之绝境_WIKI.md`
+## 地平线（2/2）
+- [x] **地平线：零之曙光** — Horizon Zero Dawn → `地平线/地平线：零之曙光_WIKI.md`
+- [x] **地平线：西之绝境** — Horizon Forbidden West → `地平线/地平线：西之绝境_WIKI.md`
 
-## 地铁（0/3）
-- [ ] **地铁：2033** — Metro 2033 → `地铁/地铁：2033_WIKI.md`
-- [ ] **地铁：最后的曙光** — Metro: Last Light → `地铁/地铁：最后的曙光_WIKI.md`
-- [ ] **地铁：逃离** — Metro Exodus → `地铁/地铁：逃离_WIKI.md`
+## 地铁（3/3）
+- [x] **地铁：2033** — Metro 2033 → `地铁/地铁：2033_WIKI.md`
+- [x] **地铁：最后的曙光** — Metro: Last Light → `地铁/地铁：最后的曙光_WIKI.md`
+- [x] **地铁：逃离** — Metro Exodus → `地铁/地铁：逃离_WIKI.md`
 
-## 大富翁（0/1）
-- [ ] **大富翁** — Richman → `大富翁/大富翁_WIKI.md`
+## 大富翁（1/1）
+- [x] **大富翁** — Richman → `大富翁/大富翁_WIKI.md`
 
 ## 天国：拯救（2/2）
 - [x] **天国：拯救** — Kingdom Come: Deliverance → `天国：拯救/天国：拯救_WIKI.md`
 - [x] **天国：拯救 II** — Kingdom Come: Deliverance II → `天国：拯救/天国：拯救 II_WIKI.md`
 
-## 奇异人生（0/5）
-- [ ] **奇异人生：风暴前夕** — Life is Strange: Before the Storm → `奇异人生/奇异人生：风暴前夕_WIKI.md`
+## 奇异人生（1/5）
+- [x] **奇异人生：风暴前夕** — Life is Strange: Before the Storm → `奇异人生/奇异人生：风暴前夕_WIKI.md`
 - [ ] **奇异人生2** — Life is Strange 2 → `奇异人生/奇异人生2_WIKI.md`
 - [ ] **奇异人生** — Life is Strange → `奇异人生/奇异人生_WIKI.md`
 - [ ] **奇异人生：双重曝光** — Life is Strange: Double Exposure → `奇异人生/奇异人生：双重曝光_WIKI.md`
