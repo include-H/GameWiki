@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**239 部**
-- 待写：13 = 本代理 **13** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
+- 已入库：**252 部**
+- 待写：0 = 本代理 **0** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -377,10 +377,10 @@
 - [x] **荣誉勋章** — Medal of Honor → `荣誉勋章/荣誉勋章_WIKI.md`
 - [x] **荣誉勋章：战士** — Medal of Honor: Warfighter → `荣誉勋章/荣誉勋章：战士_WIKI.md`
 
-## 莱莎的炼金工房（2/3）
+## 莱莎的炼金工房（3/3）
 - [x] **莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX** — Atelier Ryza：Ever Darkness&the Secret Hideout with Bonus → `莱莎的炼金工房/莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX_WIKI.md`
 - [x] **莱莎的炼金工房２ ～失落传说与秘密妖精～ DX** — Atelier Ryza 2: Lost Legends & the Secret Fairy DX → `莱莎的炼金工房/莱莎的炼金工房２ ～失落传说与秘密妖精～ DX_WIKI.md`
-- [ ] **莱莎的炼金工房３ ～终结之炼金术士与秘密钥匙～ DX** — Atelier Ryza 3 → `莱莎的炼金工房/莱莎的炼金工房３ ～终结之炼金术士与秘密钥匙～ DX_WIKI.md`
+- [x] **莱莎的炼金工房３ ～终结之炼金术士与秘密钥匙～ DX** — Atelier Ryza 3 → `莱莎的炼金工房/莱莎的炼金工房３ ～终结之炼金术士与秘密钥匙～ DX_WIKI.md`
 
 ## 虐杀原形（2/2）
 - [x] **虐杀原形** — Prototype → `虐杀原形/虐杀原形_WIKI.md`
@@ -397,28 +397,28 @@
 ## 行尸走肉（1/1）
 - [x] **行尸走肉：决定版** — The Walking Dead: The Telltale Definitive Series → `行尸走肉/行尸走肉：决定版_WIKI.md`
 
-## 超凡双生（0/1）
-- [ ] **超凡：双生** — BEYOND:Two Souls → `超凡双生/超凡：双生_WIKI.md`
+## 超凡双生（1/1）
+- [x] **超凡：双生** — BEYOND:Two Souls → `超凡双生/超凡：双生_WIKI.md`
 
-## 辐射（0/1）
-- [ ] **辐射4** — Fallout 4 → `辐射/辐射4_WIKI.md`
+## 辐射（1/1）
+- [x] **辐射4** — Fallout 4 → `辐射/辐射4_WIKI.md`
 
-## 量子破碎（0/1）
-- [ ] **量子破碎** — Quantum Break → `量子破碎/量子破碎_WIKI.md`
+## 量子破碎（1/1）
+- [x] **量子破碎** — Quantum Break → `量子破碎/量子破碎_WIKI.md`
 
-## 铁拳（0/3）
-- [ ] **铁拳6** — Tekken 6 → `铁拳/铁拳6_WIKI.md`
-- [ ] **铁拳7** — Tekken 7 → `铁拳/铁拳7_WIKI.md`
-- [ ] **铁拳8** — Tekken 8 → `铁拳/铁拳8_WIKI.md`
+## 铁拳（3/3）
+- [x] **铁拳6** — Tekken 6 → `铁拳/铁拳6_WIKI.md`
+- [x] **铁拳7** — Tekken 7 → `铁拳/铁拳7_WIKI.md`
+- [x] **铁拳8** — Tekken 8 → `铁拳/铁拳8_WIKI.md`
 
-## 镜之边缘（0/2）
-- [ ] **镜之边缘** — Mirror's Edge → `镜之边缘/镜之边缘_WIKI.md`
-- [ ] **镜之边缘：催化剂** — Mirror's Edge Catalyst → `镜之边缘/镜之边缘：催化剂_WIKI.md`
+## 镜之边缘（2/2）
+- [x] **镜之边缘** — Mirror's Edge → `镜之边缘/镜之边缘_WIKI.md`
+- [x] **镜之边缘：催化剂** — Mirror's Edge Catalyst → `镜之边缘/镜之边缘：催化剂_WIKI.md`
 
-## 飙酷车神（0/1）
-- [ ] **飙酷车神2** — The Crew 2 → `飙酷车神/飙酷车神2_WIKI.md`
+## 飙酷车神（1/1）
+- [x] **飙酷车神2** — The Crew 2 → `飙酷车神/飙酷车神2_WIKI.md`
 
-## 黑手党（0/3）
-- [ ] **黑手党** — Mafia → `黑手党/黑手党_WIKI.md`
-- [ ] **黑手党2** — Mafia II → `黑手党/黑手党2_WIKI.md`
-- [ ] **黑手党3** — Mafia III → `黑手党/黑手党3_WIKI.md`
+## 黑手党（3/3）
+- [x] **黑手党** — Mafia → `黑手党/黑手党_WIKI.md`
+- [x] **黑手党2** — Mafia II → `黑手党/黑手党2_WIKI.md`
+- [x] **黑手党3** — Mafia III → `黑手党/黑手党3_WIKI.md`
