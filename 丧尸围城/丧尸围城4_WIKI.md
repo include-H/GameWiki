@@ -3,10 +3,9 @@
 > 说明：本文为《丧尸围城4》（Dead Rising 4，2016）的载体条目，整理范围为卡普空温哥华工作室（Capcom Vancouver）开发、微软工作室（Microsoft Studios）于 2016 年 12 月发行的 Xbox One／Windows 10 版本体（单人剧情与线上四人合作多人模式），以及随后推出的 Steam 版、PS4《弗兰克的大礼包》（Frank's Big Package）、季票与各 DLC（含剧情 DLC《弗兰克的复苏》Frank Rising）。同 IP 的初代、2 代、3 代、《绝密档案》及改编影视不是本文对象，只在「版本与 DLC 关系」处留接口。主要依据英文维基百科（经 everything.explained.today 镜像）、Metacritic、DBpedia、Steam 与 Microsoft 官方商店页、卡普空财报「白金作品」列表，以及 IGN、GameSpot、Game Informer、GamesRadar+、Destructoid、Eurogamer 等专业媒体的评测报道。检索时间为 2026 年 10 月。全文包含从序幕到结局、以及《弗兰克的复苏》全部分支结局的完整剧透。
 
 :::epigraph
-十二月的威拉米特，雪落在「威拉米特纪念巨型商城」的霓虹招牌上。
-黑色星期五的打折条幅还垂在玻璃穹顶下，广播一遍遍放着圣诞颂歌。
-弗兰克把相机挂在胸前，推开一扇被撞碎的卷帘门；
-取景框里，抢购的人潮换成了一眼望不到头、缓慢移动的尸群。
+Keep your eye on the prize!
+盯紧你的目标！
+——弗兰克·韦斯特（Frank West）《丧尸围城4》结局
 :::
 
 ---
@@ -242,7 +241,7 @@ Metacritic 汇总显示，Xbox One 版 72 分（基于 86 家媒体），PC 版 
 
 ## 8. 名台词与名场面
 
-> 说明：弗兰克与维克的逐字台词未能回溯到可引用的原作文本，故本章只列名场面，不引台词。
+> 说明：题记取弗兰克·韦斯特的一句台词，此处不再重复；其余只列名场面。
 
 - **名场面·直升机坠毁**：弗兰克与布拉德乘直升机抵达威拉米特上空，被导弹击中，迫降在巨型商城中央，本作开场由此展开。
 - **名场面·考尔德登场**：奥布库里斯押运的卡车驶过，留下弗兰克独自面对其下级军官，变异体「考尔德」的轮廓首次进入视野。
@@ -276,6 +275,7 @@ Metacritic 汇总显示，Xbox One 版 72 分（基于 86 家媒体），PC 版 
 - [Resident Evil 7 sales top 3.5m worldwide — Eurogamer](https://www.eurogamer.net/articles/2017-04-27-resident-evil-7-sales-top-3-5m-worldwide)（2017 年 4 月销量未达百万与 200 万目标，经由维基百科引用）
 - [Capcom 白金作品列表（Platinum Titles）](https://www.capcom.co.jp/ir/english/business/million.html)（截至 2024 年 9 月 30 日的销量统计，检索于 2026 年 10 月）
 - [Dead Rising 4: Frank's Big Package Coming to PS4 December 5 — PlayStation Blog](https://blog.us.playstation.com/2017/09/01/dead-rising-4-franks-big-package-coming-to-ps4-december-5/)（PS4 版发售与内容，经由维基百科引用）
+- [Dead Rising 4 — TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DeadRising4)（题记「Keep your eye on the prize!」的说话者，检索于 2026 年 10 月）
 
 ### 本条目存疑与未核实项
 

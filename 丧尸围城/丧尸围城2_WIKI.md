@@ -1,9 +1,11 @@
 # 丧尸围城2（游戏）Wiki
 
-> 说明：本文为《丧尸围城 2》（Dead Rising 2，2010）的载体条目，整理范围为 Blue Castle Games 开发、Capcom 发行的本作本体，以及与本体直接相关的三个后续产品——前传下载章节《Case Zero》、后传下载章节《Case West》、非正史重构作《Off the Record》——后三者只在「版本与 DLC 关系」中交代，不展开完整剧情。主要依据英文与日文维基百科（经镜像与 DBpedia 存取）、Capcom 投资者关系页（Platinum Titles、Game Series Sales）、Metacritic、Steam 商店页，以及 IGN、GameSpot、Eurogamer、Game Informer 等媒体被引用的评测数据；题记与名场面按本作流程与检索到的剧情材料整理。全文包含从开场到真结局以及《Case West》的完整剧透。检索时间为 2026 年 10 月，部分来源因直接访问受限而以镜像或结构化数据库形式读取，已在「参考资料」中注明。
+> 说明：本文为《丧尸围城 2》（Dead Rising 2，2010）的载体条目，整理范围为 Blue Castle Games 开发、Capcom 发行的本作本体，以及与本体直接相关的三个后续产品——前传下载章节《Case Zero》、后传下载章节《Case West》、非正史重构作《Off the Record》——后三者只在「版本与 DLC 关系」中交代，不展开完整剧情。主要依据英文与日文维基百科（经镜像与 DBpedia 存取）、Capcom 投资者关系页（Platinum Titles、Game Series Sales）、Metacritic、Steam 商店页，以及 IGN、GameSpot、Eurogamer、Game Informer 等媒体被引用的评测数据；题记引自查克·格林的一句台词，名场面按本作流程整理（出处见参考资料）。全文包含从开场到真结局以及《Case West》的完整剧透。检索时间为 2026 年 10 月，部分来源因直接访问受限而以镜像或结构化数据库形式读取，已在「参考资料」中注明。
 
 :::epigraph
-铁笼的闸门升起，几百具丧尸同时抬头，看台的探照灯把它们的影子压进赌场外墙的霓虹。记分牌跳向下一个数字，主持人对着麦克风把欢呼声放大了一圈。扩音器里混进了一声不属于节目的闷响。看台上没有人回头。
+I know my way around a zombie or two.
+对付一两只丧尸，我还是有数的。
+——查克·格林（Chuck Greene）《丧尸围城2》
 :::
 
 ---
@@ -243,7 +245,7 @@ Capcom 在 2011 年 2 月宣布本作全球销量突破 220 万份。在 Capcom 
 
 ## 8. 名台词与名场面
 
-> 说明：本次检索未能把本作的逐字台词回溯到可复核的文本（原始语言台词集未能取得），故本章只列名场面，不引原文。
+> 说明：题记取查克·格林的一句台词，此处不再重复；其余只列名场面。
 
 - **名场面·演播厅失控**：查克在《恐怖即现实》后台遇上丧尸涌出，牵起凯蒂逃往避难所，把整座城的日常娱乐当场翻面。
 - **名场面·三日的约定**：查克向苏利文承诺在被军方接走前保证凯蒂的用药，凯蒂才被放行进入避难所。
@@ -275,6 +277,8 @@ Capcom 在 2011 年 2 月宣布本作全球销量突破 220 万份。在 Capcom 
 - [Dead Rising 2 — Metacritic](https://www.metacritic.com/game/dead-rising-2/)（各平台评分与用户评分，检索于 2026 年 10 月）
 - [Platinum Titles — Capcom 投资者关系](https://www.capcom.co.jp/ir/english/finance/million.html)（本作与衍生产品累计销量，截至 2026 年 6 月 30 日，检索于 2026 年 10 月）
 - [Dead Rising 2 — Steam 商店页](https://store.steampowered.com/app/45740/Dead_Rising_2/)（PC 版发售日、组合武器示例、多人内容与 PC 追加包，检索于 2026 年 10 月）
+- [Chuck Greene — Dead Rising Wiki（Fandom）](https://deadrising.fandom.com/wiki/Chuck_Greene)（题记「I know my way around a zombie or two.」的说话者与对象，检索于 2026 年 10 月）
+- [Dead Rising 2 — TV Tropes Quotes](https://tvtropes.org/pmwiki/pmwiki.php/Quotes/DeadRising2)（本作台词汇总，检索于 2026 年 10 月）
 
 ### 本条目存疑与未核实项
 
