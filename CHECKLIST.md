@@ -85,7 +85,7 @@
 - [x] **光环：士官长合集** — Halo: The Master Chief Collection → `光环/光环：士官长合集_WIKI.md`
 
 ## 刺客信条（6/7）（另一代理）
-- [ ] **刺客信条：艾吉奥合集** → `刺客信条/刺客信条：艾吉奥合集_WIKI.md`
+- [x] **刺客信条：艾吉奥合集** → `刺客信条/刺客信条：艾吉奥合集_WIKI.md`
 - [x] **刺客信条：黑旗** — Assassin’s Creed IV: Black Flag → `刺客信条/刺客信条：黑旗_WIKI.md`
 - [x] **刺客信条：大革命** — Assassin's Creed Unity → `刺客信条/刺客信条：大革命_WIKI.md`
 - [x] **刺客信条：自由呐喊** — Assassin's Creed Freedom Cry → `刺客信条/刺客信条：自由呐喊_WIKI.md`
@@ -159,28 +159,28 @@
 - [x] **孤岛惊魂6** — Far Cry 6 → `孤岛惊魂/孤岛惊魂6_WIKI.md`
 
 ## 对马岛之魂（0/1）
-- [ ] **对马岛之魂** — Ghost of Tsushima → `对马岛之魂/对马岛之魂_WIKI.md`
+- [x] **对马岛之魂** — Ghost of Tsushima → `对马岛之魂/对马岛之魂_WIKI.md`
 
 ## 尼尔（0/2）
 - [ ] **尼尔：机械纪元** — NieR:Automata → `尼尔/尼尔：机械纪元_WIKI.md`
-- [ ] **尼尔：人工生命(Ver1.22474487139)** — NieR Replicant ver.1.22474487139... → `尼尔/尼尔：人工生命(Ver1.22474487139)_WIKI.md`
+- [x] **尼尔：人工生命(Ver1.22474487139)** — NieR Replicant ver.1.22474487139... → `尼尔/尼尔：人工生命(Ver1.22474487139)_WIKI.md`
 
 ## 巫师（0/3）
-- [ ] **巫师** — The Witcher → `巫师/巫师_WIKI.md`
-- [ ] **巫师 2：国王刺客** — The Witcher 2: Assassins of Kings → `巫师/巫师 2：国王刺客_WIKI.md`
-- [ ] **巫师 3：狂猎** — The Witcher 3: Wild Hunt → `巫师/巫师 3：狂猎_WIKI.md`
+- [x] **巫师** — The Witcher → `巫师/巫师_WIKI.md`
+- [x] **巫师 2：国王刺客** — The Witcher 2: Assassins of Kings → `巫师/巫师 2：国王刺客_WIKI.md`
+- [x] **巫师 3：狂猎** — The Witcher 3: Wild Hunt → `巫师/巫师 3：狂猎_WIKI.md`
 
 ## 帝国时代（0/4）
-- [ ] **帝国时代2：决定版** — Age of Empires II: Definitive Edition → `帝国时代/帝国时代2：决定版_WIKI.md`
-- [ ] **帝国时代：决定版** — Age of Empires: Definitive Edition → `帝国时代/帝国时代：决定版_WIKI.md`
-- [ ] **帝国时代3：决定版** — Age of Empires III → `帝国时代/帝国时代3：决定版_WIKI.md`
-- [ ] **帝国时代4** — Age of Empires IV → `帝国时代/帝国时代4_WIKI.md`
+- [x] **帝国时代2：决定版** — Age of Empires II: Definitive Edition → `帝国时代/帝国时代2：决定版_WIKI.md`
+- [x] **帝国时代：决定版** — Age of Empires: Definitive Edition → `帝国时代/帝国时代：决定版_WIKI.md`
+- [x] **帝国时代3：决定版** — Age of Empires III → `帝国时代/帝国时代3：决定版_WIKI.md`
+- [x] **帝国时代4** — Age of Empires IV → `帝国时代/帝国时代4_WIKI.md`
 
 ## 底特律（0/1）
-- [ ] **底特律：化身为人** — Detroit: Become Human → `底特律/底特律：化身为人_WIKI.md`
+- [x] **底特律：化身为人** — Detroit: Become Human → `底特律/底特律：化身为人_WIKI.md`
 
 ## 往日不再（0/1）
-- [ ] **往日不在** — Days Gone → `往日不再/往日不在_WIKI.md`
+- [x] **往日不在** — Days Gone → `往日不再/往日不在_WIKI.md`
 
 ## 德军总部（0/4）
 - [ ] **重返德军总部** — Return to Castle Wolfenstein → `德军总部/重返德军总部_WIKI.md`

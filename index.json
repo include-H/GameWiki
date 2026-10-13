@@ -580,7 +580,7 @@
   "ga_year": "2019",
   "release_date": "2019-12-03",
   "file": "光环/光环：士官长合集_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "38d40cc6-92fe-4397-bcba-374d4fa37ac4",
@@ -591,7 +591,7 @@
   "ga_year": "2010",
   "release_date": "2010-03-04",
   "file": "刺客信条/刺客信条：艾吉奥合集_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "63317972-f522-46c8-873f-e5c2fbd74bb2",
@@ -602,7 +602,7 @@
   "ga_year": "2013",
   "release_date": "2013-10-29",
   "file": "刺客信条/刺客信条：黑旗_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "8f971034-335e-49f9-a2e2-205473c664f4",
@@ -613,7 +613,7 @@
   "ga_year": "2014",
   "release_date": "2014-11-12",
   "file": "刺客信条/刺客信条：大革命_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "e9975bc1-0588-4f72-b3bb-ceb2ab7588fb",
@@ -624,7 +624,7 @@
   "ga_year": "2014",
   "release_date": "2014-02-25",
   "file": "刺客信条/刺客信条：自由呐喊_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "fe4f12cf-3790-4f81-b29b-66900cdffcb6",
@@ -635,7 +635,7 @@
   "ga_year": "2015",
   "release_date": "2015-03-23",
   "file": "刺客信条/刺客信条：叛变_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "34577453-e77d-4b36-b37d-4216b4ca3176",
@@ -646,7 +646,7 @@
   "ga_year": "2015",
   "release_date": "2015-11-18",
   "file": "刺客信条/刺客信条：枭雄_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "19c45f1d-d33f-475f-b533-3240fe674ece",
@@ -657,7 +657,7 @@
   "ga_year": "2019",
   "release_date": "2019-03-29",
   "file": "刺客信条/刺客信条 III_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "615d45e5-a53d-4d07-9868-ba8837b94ac4",
@@ -668,7 +668,7 @@
   "ga_year": "1998",
   "release_date": "1998-11-19",
   "file": "半条命/半条命_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "0693bcf5-d8a0-4ecb-b183-20f4091b1f1b",
@@ -679,7 +679,7 @@
   "ga_year": "2000",
   "release_date": "2000-11-01",
   "file": "半条命/反恐精英_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "6b4406a8-54d3-4c5e-b463-66278df4b824",
@@ -690,7 +690,7 @@
   "ga_year": "2004",
   "release_date": "2004-11-16",
   "file": "半条命/半条命2_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "257f3941-368c-45fe-bee9-b2d5b6ff65f0",
@@ -701,7 +701,7 @@
   "ga_year": "2020",
   "release_date": "2020-03-06",
   "file": "半条命/黑山：起源_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "75815f4b-ed52-4c32-9441-00dfd6e18f6d",
@@ -712,7 +712,7 @@
   "ga_year": "2020",
   "release_date": "2020-06-18",
   "file": "双人合作/逃出生天_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "8beaf1e6-d8b5-45f7-86b3-8ba79aa0962c",
@@ -723,7 +723,7 @@
   "ga_year": "2021",
   "release_date": "2021-03-25",
   "file": "双人合作/双人成行_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "fc7e12e6-6b2b-4f3f-9abb-fcd75288b3ab",
@@ -734,7 +734,7 @@
   "ga_year": "2025",
   "release_date": "2025-03-06",
   "file": "双人合作/双影奇境_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "ad1c9fce-dce2-40b2-a2d1-6b9a77cdccf3",
@@ -833,7 +833,7 @@
   "ga_year": "2013",
   "release_date": "2013-02-21",
   "file": "合金装备/合金装备崛起：复仇_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "10820541-d599-413d-a499-a2438c0ba7e2",
@@ -844,7 +844,7 @@
   "ga_year": "2014",
   "release_date": "2014-12-18",
   "file": "合金装备/合金装备5：幻痛_原爆点_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "1107e0aa-1d67-41cc-9c89-08fdb578cd61",
@@ -855,7 +855,7 @@
   "ga_year": "2023",
   "release_date": "2023-10-24",
   "file": "合金装备/潜龙谍影 Δ：食蛇者_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "4c2fa4cb-4c3b-42bf-8f48-a98586c46cb1",
@@ -866,7 +866,7 @@
   "ga_year": "2009",
   "release_date": "2009-01-08",
   "file": "命令与征服/命令与征服：红色警戒3_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "5c6d743f-30a0-4930-974c-d47d2a8368f8",
@@ -877,7 +877,7 @@
   "ga_year": "2024",
   "release_date": "2024-03-07",
   "file": "命令与征服/命令与征服：红色警戒_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "1eeeb4a0-178b-4ab3-8697-53c8fe28d921",
@@ -888,7 +888,7 @@
   "ga_year": "2020",
   "release_date": "2020-08-07",
   "file": "地平线/地平线：零之曙光_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "b33c4ece-4b37-44e4-a249-1a9ba9d3ccfa",
@@ -899,7 +899,7 @@
   "ga_year": "2024",
   "release_date": "2024-03-21",
   "file": "地平线/地平线：西之绝境_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "f8c0ef30-be0b-436a-8a7e-8ae1099d4552",
@@ -910,7 +910,7 @@
   "ga_year": "2014",
   "release_date": "2014-08-27",
   "file": "地铁/地铁：2033_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "10e82140-92ee-4155-9aac-f363e3abd583",
@@ -921,7 +921,7 @@
   "ga_year": "2014",
   "release_date": "2014-08-27",
   "file": "地铁/地铁：最后的曙光_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "6fcb503f-d0a4-4edb-89dd-34640779cc1f",
@@ -932,7 +932,7 @@
   "ga_year": "2020",
   "release_date": "2020-02-14",
   "file": "地铁/地铁：逃离_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "03468eba-f564-4330-acee-d22240dec312",
@@ -943,7 +943,7 @@
   "ga_year": "2023",
   "release_date": "2023-03-15",
   "file": "大富翁/大富翁_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "9f512cb6-4d15-4f6e-a37e-221d3bf15c94",
@@ -976,7 +976,7 @@
   "ga_year": "2017",
   "release_date": "2017-08-31",
   "file": "奇异人生/奇异人生：风暴前夕_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "7815f848-1b38-4596-857b-e34402415ce1",
@@ -987,7 +987,7 @@
   "ga_year": "2018",
   "release_date": "2018-09-26",
   "file": "奇异人生/奇异人生2_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "96ce4d18-c564-43ee-9c09-2f65122a7d3c",
@@ -998,7 +998,7 @@
   "ga_year": "2022",
   "release_date": "2022-02-01",
   "file": "奇异人生/奇异人生_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "355398e7-2cfa-43e9-b5a3-d274792532c9",
@@ -1009,7 +1009,7 @@
   "ga_year": "2024",
   "release_date": "2024-10-29",
   "file": "奇异人生/奇异人生：双重曝光_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "1ff3251b-f270-4d03-9856-1b3611c42a3a",
@@ -1020,7 +1020,7 @@
   "ga_year": "2026",
   "release_date": "2026-03-26",
   "file": "奇异人生/奇异人生：重聚_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "420f67df-7e88-489a-b0b4-95e87f5f2cce",
@@ -1031,7 +1031,7 @@
   "ga_year": "2021",
   "release_date": "2021-09-17",
   "file": "孤岛危机/孤岛危机_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "b5bb9080-7afd-4237-847a-c5dabfa577ab",
@@ -1042,7 +1042,7 @@
   "ga_year": "2022",
   "release_date": "2022-11-17",
   "file": "孤岛危机/孤岛危机2_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "44f52949-5d5a-42fc-9626-7832b9eff3b0",
@@ -1053,7 +1053,7 @@
   "ga_year": "2022",
   "release_date": "2022-11-17",
   "file": "孤岛危机/孤岛危机3_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "e2ad8971-f89f-4754-af74-5a1cd6a81c5b",
@@ -1064,7 +1064,7 @@
   "ga_year": "2012",
   "release_date": "2012-11-28",
   "file": "孤岛惊魂/孤岛惊魂3_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "86d9e869-fb0b-4e13-bbb2-8c8f97090f0d",
@@ -1075,7 +1075,7 @@
   "ga_year": "2014",
   "release_date": "2014-11-17",
   "file": "孤岛惊魂/孤岛惊魂4_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "0a05b4c9-7511-4063-8fec-90d3a95ae106",
@@ -1086,7 +1086,7 @@
   "ga_year": "2016",
   "release_date": "2016-02-29",
   "file": "孤岛惊魂/孤岛惊魂：原始杀戮_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "9680f9b2-a0a0-4504-9515-febdc338eab3",
@@ -1097,7 +1097,7 @@
   "ga_year": "2018",
   "release_date": "2018-03-26",
   "file": "孤岛惊魂/孤岛惊魂5_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "3802966c-07b4-47a8-a3ab-329d30836f4d",
@@ -1108,7 +1108,7 @@
   "ga_year": "2023",
   "release_date": "2023-05-11",
   "file": "孤岛惊魂/孤岛惊魂6_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "93b97ac2-198a-4de6-a8b5-cb4d4e78c2a1",
@@ -1119,7 +1119,7 @@
   "ga_year": "2024",
   "release_date": "2024-05-16",
   "file": "对马岛之魂/对马岛之魂_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "08ae39f9-0630-4bbf-bd46-fb0d2bed4985",
@@ -1141,7 +1141,7 @@
   "ga_year": "2021",
   "release_date": "2021-04-23",
   "file": "尼尔/尼尔：人工生命(Ver1.22474487139)_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "7e73d78a-489d-494f-8987-cb3ffb5ecb77",
@@ -1152,7 +1152,7 @@
   "ga_year": "2008",
   "release_date": "2008-09-16",
   "file": "巫师/巫师_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "e70536e6-8695-4faf-968f-8f647ff47657",
@@ -1163,7 +1163,7 @@
   "ga_year": "2012",
   "release_date": "2012-04-16",
   "file": "巫师/巫师 2：国王刺客_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "e77f1075-c28b-4d90-990b-5759692183f5",
@@ -1174,7 +1174,7 @@
   "ga_year": "2015",
   "release_date": "2015-05-18",
   "file": "巫师/巫师 3：狂猎_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "a3646674-d2e6-41ba-bfa4-29df41b79cd5",
@@ -1185,7 +1185,7 @@
   "ga_year": "2019",
   "release_date": "2019-11-14",
   "file": "帝国时代/帝国时代2：决定版_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "b7983c60-dc62-4e92-8dee-ed1063b6af34",
@@ -1196,7 +1196,7 @@
   "ga_year": "2019",
   "release_date": "2019-08-19",
   "file": "帝国时代/帝国时代：决定版_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "fad1ac4e-731e-4a2d-a720-fa9073e27f8f",
@@ -1207,7 +1207,7 @@
   "ga_year": "2020",
   "release_date": "2020-10-15",
   "file": "帝国时代/帝国时代3：决定版_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "008c726a-8f76-41ce-8bb6-7985158895c5",
@@ -1218,7 +1218,7 @@
   "ga_year": "2021",
   "release_date": "2021-10-28",
   "file": "帝国时代/帝国时代4_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "ced45249-443e-4558-a2f0-2228b55384e8",
@@ -1229,7 +1229,7 @@
   "ga_year": "2020",
   "release_date": "2020-06-18",
   "file": "底特律/底特律：化身为人_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "35321123-dd95-4b8f-bba2-339284016690",
@@ -1240,7 +1240,7 @@
   "ga_year": "2021",
   "release_date": "2021-05-17",
   "file": "往日不再/往日不在_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "7a1b1f10-28b2-414c-954b-b73aefeb3dbb",
