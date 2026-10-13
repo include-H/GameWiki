@@ -105,14 +105,14 @@
 - [ ] **双影奇境** — Split Fiction → `双人合作/双影奇境_WIKI.md`
 
 ## 古墓丽影（8）
-- [ ] **古墓丽影：传奇** — Tomb Raider: Legend → `古墓丽影/古墓丽影：传奇_WIKI.md`
-- [ ] **古墓丽影：十周年纪念版** — Tomb Raider: Anniversary → `古墓丽影/古墓丽影：十周年纪念版_WIKI.md`
-- [ ] **古墓丽影：地下世界** — Tomb Raider: Underworld → `古墓丽影/古墓丽影：地下世界_WIKI.md`
-- [ ] **古墓丽影** — Tomb Raider → `古墓丽影/古墓丽影_WIKI.md`
-- [ ] **古墓丽影：崛起** — Rise of the Tomb Raider → `古墓丽影/古墓丽影：崛起_WIKI.md`
-- [ ] **古墓丽影：暗影** — Shadow of the Tomb Raider → `古墓丽影/古墓丽影：暗影_WIKI.md`
-- [ ] **古墓丽影1-3复刻版** — Tomb Raider I-III Remastered Starring Lara Croft → `古墓丽影/古墓丽影1-3复刻版_WIKI.md`
-- [ ] **古墓丽影4-6复刻版** — Tomb Raider IV-VI Remastered → `古墓丽影/古墓丽影4-6复刻版_WIKI.md`
+- [x] **古墓丽影：传奇** — Tomb Raider: Legend → `古墓丽影/古墓丽影：传奇_WIKI.md`
+- [x] **古墓丽影：十周年纪念版** — Tomb Raider: Anniversary → `古墓丽影/古墓丽影：十周年纪念版_WIKI.md`
+- [x] **古墓丽影：地下世界** — Tomb Raider: Underworld → `古墓丽影/古墓丽影：地下世界_WIKI.md`
+- [x] **古墓丽影** — Tomb Raider → `古墓丽影/古墓丽影_WIKI.md`
+- [x] **古墓丽影：崛起** — Rise of the Tomb Raider → `古墓丽影/古墓丽影：崛起_WIKI.md`
+- [x] **古墓丽影：暗影** — Shadow of the Tomb Raider → `古墓丽影/古墓丽影：暗影_WIKI.md`
+- [x] **古墓丽影1-3复刻版** — Tomb Raider I-III Remastered Starring Lara Croft → `古墓丽影/古墓丽影1-3复刻版_WIKI.md`
+- [x] **古墓丽影4-6复刻版** — Tomb Raider IV-VI Remastered → `古墓丽影/古墓丽影4-6复刻版_WIKI.md`
 
 ## 合金装备（3）
 - [ ] **合金装备崛起：复仇** — Metal Gear Rising: Revengeance → `合金装备/合金装备崛起：复仇_WIKI.md`
@@ -136,8 +136,8 @@
 - [ ] **大富翁** — Richman → `大富翁/大富翁_WIKI.md`
 
 ## 天国：拯救（2）
-- [ ] **天国：拯救** — Kingdom Come: Deliverance → `天国：拯救/天国：拯救_WIKI.md`
-- [ ] **天国：拯救 II** — Kingdom Come: Deliverance II → `天国：拯救/天国：拯救 II_WIKI.md`
+- [x] **天国：拯救** — Kingdom Come: Deliverance → `天国：拯救/天国：拯救_WIKI.md`
+- [x] **天国：拯救 II** — Kingdom Come: Deliverance II → `天国：拯救/天国：拯救 II_WIKI.md`
 
 ## 奇异人生（5）
 - [ ] **奇异人生：风暴前夕** — Life is Strange: Before the Storm → `奇异人生/奇异人生：风暴前夕_WIKI.md`
@@ -322,20 +322,20 @@
 - [ ] **狙击精英4** — Sniper Elite 4 → `狙击精英/狙击精英4_WIKI.md`
 
 ## 生化危机（14）
-- [ ] **生化危机0** — Resident Evil 0 → `生化危机/生化危机0_WIKI.md`
+- [x] **生化危机0** — Resident Evil 0 → `生化危机/生化危机0_WIKI.md`
 - [x] **生化危机5** — Resident Evil 5 → `生化危机/生化危机5_WIKI.md`
-- [ ] **生化危机：浣熊市行动** — Resident Evil: Operation Raccoon City → `生化危机/生化危机：浣熊市行动_WIKI.md`
+- [x] **生化危机：浣熊市行动** — Resident Evil: Operation Raccoon City → `生化危机/生化危机：浣熊市行动_WIKI.md`
 - [x] **生化危机6** — Resident Evil 6 → `生化危机/生化危机6_WIKI.md`
 - [x] **生化危机：启示录** — Resident Evil: Revelations → `生化危机/生化危机：启示录_WIKI.md`
 - [x] **生化危机1** — Resident Evil → `生化危机/生化危机1_WIKI.md`
-- [ ] **生化危机：启示录2** — Resident Evil Revelations 2 → `生化危机/生化危机：启示录2_WIKI.md`
-- [ ] **生化危机：保护伞小队** — Umbrella Corps → `生化危机/生化危机：保护伞小队_WIKI.md`
+- [x] **生化危机：启示录2** — Resident Evil Revelations 2 → `生化危机/生化危机：启示录2_WIKI.md`
+- [x] **生化危机：保护伞小队** — Umbrella Corps → `生化危机/生化危机：保护伞小队_WIKI.md`
 - [x] **生化危机7** — Resident Evil 7: Biohazard → `生化危机/生化危机7_WIKI.md`
 - [x] **生化危机2：重制版** — Resident Evil 2 → `生化危机/生化危机2：重制版_WIKI.md`
 - [x] **生化危机3：重制版** — Resident Evil 3 → `生化危机/生化危机3：重制版_WIKI.md`
 - [x] **生化危机：村庄** — Resident Evil Village → `生化危机/生化危机：村庄_WIKI.md`
 - [x] **生化危机4：重置版** — Resident Evil 4 → `生化危机/生化危机4：重置版_WIKI.md`
-- [ ] **生化危机：安魂曲** — Resident Evil Requiem → `生化危机/生化危机：安魂曲_WIKI.md`
+- [x] **生化危机：安魂曲** — Resident Evil Requiem → `生化危机/生化危机：安魂曲_WIKI.md`
 
 ## 看门狗（2）
 - [ ] **看门狗** — Watch Dogs → `看门狗/看门狗_WIKI.md`

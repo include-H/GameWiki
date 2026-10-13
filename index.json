@@ -745,7 +745,7 @@
   "ga_year": "2007",
   "release_date": "2007-03-29",
   "file": "古墓丽影/古墓丽影：传奇_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "afc9432e-b396-49b0-9f57-121877e6bbec",
@@ -756,7 +756,7 @@
   "ga_year": "2007",
   "release_date": "2007-06-05",
   "file": "古墓丽影/古墓丽影：十周年纪念版_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "b249bb05-74f5-4afe-9d5c-bb69108e3040",
@@ -767,7 +767,7 @@
   "ga_year": "2008",
   "release_date": "2008-11-21",
   "file": "古墓丽影/古墓丽影：地下世界_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "d7e9406c-8030-420d-a4d6-7f73c9d09371",
@@ -778,7 +778,7 @@
   "ga_year": "2013",
   "release_date": "2013-03-04",
   "file": "古墓丽影/古墓丽影_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "d61adb3f-caae-4197-b9b6-62b863e9f41c",
@@ -789,7 +789,7 @@
   "ga_year": "2016",
   "release_date": "2016-02-09",
   "file": "古墓丽影/古墓丽影：崛起_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "e8befac1-a805-4f29-bbc4-d1c628e41783",
@@ -800,7 +800,7 @@
   "ga_year": "2018",
   "release_date": "2018-09-14",
   "file": "古墓丽影/古墓丽影：暗影_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "ab5291dd-40f4-49ae-ba64-7a692dbd97fd",
@@ -811,7 +811,7 @@
   "ga_year": "2024",
   "release_date": "2024-02-13",
   "file": "古墓丽影/古墓丽影1-3复刻版_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "20ce16bc-c657-4206-ab98-f2818b81c3c5",
@@ -822,7 +822,7 @@
   "ga_year": "2025",
   "release_date": "2025-02-14",
   "file": "古墓丽影/古墓丽影4-6复刻版_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "8dcf925d-beee-44d4-8db7-1092496bc9a1",
@@ -954,7 +954,7 @@
   "ga_year": "2018",
   "release_date": "2018-02-13",
   "file": "天国：拯救/天国：拯救_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "bb489362-1f4b-4a50-b538-f7e173cfb7fb",
@@ -965,7 +965,7 @@
   "ga_year": "2025",
   "release_date": "2025-02-04",
   "file": "天国：拯救/天国：拯救 II_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "606d6d06-2910-4e20-ab5a-ec2a0484547d",
@@ -2120,7 +2120,7 @@
   "ga_year": "2002",
   "release_date": "2002-11-12",
   "file": "生化危机/生化危机0_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "4221ffc6-6e86-4055-9639-a71c71f41d23",
@@ -2142,7 +2142,7 @@
   "ga_year": "2012",
   "release_date": "2012-03-20",
   "file": "生化危机/生化危机：浣熊市行动_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "4c6c80d6-8643-4bfc-9095-9415370815b0",
@@ -2186,7 +2186,7 @@
   "ga_year": "2015",
   "release_date": "2015-02-24",
   "file": "生化危机/生化危机：启示录2_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "6e445235-af95-420b-8b17-296e9e755327",
@@ -2197,7 +2197,7 @@
   "ga_year": "2016",
   "release_date": "2016-06-22",
   "file": "生化危机/生化危机：保护伞小队_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "252cf788-604d-41b1-9f18-f39619143a28",
@@ -2263,7 +2263,7 @@
   "ga_year": "2026",
   "release_date": "2026-02-26",
   "file": "生化危机/生化危机：安魂曲_WIKI.md",
-  "has_content": false
+  "has_content": true
  },
  {
   "public_id": "43b72fff-b005-438f-999b-a05b477f6bd5",

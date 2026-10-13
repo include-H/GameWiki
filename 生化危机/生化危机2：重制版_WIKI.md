@@ -1,12 +1,11 @@
 # 生化危机2：重制版（游戏）Wiki
 
-> 说明：本文为《生化危机2：重制版》（Resident Evil 2，日文名 バイオハザード RE:2，2019）的载体条目，整理范围为卡普空（Capcom）开发并发行、2019 年 1 月 25 日登陆 PlayStation 4、Windows、Xbox One 的本作本体，及其本体的追加内容与各平台移植版本。1998 年原版《生化危机2》是另一部独立作品，只在「版本与 DLC 关系」中简述其与本作的差异，本文不写原版内容，也不展开《生化危机3：重制版》《生化危机4：重制版》等同系列其它重制作品。主要依据卡普空官方公告与官网、英文与中文维基百科、Metacritic、OpenCritic，以及 IGN、GameSpot、Polygon、Eurogamer、《Game Informer》、Fami通等专业媒体的评测与报道；检索时间为 2026 年 10 月。全文包含从加油站初遇至列车结局的完整剧透。
+> 说明：本文为《生化危机2：重制版》（Resident Evil 2，日文名 バイオハザード RE:2，2019）的载体条目，整理范围为卡普空（Capcom）开发并发行、2019 年 1 月 25 日登陆 PlayStation 4、Windows、Xbox One 的本作本体，及其本体的追加内容与各平台移植版本。1998 年原版《生化危机2》是另一部独立作品，只在「版本与 DLC 关系」中简述其与本作的差异，本文不写原版内容，也不展开《生化危机3：重制版》《生化危机4：重制版》等同系列其它重制作品。主要依据卡普空官方公告与官网、英文与中文维基百科、Metacritic、OpenCritic，以及 IGN、GameSpot、Polygon、Eurogamer、《Game Informer》、Fami通等专业媒体的评测与报道；题记与第 8 章名台词的中英对照出自 Resident Evil Wiki 收录的 Leon / Claire 台词页与 Dawnborn 的全流程对白转录。检索时间为 2026 年 10 月。全文包含从加油站初遇至列车结局的完整剧透。
 
 :::epigraph
-九月的浣熊市落着雨。城外加油站的霓虹忽明忽暗，柜台上留着半杯没喝完的咖啡。
-警局的卷帘门半开着，大厅的欢迎横幅还挂着，打字机里的色带剩下最后一卷。
-一个提着机车头盔的女孩从侧门进来，一个制服还没发下来的新人推开正门。
-门内的脚步声正一层层朝他们聚拢。
+Uh… Is this a fucking joke?
+呃……这特么的是在开玩笑？
+——里昂·肯尼迪（Leon S. Kennedy），《生化危机2：重制版》NEST·脱出（暴君挡门时）
 :::
 
 ---
@@ -221,7 +220,14 @@ Metacritic 三平台汇总为「普遍好评」：Xbox One 版 93/100、PlayStat
 
 ## 8. 名台词与名场面
 
-> 说明：本篇未检索到能回溯到原作文本、并带明确出处的逐字台词，故不引台词，只列可指认的名场面。
+### 名台词
+
+- 「Uh… Is this a fucking joke?」——呃……这特么的是在开玩笑？（里昂·肯尼迪，NEST·脱出，暴君挡门时；另见题记）
+- 「Why can't you just die!?」——你为什么就不能去死！？（克莱尔·雷德菲尔德，NEST·G-柏金最终战；同上）
+
+> 题记与「名台词」的中英对照出自 Resident Evil Wiki 收录的 Leon / Claire 台词页、Dawnborn 的《生化危机2：重制版》全流程对白转录，并参照 TV Tropes 名句页；中文译文为民间译本，未逐字回溯到官方中文字幕。
+
+### 名场面
 
 - **名场面·加油站的初遇**：市郊便利店里，里昂与克莱尔第一次相遇，随即被涌出的丧尸围困；两人驾车逃入城中。（序章）
 - **名场面·马文的秘密通道**：被咬伤的副队长马文·布拉纳强撑着向主角指明一楼雕像下的通道，自己留在警局。（警察局）
@@ -253,6 +259,10 @@ Metacritic 三平台汇总为「普遍好评」：Xbox One 版 93/100、PlayStat
 - [After 15 Years, Resident Evil 5 Has Finally Been Dethroned as The Series' Best-Selling Game — IGN](https://www.ign.com/articles/after-15-years-resident-evil-5-has-finally-been-dethroned-as-the-series-best-selling-game)（2026 年 7 月成为系列销量第一，检索于 2026 年 10 月）
 - [Golden Joystick awards: Resident Evil 2 awarded 'ultimate game' title — BBC](https://www.bbc.com/news/newsbeat-50438161)（金摇杆奖，检索于 2026 年 10 月）
 - [Every winner from this year's Golden Joystick Awards — GamesRadar+](https://www.gamesradar.com/Golden-Joystick-awards-2019-winners/)（最佳音效与终极年度游戏，检索于 2026 年 10 月）
+- [Leon Scott Kennedy/quotes — Resident Evil Wiki](https://residentevil.fandom.com/wiki/Leon_Scott_Kennedy/quotes)（Leon「Is this a fucking joke?」等台词，题记与名台词出处；检索于 2026 年 10 月）
+- [Claire Redfield/quotes — Resident Evil Wiki](https://residentevil.fandom.com/wiki/Claire_Redfield/quotes)（Claire「Why can't you just die!?」等台词，名台词出处；检索于 2026 年 10 月）
+- [Resident Evil 2 Remake — The NEST（Leon 1st）全流程对白转录 — Dawnborn](https://www.dawnborn.com/game-transcripts/resident-evil-2-remake-game-transcript-all-dialogues/the-nest-leon-1st/)（Leon 台词逐字核对；检索于 2026 年 10 月）
+- [Resident Evil 2 Remake — NEST Lab（Claire 2nd）全流程对白转录 — Dawnborn](https://www.dawnborn.com/game-transcripts/resident-evil-2-remake-game-transcript-all-dialogues/nest-lab-claire-2nd/)（Claire 台词逐字核对；检索于 2026 年 10 月）
 
 ### 本条目存疑与未核实项
 
