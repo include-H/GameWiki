@@ -14,21 +14,21 @@
 - [x] **上古卷轴4：湮灭** — The Elder Scrolls IV: Oblivion → `上古卷轴/上古卷轴4：湮灭_WIKI.md`
 
 ## 丧尸围城（5）
-- [ ] **丧尸围城2** — Dead Rising 2 → `丧尸围城/丧尸围城2_WIKI.md`
-- [ ] **丧尸围城 2：绝密档案** — Dead Rising 2: Off the Record → `丧尸围城/丧尸围城 2：绝密档案_WIKI.md`
-- [ ] **丧尸围城3** — Dead Rising 3 → `丧尸围城/丧尸围城3_WIKI.md`
-- [ ] **丧尸围城** — Dead Rising → `丧尸围城/丧尸围城_WIKI.md`
-- [ ] **丧尸围城4** — Dead Rising 4 → `丧尸围城/丧尸围城4_WIKI.md`
+- [x] **丧尸围城2** — Dead Rising 2 → `丧尸围城/丧尸围城2_WIKI.md`
+- [x] **丧尸围城 2：绝密档案** — Dead Rising 2: Off the Record → `丧尸围城/丧尸围城 2：绝密档案_WIKI.md`
+- [x] **丧尸围城3** — Dead Rising 3 → `丧尸围城/丧尸围城3_WIKI.md`
+- [x] **丧尸围城** — Dead Rising → `丧尸围城/丧尸围城_WIKI.md`
+- [x] **丧尸围城4** — Dead Rising 4 → `丧尸围城/丧尸围城4_WIKI.md`
 
 ## 人中之龙（8）
-- [ ] **人中之龙7 光与暗的去向** — Yakuza: Like a Dragon → `人中之龙/人中之龙7 光与暗的去向_WIKI.md`
-- [ ] **人中之龙3** — Yakuza 3 → `人中之龙/人中之龙3_WIKI.md`
-- [ ] **人中之龙4 继承传说者** — Yakuza 4 → `人中之龙/人中之龙4 继承传说者_WIKI.md`
-- [ ] **人中之龙5 圆梦者** — Yakuza 5 → `人中之龙/人中之龙5 圆梦者_WIKI.md`
-- [ ] **人中之龙6 生命诗歌** — Yakuza 6: The Song of Life → `人中之龙/人中之龙6 生命诗歌_WIKI.md`
-- [ ] **人中之龙 极** — Yakuza Kiwami → `人中之龙/人中之龙 极_WIKI.md`
-- [ ] **人中之龙 极2** — Yakuza Kiwami 2 → `人中之龙/人中之龙 极2_WIKI.md`
-- [ ] **人中之龙０ 誓约的场所** — Yakuza 0 → `人中之龙/人中之龙０ 誓约的场所_WIKI.md`
+- [x] **人中之龙7 光与暗的去向** — Yakuza: Like a Dragon → `人中之龙/人中之龙7 光与暗的去向_WIKI.md`
+- [x] **人中之龙3** — Yakuza 3 → `人中之龙/人中之龙3_WIKI.md`
+- [x] **人中之龙4 继承传说者** — Yakuza 4 → `人中之龙/人中之龙4 继承传说者_WIKI.md`
+- [x] **人中之龙5 圆梦者** — Yakuza 5 → `人中之龙/人中之龙5 圆梦者_WIKI.md`
+- [x] **人中之龙6 生命诗歌** — Yakuza 6: The Song of Life → `人中之龙/人中之龙6 生命诗歌_WIKI.md`
+- [x] **人中之龙 极** — Yakuza Kiwami → `人中之龙/人中之龙 极_WIKI.md`
+- [x] **人中之龙 极2** — Yakuza Kiwami 2 → `人中之龙/人中之龙 极2_WIKI.md`
+- [x] **人中之龙０ 誓约的场所** — Yakuza 0 → `人中之龙/人中之龙０ 誓约的场所_WIKI.md`
 
 ## 仙剑奇侠传（8）
 - [x] **仙剑奇侠传5** — The Legend of Sword and Fairy 5 → `仙剑奇侠传/仙剑奇侠传5_WIKI.md`
