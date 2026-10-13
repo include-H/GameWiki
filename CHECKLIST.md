@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**228 部**
-- 待写：24 = 本代理 **24** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
+- 已入库：**239 部**
+- 待写：13 = 本代理 **13** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -377,25 +377,25 @@
 - [x] **荣誉勋章** — Medal of Honor → `荣誉勋章/荣誉勋章_WIKI.md`
 - [x] **荣誉勋章：战士** — Medal of Honor: Warfighter → `荣誉勋章/荣誉勋章：战士_WIKI.md`
 
-## 莱莎的炼金工房（0/3）
-- [ ] **莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX** — Atelier Ryza：Ever Darkness&the Secret Hideout with Bonus → `莱莎的炼金工房/莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX_WIKI.md`
-- [ ] **莱莎的炼金工房２ ～失落传说与秘密妖精～ DX** — Atelier Ryza 2: Lost Legends & the Secret Fairy DX → `莱莎的炼金工房/莱莎的炼金工房２ ～失落传说与秘密妖精～ DX_WIKI.md`
+## 莱莎的炼金工房（2/3）
+- [x] **莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX** — Atelier Ryza：Ever Darkness&the Secret Hideout with Bonus → `莱莎的炼金工房/莱莎的炼金工房 ～常暗女王与秘密藏身处～ DX_WIKI.md`
+- [x] **莱莎的炼金工房２ ～失落传说与秘密妖精～ DX** — Atelier Ryza 2: Lost Legends & the Secret Fairy DX → `莱莎的炼金工房/莱莎的炼金工房２ ～失落传说与秘密妖精～ DX_WIKI.md`
 - [ ] **莱莎的炼金工房３ ～终结之炼金术士与秘密钥匙～ DX** — Atelier Ryza 3 → `莱莎的炼金工房/莱莎的炼金工房３ ～终结之炼金术士与秘密钥匙～ DX_WIKI.md`
 
-## 虐杀原形（0/2）
-- [ ] **虐杀原形** — Prototype → `虐杀原形/虐杀原形_WIKI.md`
-- [ ] **虐杀原形2** — Prototype 2 → `虐杀原形/虐杀原形2_WIKI.md`
+## 虐杀原形（2/2）
+- [x] **虐杀原形** — Prototype → `虐杀原形/虐杀原形_WIKI.md`
+- [x] **虐杀原形2** — Prototype 2 → `虐杀原形/虐杀原形2_WIKI.md`
 
-## 蝙蝠侠（0/6）
-- [ ] **蝙蝠侠：阿卡姆疯人院** — Batman: Arkham Asylum → `蝙蝠侠/蝙蝠侠：阿卡姆疯人院_WIKI.md`
-- [ ] **蝙蝠侠：阿卡姆之城** — Batman: Arkham City → `蝙蝠侠/蝙蝠侠：阿卡姆之城_WIKI.md`
-- [ ] **蝙蝠侠：阿甘起源** — Batman: Arkham Origins → `蝙蝠侠/蝙蝠侠：阿甘起源_WIKI.md`
-- [ ] **蝙蝠侠：阿卡姆骑士** — Batman: Arkham Knight → `蝙蝠侠/蝙蝠侠：阿卡姆骑士_WIKI.md`
-- [ ] **蝙蝠侠：故事版** — Batman: The Telltale Series → `蝙蝠侠/蝙蝠侠：故事版_WIKI.md`
-- [ ] **蝙蝠侠：内敌** — Batman: The Enemy Within → `蝙蝠侠/蝙蝠侠：内敌_WIKI.md`
+## 蝙蝠侠（6/6）
+- [x] **蝙蝠侠：阿卡姆疯人院** — Batman: Arkham Asylum → `蝙蝠侠/蝙蝠侠：阿卡姆疯人院_WIKI.md`
+- [x] **蝙蝠侠：阿卡姆之城** — Batman: Arkham City → `蝙蝠侠/蝙蝠侠：阿卡姆之城_WIKI.md`
+- [x] **蝙蝠侠：阿甘起源** — Batman: Arkham Origins → `蝙蝠侠/蝙蝠侠：阿甘起源_WIKI.md`
+- [x] **蝙蝠侠：阿卡姆骑士** — Batman: Arkham Knight → `蝙蝠侠/蝙蝠侠：阿卡姆骑士_WIKI.md`
+- [x] **蝙蝠侠：故事版** — Batman: The Telltale Series → `蝙蝠侠/蝙蝠侠：故事版_WIKI.md`
+- [x] **蝙蝠侠：内敌** — Batman: The Enemy Within → `蝙蝠侠/蝙蝠侠：内敌_WIKI.md`
 
-## 行尸走肉（0/1）
-- [ ] **行尸走肉：决定版** — The Walking Dead: The Telltale Definitive Series → `行尸走肉/行尸走肉：决定版_WIKI.md`
+## 行尸走肉（1/1）
+- [x] **行尸走肉：决定版** — The Walking Dead: The Telltale Definitive Series → `行尸走肉/行尸走肉：决定版_WIKI.md`
 
 ## 超凡双生（0/1）
 - [ ] **超凡：双生** — BEYOND:Two Souls → `超凡双生/超凡：双生_WIKI.md`
