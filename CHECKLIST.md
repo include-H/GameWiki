@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**139 部**
-- 待写：113 = 本代理 **113** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
+- 已入库：**151 部**
+- 待写：101 = 本代理 **101** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -198,37 +198,37 @@
 - [x] **我的世界：故事模式** — Minecraft: Story Mode → `我的世界：故事模式/我的世界：故事模式_WIKI.md`
 - [x] **我的世界：故事模式 第二季** — Minecraft: Story Mode Season 2 → `我的世界：故事模式/我的世界：故事模式 第二季_WIKI.md`
 
-## 战地（4/6）
+## 战地（6/6）
 - [x] **战地：叛逆连队2** — Battlefield: Bad Company 2 → `战地/战地：叛逆连队2_WIKI.md`
 - [x] **战地3** — Battlefield 3 → `战地/战地3_WIKI.md`
 - [x] **战地4** — Battlefield 4 → `战地/战地4_WIKI.md`
 - [x] **战地：硬仗** — Battlefield Hardline → `战地/战地：硬仗_WIKI.md`
-- [ ] **战地1942** — Battlefield 1942 → `战地/战地1942_WIKI.md`
-- [ ] **战地6** — Battlefield 6 → `战地/战地6_WIKI.md`
+- [x] **战地1942** — Battlefield 1942 → `战地/战地1942_WIKI.md`
+- [x] **战地6** — Battlefield 6 → `战地/战地6_WIKI.md`
 
-## 战神（0/2）
-- [ ] **战神4** — God of War (2018) → `战神/战神4_WIKI.md`
-- [ ] **战神：诸神黄昏** — God of War Ragnarök → `战神/战神：诸神黄昏_WIKI.md`
+## 战神（2/2）
+- [x] **战神4** — God of War (2018) → `战神/战神4_WIKI.md`
+- [x] **战神：诸神黄昏** — God of War Ragnarök → `战神/战神：诸神黄昏_WIKI.md`
 
-## 抗日：血战上海滩（0/1）
-- [ ] **抗日：血战上海滩** → `抗日：血战上海滩/抗日：血战上海滩_WIKI.md`
+## 抗日：血战上海滩（1/1）
+- [x] **抗日：血战上海滩** → `抗日：血战上海滩/抗日：血战上海滩_WIKI.md`
 
-## 收获日（0/1）
-- [ ] **收获日2** — PAYDAY 2 → `收获日/收获日2_WIKI.md`
+## 收获日（1/1）
+- [x] **收获日2** — PAYDAY 2 → `收获日/收获日2_WIKI.md`
 
-## 敌后敢死队（0/2）
-- [ ] **敌后敢死队** — Deadly Dozen → `敌后敢死队/敌后敢死队_WIKI.md`
-- [ ] **敌后敢死队2：血战太平洋** — Deadly Dozen: Pacific Theater → `敌后敢死队/敌后敢死队2：血战太平洋_WIKI.md`
+## 敌后敢死队（2/2）
+- [x] **敌后敢死队** — Deadly Dozen → `敌后敢死队/敌后敢死队_WIKI.md`
+- [x] **敌后敢死队2：血战太平洋** — Deadly Dozen: Pacific Theater → `敌后敢死队/敌后敢死队2：血战太平洋_WIKI.md`
 
-## 文明（0/2）
-- [ ] **文明5** — Sid Meier's Civilization V → `文明/文明5_WIKI.md`
-- [ ] **文明6** — Sid Meier's Civilization VI → `文明/文明6_WIKI.md`
+## 文明（2/2）
+- [x] **文明5** — Sid Meier's Civilization V → `文明/文明5_WIKI.md`
+- [x] **文明6** — Sid Meier's Civilization VI → `文明/文明6_WIKI.md`
 
-## 暴力摩托（0/1）
-- [ ] **暴力摩托** — Road Rash → `暴力摩托/暴力摩托_WIKI.md`
+## 暴力摩托（1/1）
+- [x] **暴力摩托** — Road Rash → `暴力摩托/暴力摩托_WIKI.md`
 
-## 最后的生还者（0/2）
-- [ ] **最后的生还者：第一章** — The Last of Us Part I → `最后的生还者/最后的生还者：第一章_WIKI.md`
+## 最后的生还者（1/2）
+- [x] **最后的生还者：第一章** — The Last of Us Part I → `最后的生还者/最后的生还者：第一章_WIKI.md`
 - [ ] **最后的生还者：第二章** — The Last of Us Part II → `最后的生还者/最后的生还者：第二章_WIKI.md`
 
 ## 最终幻想（0/5）
