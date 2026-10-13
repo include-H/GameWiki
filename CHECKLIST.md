@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**151 部**
-- 待写：101 = 本代理 **101** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
+- 已入库：**156 部**
+- 待写：96 = 本代理 **96** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -227,24 +227,24 @@
 ## 暴力摩托（1/1）
 - [x] **暴力摩托** — Road Rash → `暴力摩托/暴力摩托_WIKI.md`
 
-## 最后的生还者（1/2）
+## 最后的生还者（2/2）
 - [x] **最后的生还者：第一章** — The Last of Us Part I → `最后的生还者/最后的生还者：第一章_WIKI.md`
-- [ ] **最后的生还者：第二章** — The Last of Us Part II → `最后的生还者/最后的生还者：第二章_WIKI.md`
+- [x] **最后的生还者：第二章** — The Last of Us Part II → `最后的生还者/最后的生还者：第二章_WIKI.md`
 
-## 最终幻想（0/5）
+## 最终幻想（2/5）
 - [ ] **最终幻想7 重置版** — Final Fantasy VII Remake → `最终幻想/最终幻想7 重置版_WIKI.md`
 - [ ] **最终幻想：核心危机 重聚** — Crisis Core: Final Fantasy VII Reunion → `最终幻想/最终幻想：核心危机 重聚_WIKI.md`
-- [ ] **最终幻想16** — Final Fantasy XVI → `最终幻想/最终幻想16_WIKI.md`
-- [ ] **最终幻想7 重生** — Final Fantasy VII Rebirth → `最终幻想/最终幻想7 重生_WIKI.md`
+- [x] **最终幻想16** — Final Fantasy XVI → `最终幻想/最终幻想16_WIKI.md`
+- [x] **最终幻想7 重生** — Final Fantasy VII Rebirth → `最终幻想/最终幻想7 重生_WIKI.md`
 - [ ] **最终幻想1-6复刻版** — Final Fantasy I-VI Pixel Remaster → `最终幻想/最终幻想1-6复刻版_WIKI.md`
 
-## 最终幻想：新水晶神话（0/2）
-- [ ] **最终幻想13** — Final Fantasy XIII → `最终幻想：新水晶神话/最终幻想13_WIKI.md`
+## 最终幻想：新水晶神话（1/2）
+- [x] **最终幻想13** — Final Fantasy XIII → `最终幻想：新水晶神话/最终幻想13_WIKI.md`
 - [ ] **最终幻想15** — Final Fantasy XV → `最终幻想：新水晶神话/最终幻想15_WIKI.md`
 
-## 杀手（0/3）
+## 杀手（1/3）
 - [ ] **杀手5：赦免** — Hitman: Absolution → `杀手/杀手5：赦免_WIKI.md`
-- [ ] **杀手：暗杀世界** — HITMAN World of Assassination → `杀手/杀手：暗杀世界_WIKI.md`
+- [x] **杀手：暗杀世界** — HITMAN World of Assassination → `杀手/杀手：暗杀世界_WIKI.md`
 - [ ] **007：初露锋芒** — 007 First Light → `杀手/007：初露锋芒_WIKI.md`
 
 ## 极品飞车（0/6）
