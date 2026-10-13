@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**192 部**
-- 待写：60 = 本代理 **60** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
+- 已入库：**204 部**
+- 待写：48 = 本代理 **48** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -288,34 +288,34 @@
 ## 求生之路（1/1）
 - [x] **求生之路2** — Left 4 Dead 2 → `求生之路/求生之路2_WIKI.md`
 
-## 汤姆·克兰西（5/6）
+## 汤姆·克兰西（6/6）
 - [x] **细胞分裂** — Tom Clancy's Splinter Cell → `汤姆·克兰西/细胞分裂_WIKI.md`
 - [x] **细胞分裂3：混沌理论** — Tom Clancy's Splinter Cell: Chaos Theory → `汤姆·克兰西/细胞分裂3：混沌理论_WIKI.md`
 - [x] **细胞分裂4：双重间谍** — Tom Clancy's Splinter Cell: Double Agent → `汤姆·克兰西/细胞分裂4：双重间谍_WIKI.md`
 - [x] **细胞分裂5：断罪** — Tom Clancy's Splinter Cell: Conviction → `汤姆·克兰西/细胞分裂5：断罪_WIKI.md`
 - [x] **细胞分裂6：黑名单** — Tom Clancy's Splinter Cell: Blacklist → `汤姆·克兰西/细胞分裂6：黑名单_WIKI.md`
-- [ ] **细胞分裂2：明日潘多拉** — Tom Clancy's Splinter Cell: Pandora Tomorrow → `汤姆·克兰西/细胞分裂2：明日潘多拉_WIKI.md`
+- [x] **细胞分裂2：明日潘多拉** — Tom Clancy's Splinter Cell: Pandora Tomorrow → `汤姆·克兰西/细胞分裂2：明日潘多拉_WIKI.md`
 
-## 泰坦陨落（0/1）
-- [ ] **泰坦陨落2** — Titanfall 2 → `泰坦陨落/泰坦陨落2_WIKI.md`
+## 泰坦陨落（1/1）
+- [x] **泰坦陨落2** — Titanfall 2 → `泰坦陨落/泰坦陨落2_WIKI.md`
 
-## 消逝的光芒（0/3）
-- [ ] **消逝的光芒** — Dying Light → `消逝的光芒/消逝的光芒_WIKI.md`
-- [ ] **消逝的光芒2** — Dying Light 2 → `消逝的光芒/消逝的光芒2_WIKI.md`
-- [ ] **消逝的光芒：困兽** — Dying Light: The Beast → `消逝的光芒/消逝的光芒：困兽_WIKI.md`
+## 消逝的光芒（3/3）
+- [x] **消逝的光芒** — Dying Light → `消逝的光芒/消逝的光芒_WIKI.md`
+- [x] **消逝的光芒2** — Dying Light 2 → `消逝的光芒/消逝的光芒2_WIKI.md`
+- [x] **消逝的光芒：困兽** — Dying Light: The Beast → `消逝的光芒/消逝的光芒：困兽_WIKI.md`
 
-## 漫威蜘蛛侠（0/3）
-- [ ] **漫威蜘蛛侠：莫拉莱斯** — Marvel's Spider-Man: Miles Morales → `漫威蜘蛛侠/漫威蜘蛛侠：莫拉莱斯_WIKI.md`
-- [ ] **漫威蜘蛛侠：重制版** — Marvel's Spider-Man → `漫威蜘蛛侠/漫威蜘蛛侠：重制版_WIKI.md`
-- [ ] **漫威蜘蛛侠2** — Marvel's Spider-Man 2 → `漫威蜘蛛侠/漫威蜘蛛侠2_WIKI.md`
+## 漫威蜘蛛侠（3/3）
+- [x] **漫威蜘蛛侠：莫拉莱斯** — Marvel's Spider-Man: Miles Morales → `漫威蜘蛛侠/漫威蜘蛛侠：莫拉莱斯_WIKI.md`
+- [x] **漫威蜘蛛侠：重制版** — Marvel's Spider-Man → `漫威蜘蛛侠/漫威蜘蛛侠：重制版_WIKI.md`
+- [x] **漫威蜘蛛侠2** — Marvel's Spider-Man 2 → `漫威蜘蛛侠/漫威蜘蛛侠2_WIKI.md`
 
-## 热血无赖（0/1）
-- [ ] **热血无赖** — Sleeping Dogs → `热血无赖/热血无赖_WIKI.md`
+## 热血无赖（1/1）
+- [x] **热血无赖** — Sleeping Dogs → `热血无赖/热血无赖_WIKI.md`
 
-## 狙击手（0/4）
-- [ ] **狙击手：幽灵战士2** — Sniper: Ghost Warrior 2 → `狙击手/狙击手：幽灵战士2_WIKI.md`
-- [ ] **狙击手：幽灵战士3** — Sniper Ghost Warrior 3 → `狙击手/狙击手：幽灵战士3_WIKI.md`
-- [ ] **狙击手：幽灵战士契约** — Sniper Ghost Warrior Contracts → `狙击手/狙击手：幽灵战士契约_WIKI.md`
+## 狙击手（3/4）
+- [x] **狙击手：幽灵战士2** — Sniper: Ghost Warrior 2 → `狙击手/狙击手：幽灵战士2_WIKI.md`
+- [x] **狙击手：幽灵战士3** — Sniper Ghost Warrior 3 → `狙击手/狙击手：幽灵战士3_WIKI.md`
+- [x] **狙击手：幽灵战士契约** — Sniper Ghost Warrior Contracts → `狙击手/狙击手：幽灵战士契约_WIKI.md`
 - [ ] **狙击手：幽灵战士契约 2** — Sniper Ghost Warrior Contracts 2 → `狙击手/狙击手：幽灵战士契约 2_WIKI.md`
 
 ## 狙击精英（0/1）
