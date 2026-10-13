@@ -2,8 +2,8 @@
 
 ## 进度总览
 - 全量：**252 部 · 81 个 IP**
-- 已入库：**204 部**
-- 待写：48 = 本代理 **48** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
+- 已入库：**216 部**
+- 待写：36 = 本代理 **36** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
@@ -312,14 +312,14 @@
 ## 热血无赖（1/1）
 - [x] **热血无赖** — Sleeping Dogs → `热血无赖/热血无赖_WIKI.md`
 
-## 狙击手（3/4）
+## 狙击手（4/4）
 - [x] **狙击手：幽灵战士2** — Sniper: Ghost Warrior 2 → `狙击手/狙击手：幽灵战士2_WIKI.md`
 - [x] **狙击手：幽灵战士3** — Sniper Ghost Warrior 3 → `狙击手/狙击手：幽灵战士3_WIKI.md`
 - [x] **狙击手：幽灵战士契约** — Sniper Ghost Warrior Contracts → `狙击手/狙击手：幽灵战士契约_WIKI.md`
-- [ ] **狙击手：幽灵战士契约 2** — Sniper Ghost Warrior Contracts 2 → `狙击手/狙击手：幽灵战士契约 2_WIKI.md`
+- [x] **狙击手：幽灵战士契约 2** — Sniper Ghost Warrior Contracts 2 → `狙击手/狙击手：幽灵战士契约 2_WIKI.md`
 
-## 狙击精英（0/1）
-- [ ] **狙击精英4** — Sniper Elite 4 → `狙击精英/狙击精英4_WIKI.md`
+## 狙击精英（1/1）
+- [x] **狙击精英4** — Sniper Elite 4 → `狙击精英/狙击精英4_WIKI.md`
 
 ## 生化危机（14/14）
 - [x] **生化危机0** — Resident Evil 0 → `生化危机/生化危机0_WIKI.md`
@@ -337,25 +337,25 @@
 - [x] **生化危机4：重置版** — Resident Evil 4 → `生化危机/生化危机4：重置版_WIKI.md`
 - [x] **生化危机：安魂曲** — Resident Evil Requiem → `生化危机/生化危机：安魂曲_WIKI.md`
 
-## 看门狗（0/2）
-- [ ] **看门狗** — Watch Dogs → `看门狗/看门狗_WIKI.md`
-- [ ] **看门狗2** — Watch Dogs 2 → `看门狗/看门狗2_WIKI.md`
+## 看门狗（2/2）
+- [x] **看门狗** — Watch Dogs → `看门狗/看门狗_WIKI.md`
+- [x] **看门狗2** — Watch Dogs 2 → `看门狗/看门狗2_WIKI.md`
 
-## 真三国无双（0/4）
-- [ ] **真三国无双7：With 猛将传** — Dynasty Warriors 8 → `真三国无双/真三国无双7：With 猛将传_WIKI.md`
-- [ ] **真三国无双6：With 猛将传** — Dynasty Warriors 7 → `真三国无双/真三国无双6：With 猛将传_WIKI.md`
-- [ ] **真三国无双8：帝国** — Dynasty Warriors 9 → `真三国无双/真三国无双8：帝国_WIKI.md`
-- [ ] **真三国无双：起源** — Dynasty Warriors: Origins → `真三国无双/真三国无双：起源_WIKI.md`
+## 真三国无双（4/4）
+- [x] **真三国无双7：With 猛将传** — Dynasty Warriors 8 → `真三国无双/真三国无双7：With 猛将传_WIKI.md`
+- [x] **真三国无双6：With 猛将传** — Dynasty Warriors 7 → `真三国无双/真三国无双6：With 猛将传_WIKI.md`
+- [x] **真三国无双8：帝国** — Dynasty Warriors 9 → `真三国无双/真三国无双8：帝国_WIKI.md`
+- [x] **真三国无双：起源** — Dynasty Warriors: Origins → `真三国无双/真三国无双：起源_WIKI.md`
 
-## 神秘海域（0/1）
-- [ ] **神秘海域：盗贼遗产合集** — UNCHARTED™: 盗贼传奇合辑 → `神秘海域/神秘海域：盗贼遗产合集_WIKI.md`
+## 神秘海域（1/1）
+- [x] **神秘海域：盗贼遗产合集** — UNCHARTED™: 盗贼传奇合辑 → `神秘海域/神秘海域：盗贼遗产合集_WIKI.md`
 
-## 空之轨迹（0/2）
-- [ ] **空之轨迹 THE 1ST** — The Legend of Heroes:Trails in the Sky the 1st → `空之轨迹/空之轨迹 THE 1ST_WIKI.md`
-- [ ] **空之轨迹 THE 2nd** — The Legend of Heroes: Trails in the Sky the 2nd → `空之轨迹/空之轨迹 THE 2nd_WIKI.md`
+## 空之轨迹（2/2）
+- [x] **空之轨迹 THE 1ST** — The Legend of Heroes:Trails in the Sky the 1st → `空之轨迹/空之轨迹 THE 1ST_WIKI.md`
+- [x] **空之轨迹 THE 2nd** — The Legend of Heroes: Trails in the Sky the 2nd → `空之轨迹/空之轨迹 THE 2nd_WIKI.md`
 
-## 纪念碑谷（0/3）
-- [ ] **纪念碑谷** — Monument Valley → `纪念碑谷/纪念碑谷_WIKI.md`
+## 纪念碑谷（1/3）
+- [x] **纪念碑谷** — Monument Valley → `纪念碑谷/纪念碑谷_WIKI.md`
 - [ ] **纪念碑谷2** — Monument Valley 2 → `纪念碑谷/纪念碑谷2_WIKI.md`
 - [ ] **纪念碑谷3** — Monument Valley 3 → `纪念碑谷/纪念碑谷3_WIKI.md`
 
