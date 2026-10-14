@@ -109,39 +109,69 @@ RCPD 起初靠加重处罚与强化拦停来压制车手，但强硬执法引发
 
 ## 4. 剧情概要
 
-本作没有把两条生涯写成各自独立的故事，而是让它们共用同一串过场动画：玩家在车手线完成的阶段，会在警察线上以另一方的视角再次出现，两边的前后顺序在时间上互有交叠。
+本作的两条生涯共用同一套推进框架：每条线被切成约十个「章」（Chapter），每完成一章解锁一段过场动画，动画由一段独白加一句点题引语构成。车手线的章名与进度挂在 SpeedList 上，从「Ignition」到「Over The Edge」共十章（含序章）；警察线的挂在 Assignment 上，从「First Patrol」到「Dark Waters」共十一章。两边的章号并不对齐。两条线讲的是同一场事故的两端，前后顺序在时间上互有交叠：玩家在一条线里亲历的事件，往往会在另一条线里以对手的视角再演一遍，有些过场直接来自同一段新闻播报。下面按事件顺序分幕（而非按两条线各自的编号），完整剧透到两个结局。
 
-### 4.1 序章：Zephyr 的病毒视频
+### 4.1 序章「Training」与「Ignition」：两条线各自的第一次独白
 
-故事从一段视频开始。街头车手 Zephyr 把自己的逃脱录像上传网络，试图让郡里和全国都记住这个名字。数日之内，Redview County 冒出一批模仿者，竞速从地下转为公开，车手们开得越来越快、造成的破坏也越来越多。RCPD 随即提高惩罚力度，大规模设卡拦停，反而激起公众对警方滥权的反弹。这条开场确立了本作的基调：竞速首先是一场争夺注意力的表演。
+车手教程（序章「Training」）只教三件事——跑一场比赛、甩掉一次追捕、打一场一对一；随后车手线第一章「Ignition」给出 Zephyr 的第一段独白。他把竞速说成「把燃料变成肾上腺素」的机器，并把整套行为的信条压成一句：「每个人都有极限，找出极限的唯一办法就是越过它」（Every man has his limit, and the only way to find it is to go past it）。玩家从此接过 Zephyr 这个网名，从车手职级 1 起跑；车手线最初几级的任务名就带着这种自我加冕的口吻，职级 1 的三份 SpeedList 分别叫「It Starts Here」「It Starts Now」与「Hammer Down」。
 
-### 4.2 冲突升级与 McManis 重伤
+警察线的开场是警察教程（序章「Training」）与第一章「First Patrol」。RCPD 的立场在第一段动画里就摆明：过场引语说「开得这么快的人只有两种——警察和罪犯」（There are only two types of people driving this fast - cops and criminals），并交代 RCPD 为了赢不惜动用武力、且把「保护那些质疑他们的市民」当作自我辩护——原话是「人们指控我们，是因为我们偶尔把人顶到墙上；可我们不想打一场公平的架，每次亮灯都必须赢，否则公众会不再相信我们能保护他们，归根结底，恐惧才能换来服从」（FEAR commands respect）。警察线职级 1 的三份 Assignment 则叫「It Starts Here」「Ready To Roll」与「It Starts Now」。两条线各自的第一次过场，就把同一场冲突的两个立场同时立起来——不设中立视角、让玩家轮流从两边听，是本作处理叙事的基本手法。
 
-对抗继续升级。RCPD 警官约翰·麦克马尼斯（John McManis）在一次试图跟上车手的过程中身受重伤。事件之后，舆论重新倒向警方，一名新入队的警员就此立誓向车手复仇——他就是警察线的玩家角色。Zephyr 在独白里把这次事故说成「警方跟不上的证明」，并宣告警察已从对手变成敌人，双方关系从竞技性质的追逐转向全面对立。
+### 4.2 病毒视频：「The Beast Has Awoken」与「Gloves Come Off」
 
-### 4.3 FBI 与 VRT 接管
+车手线第二章「The Beast Has Awoken」。Zephyr 一段甩掉 RCPD 警官的录像走红，郡里的车手开始把逃跑视频成批发上网，竞速从躲着警察跑变成主动挑衅。过场独白把「人生而自由、反抗权威」（We are born free, resisting authority）讲成这场风潮的信条，并补上一句冷话——人最终会被驯化、接受自己的压迫者。RCPD 的回应是加码：更重的处罚、更多的设卡拦停。冲突的引信由此落在「谁被看见」上——车手要的是出名，警方要的是秩序，两者在同一块屏幕上互相消耗；车手线这几级的任务名（如「Reality Show Continues」「Stepping It Up」）几乎就是这场秀的分镜。
 
-警方的强硬手段引来更多「过度用武」的指控，RCPD 全员被处以停职留察，联邦调查局派出的交通响应小组（VRT）进驻 Redview County 接管执法。Zephyr 意识到这支新队伍不同于此前的巡逻警力，转而对 VRT 展开正面对抗。独白里他把 VRT 描述为「带着旧怨的前特种兵与前街头车手」，认定对方的唯一目的就是终结车手。
+警察线第二章「Gloves Come Off」是同一件事的另一面：Redview County 变成想出头的新车手互相较劲的试炼场，RCPD 被要求以更强的武力恢复秩序，职级 2 的三份 Assignment 叫「Cast The Net」「Who Owns The Roads」与「The Fight From Within」。过场引语把「威慑不够时就得动真格」（when show of force isn't enough to maintain order, sometimes you have to settle for the real thing）说成这条路的必然——这里第一次给出「警方越用力、对抗越升级」的因果链。
 
-### 4.4 F-8 登场：扣押的恩佐
+### 4.3 麦克马尼斯事件：「This Means War」与「Excessive Force」
 
-车手的挑衅没有得到 VRT 的及时回应，愤怒的新警员决定自行出手。他私下从扣押场取出一辆法拉利恩佐，以「F-8」（读音同 Fate，命定）的名号伪装成街头车手上街，专挑同行下手，制造了一连串混乱。FBI 因此注意到 F-8，向他发出加入 VRT 的邀请；他立即卸下义警身份、接受邀请，同时 RCPD 全员被召回恢复巡逻。至此，玩家在警察线里同时是执法者与冒牌车手，这也是本作最核心的一处身份错位。
+车手线第三章「This Means War」把冲突推过临界点。非法车手被 RCPD 定性为罪犯，并被指为警官约翰·麦克马尼斯（John McManis）重伤入院的原因；Zephyr 在独白里反驳，说是这名警官自己越过极限、又在追赶车手时危及公众才酿成事故，并把结论压成一句：「如果说警方该从这件事里学到一课，那就是他们跟不上我们」（If there is one lesson the police should learn from this, it's that they can't keep up with us.）。这一段的任务名（「No Second Place」「Push The Rivalry」「Look In The Mirror」）也在把冲突往个人恩怨上推。
 
-### 4.5 Zephyr 的报复：盗走警用 Agera
+警察线第三章「Excessive Force」从另一端接住同一场事故：媒体聚焦一名警官在追捕后重伤，舆论认定是车手导致其撞车，把 RCPD 推向复仇。过场引语把它说成 RCPD 动用武力的授权理由——「车手已经愿意越线，我们为了守护社会也必须愿意这么做」（The racers have shown that they are willing to cross the line… We must be willing to do the same to protect it.），职级 3 的三份 Assignment 则叫「Taught A Lesson」「Real Force」与「Into Turmoil」。值得注意的是，两条线对同一件事给出互相矛盾的说法（谁该为麦克马尼斯负责），而游戏并不给出仲裁：车手说警察技不如人，警方说车手害人。这个悬置本身，构成后文双方都自认有理的前提。
 
-Zephyr 通过 F-8 张扬的驾驶风格认出其真实身份，决定以牙还牙。他偷走一辆退役封存的科尼赛克 Agera 警车，按自己的风格重新喷漆，用这辆车把警察吸引过来，再一辆辆撞毁追上来的警车。此后 RCPD 洗清了对所属警官的指控，公众却因 VRT 继续留驻而愈发不满；警方动作增多、街头车手遭暴力逮捕的场面也让民怨累积。
+### 4.4 联邦接管：「Apex Predators」与「VRT Called In」
 
-### 4.6 公开挑战与 Zero Hour
+车手线第四章「Apex Predators」。RCPD 警员被警长处以限制值勤，在司法部调查期间，联邦调查局派出的交通响应小组（VRT）进场接管；VRT 的目标被概括为「终结」而非「执法」。Zephyr 的独白把这支新队伍直接定义成敌人——「现在我们有了一个新对手，VRT。前特种兵和前街头车手，就是那种记仇的人」（Now we have a new enemy. The VRT. Ex-special forces and ex street racers. The kind that carry a grudge.）。这一章的三份 SpeedList 叫「The New Enemy」「Hornet's Nest」「Must Be Better」，把「换了个更难缠的对手」写进了任务名。
 
-Zephyr 向 RCPD 发出公开信息，要求其停止暴力执法，并向车手与警察同时下达挑战：在 Redview County 跑一场比赛，让法和非法两方把账一次算清。此时 F-8 已是 VRT 的高层警官，任务书上他被标为唯一有能力拿下 Zephyr 的人。他截获了 Zephyr 的无线电通讯，掌握了比赛地点后，在一条编号为 Zero Hour（零时）的拦截任务里出手，这也是警察线职级 20 的最终关卡。这场拦截属于「Interceptor」（拦截）类事件，难度标注为「困难」，起点设在 Redview County 的越野地带，任务书把玩家标为唯一能拿下 Zephyr 的警官，警察线第 20 级的三个 Assignment 也全部指向这一场。
+警察线第四章「VRT Called In」交代 VRT 进场的由来：公众指控 RCPD 过度用武、制造恐吓文化并贸然危害公众，于是 VRT 在司法部调查期间被派来「拦截车手」。这一章里玩家被限制只能开一辆巡逻规格的道奇 Charger SRT8——职级被压回去，等于把玩家也按在「坐冷板凳」的位置上，对应职级 4 的任务名「The Sidelines」「Our Pride Stolen」「Our Hands Tied」。过场引语说「大家都想要安全，却只有少数人愿意接受代价」（everyone wants security. But only a few are willing to accept the price.）。
 
-### 4.7 车手结局：终局冲撞
+### 4.5 羊皮：「Go Rogue」与「Sheep's Clothing」
 
-车手线的收束紧接在那场决定性的比赛之后。Zephyr 冲过终点，迎面撞上警方的路障，车辆严重损毁。随后的新闻报道显示撞车处浓烟滚滚，甚至暗示他已经身亡。然而画面切回车内，Zephyr 在意识模糊中重新发动了那辆几乎报废的车，引擎轰鸣声中屏幕转黑——他活了下来，但从此销声匿迹。这条线把车手「出名」的代价压在最后一场撞车上，也让「是否生还」刻意留成开放结局。
+车手线第五章「Sheep's Clothing」写的是对手换人。VRT 让街道变得太危险、连公众都被卷入火线，多数车手选择解散躲避；顶替上来的是一批新面孔，其中一个人挂着网名 F-8。Zephyr 的独白说：「没人知道他来自哪里，但他向所有车手下了公开挑战」（No one knows where he came from, but he's issued an open challenge to all racers.），职级 13 的任务名「Out There Somewhere」「Share Our Spotlight」「Meet The Challenge」说的也是这件事。
 
-### 4.8 警察结局：开除与重出江湖
+警察线第五章「Go Rogue」把 F-8 的来历补全：RCPD 被限制行动、无法正面出击，玩家扮演的新警员于是私自发起一场未经批准的卧底行动，从警方扣押场取出一辆扣押的改装法拉利恩佐，披上「F-8」（读音同 Fate，命定）的名号混进车手圈子、专挑同行下手。这一章玩家被限制只能开这辆恩佐，职级 5 的任务名是「Responsibility」「Our Revenge」「The Flight」，过场引语是「我们本想按规矩来，结果呢？被像狗一样拴在路边」（We tried to play by the rules, and where did that leave us? Chained up on the side of the road like dogs.）。至此，警察线的玩家同时是执法者与冒牌车手，本作最核心的一处身份错位就此确立——F-8 用违法手段执行法律，而这正是他日后被清算的把柄。
 
-警察线的收束与车手线共享同一场事故：F-8 承认自己与 Zephyr 发生了碰撞，很可能就在对方撞上路障前不久，自己的车也在连带的冲撞中报废，本人重伤濒危。随后的报道显示，他因先前一系列鲁莽而危险的行动被 RCPD 开除。一段时间之后，F-8 又以街头车手的身份重新出现，似乎接过了 Zephyr 的衣钵，并录制视频向 Redview County 的同行下战书，宣称自己才是他们的对手。追猎车手的人最终成了车手，这条线用一次反转完成了与车手结局的镜像对位。
+### 4.6 狼皮：「Wolf's Clothing」与「Shot at the Big Leagues」
+
+车手线第六章「Wolf's Clothing」。F-8 因凶悍的驾驶与对同行的残暴碰撞引来媒体注意，Zephyr 从这种开法上认出他是个藏在车手里的 RCPD 警官，决定以彼之道还施彼身，穿起「狼皮」：他偷走一辆退役封存的科尼赛克 Agera R 警车，按自己的涂装重新喷漆，再开着这辆警车去挑衅 RCPD 的警官。这一章车手线被限制只能开这辆 Agera（ENF 规格），职级 16 的三份 SpeedList 叫「Bring Chaos」「Replace Order」「Enemy Inside Them」。章名与上一章的「Sheep's Clothing」正好互文——前一次是警察装车手，这一次是车手装警察。独白是「他们说 Fate 是个车手，可对我们这些在后视镜里见过他影子的人来说，他的手法一目了然」（They say Fate is a racer, but to those of us who have seen his shadow in our rear view, his tactics are unmistakable.）。
+
+警察线第六章「Shot at the Big Leagues」承接同一段：F-8 成了连 VRT 也追不上的新威胁，RCPD 全员被召回恢复值勤；VRT 对这个「新候选人」的表现印象深刻，把他收进自己的选拔项目——此时他的冒牌车手身份尚未曝光，职级 6 的任务名「Turn The Tables」「What They Fear Most」「Bring Them Justice」点出的是权力关系正在倒转。过场引语交代 VRT 的姿态——「我们不多收警察进 VRT，我们是在你们失败时才被叫来的人」（There is a reason we don't take many cops in VRT. We are brought in when you fail.）。
+
+### 4.7 舆论再翻转：「Devils for Devils」与「Promoted」
+
+车手线第七章「Devils for Devils」。司法部的调查结论洗清了 RCPD 的过度用武指控，结果反而激起公众不满；与此同时，Zephyr 开着那辆退役警车干的事被媒体追踪报道，开始为他赢回民意，声量压过 RCPD 与 VRT。独白是「这已经不只是竞速了。我们在传递一个信息，而且有人在听」（This is bigger than racing now. We're sending a message and people are listening.），职级 17 的任务名「Know My Name」「My Spotlight」「Burns Out Of Control」把「要出名」与「玩过火」并成一句。
+
+警察线第七章「Promoted」是 F-8 的升迁：VRT 对玩家满意，正式把他提拔进 VRT 值勤，同时提醒他选拔是持续进行的、达不到预期就会被撤职，引语讲的是「纳税人在你身上投了几百万」（The United States taxpayer is investing millions of dollars in you），职级 7 的任务名是「Almost There」「The Iron Glove」「How VRT Do Things」。到这里，F-8 在制度上已经是 VRT 的警官，在街面上仍是尚未曝光的冒牌车手——双重身份越成功，暴露时就越致命。
+
+### 4.8 收网：「No Honour Amongst Thieves」
+
+警察线第八章「No Honour Amongst Thieves」。VRT 锁定 Zephyr 的三名已知同伙（three known associates），判断只要把三人全部拿下，就能三角定位出 Zephyr 本人。VRT 此前「把混乱带进车手网络」的策略反而逼得车手抱团成群，而抱团让他们更容易被找到。过场引语把这件事说成围猎——「像一群狼那样，我们把它们赶到一起，好一口口挑着吃」（Like a pack of wolves, we herded them together to make them easier to pick off.），职级 19 的任务名「We Are Closing In」「Beginning Of The End」「Running Scared」也把「收网」写明白。这是警察线通往终局前的最后一步。
+
+### 4.9 公开宣言：「Honour Amongst Thieves」
+
+车手线第八章「Honour Amongst Thieves」。Zephyr 发表一份公开宣言：警方把他们这套人定性为犯罪网络，可在 RCPD 开始镇压之前，它根本不是一个网络。宣言里附上地图与路线，指向他所谓的「终极真人秀」，RCPD 则把这封宣言叫作「宣战」。宣言原文是「这是一封给所有街头车手的公开宣言。我不是你的敌人，我不是威胁，我是你的对手」（This is an open manifesto to all street racers. I am not your enemy, I am not a threat. I am your rival.）。他借此把车手与警察一起叫到同一场比赛里，让法与非法的账一次算清——这场即终局的「Grand Tour」（大巡游）。两条线的章名在这一层上互为镜像：车手讲「盗贼亦有信义」，警方讲「盗贼之间没有信义」。
+
+### 4.10 「Zero Hour」：警察线的最终拦截
+
+Zephyr 的挑战在警察线变成一场定点拦截。警察职级 20 的三个 Assignment（Patrol「It Ends Now」、Undercover「The Final Test」、Enforcer「It Ends Here」）全部只指向同一个目标：拦截任务「Zero Hour（零时）」，难度标注「困难」，也是警察线最后一个解锁的关卡；三条线平时各配 Patrol／Undercover／Enforcer 不同车型，唯独在这里合流成同一场戏。剧情上，VRT 截获了 Zephyr 的一条通讯、三角定位出他的位置，把玩家标为唯一有能力拿下他的人——此前对三名同伙的收网，在这里兑现成一次定位。任务的起点在南部一座废弃牧场前的越野地带，目标车会先沿路超过玩家，再一路越过机场、朝 Dead Tree Canyon 方向去。过场引语是「Zephyr 质疑过我们的权威，现在该给答案了。今天他会知道，把野兽弄醒是什么后果」（Zephyr has questioned our authority, and now it's time to answer. Today he will learn what happens when you wake the beast.）。完成它即触发警察线第十章「Dark Waters」的过场。
+
+### 4.11 车手结局：「Over The Edge」——Grand Tour 与终局冲撞
+
+车手职级 20 的三个 SpeedList（Race「It Ends Here」、Pursuit「It Ends Now」、Drive「It Ends Today」）同样都指向这一场 Hot Pursuit 任务「Grand Tour」，难度「困难」——三条不同玩法的任务名最后归到同一场终点赛。Zephyr 冲过终点后迎面撞上警方的路障，车辆彻底报废；新闻直升机的直播把这场撞车拍了下来，报道甚至称他生还希望渺茫。但过场最后，Zephyr 又发动了引擎，画面在引擎声中转黑。车手线到此结束：他活了下来，但从此销声匿迹。这一章的独白把结局的态度压成一句——「我是那场真人秀，是你永远不会拥有的 15 分钟。他们说速度会杀人，可你不超速，就不算活着」（I am the reality show. The 15 minutes you'll never have. They say speed kills... but if you aren't speeding, then you aren't living.）。
+
+### 4.12 警察结局：「Dark Waters」——F-8 接棒
+
+警察线第十章「Dark Waters」的过场接在同一场事故之后：玩家在追击 Zephyr 的过程中身受重伤、濒临死亡，随后因先前一系列鲁莽而危险的行为被 RCPD 与 VRT 开除——他在 4.5 披上的那层假身份，成了清算他的依据。再往后，F-8 以街头车手的身份重新出现，接手了 Zephyr 空出的车手头名，并向剩下的非法车手发出挑战：他仍然是他们的对手。这一节的独白与 Zephyr 的口吻如出一辙——「你醒着，我醒了。我挣脱了枷锁，自由了。我是我曾经不敢过的生活」（You are asleep. I am awake. I am unshackled. Free. I am the life I was too scared to live.）——追猎车手的人最终成了车手，警察线与车手线在同一个事故的两端收束成一组镜像：Zephyr 从公开的车手转向隐没，F-8 从体制内的警察转向街面。
 
 ---
 
