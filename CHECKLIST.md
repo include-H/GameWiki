@@ -1,8 +1,8 @@
 # WikiAtlas 游戏 Wiki 重写清单
 
 ## 进度总览
-- 全量：**253 部 · 81 个 IP**
-- 已入库：**253 部**
+- 全量：**259 部 · 81 个 IP**
+- 已入库：**259 部**
 - 待写：0 = 本代理 **0** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
 
 ## 约定
@@ -119,9 +119,15 @@
 - [x] **合金装备5：幻痛/原爆点** — Metal Gear Solid V: Ground Zeroes → `合金装备/合金装备5：幻痛_原爆点_WIKI.md`
 - [x] **潜龙谍影 Δ：食蛇者** — Metal Gear Solid 3: Snake Eater → `合金装备/潜龙谍影 Δ：食蛇者_WIKI.md`
 
-## 命令与征服（2/2）
+## 命令与征服（8/8）
 - [x] **命令与征服：红色警戒3** — Command & Conquer: Red Alert 3 → `命令与征服/命令与征服：红色警戒3_WIKI.md`
-- [x] **命令与征服：红色警戒** — Command & Conquer: Red Alert 2 → `命令与征服/命令与征服：红色警戒_WIKI.md`
+- [x] **命令与征服：红色警戒** — Command & Conquer: Red Alert → `命令与征服/命令与征服：红色警戒_WIKI.md`
+- [x] **命令与征服** — Command & Conquer → `命令与征服/命令与征服_WIKI.md`
+- [x] **命令与征服：泰伯伦之日** — Command & Conquer: Tiberian Sun → `命令与征服/命令与征服：泰伯伦之日_WIKI.md`
+- [x] **命令与征服：叛逆者** — Command & Conquer: Renegade → `命令与征服/命令与征服：叛逆者_WIKI.md`
+- [x] **命令与征服：将军** — Command & Conquer: Generals → `命令与征服/命令与征服：将军_WIKI.md`
+- [x] **命令与征服3：泰伯伦战争** — Command & Conquer 3: Tiberium Wars → `命令与征服/命令与征服3：泰伯伦战争_WIKI.md`
+- [x] **命令与征服4：泰伯伦的黄昏** — Command & Conquer 4: Tiberian Twilight → `命令与征服/命令与征服4：泰伯伦的黄昏_WIKI.md`
 
 ## 地平线（2/2）
 - [x] **地平线：零之曙光** — Horizon Zero Dawn → `地平线/地平线：零之曙光_WIKI.md`
