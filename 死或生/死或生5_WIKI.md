@@ -109,25 +109,61 @@
 
 ## 4. 剧情概要
 
-### 4.1 崩毁两年后：大会与追猎的两条起线
+> 故事模式是一条被切成 72 段的连续长线（含教学节与纯过场节），不按时间顺序播放，而用「超链接电影」式的手法在霞、绫音、疾风、隼龙、海莲娜、米拉、里格等多名角色之间来回切换视角；两条主线——第五届 DOA 大会与「追猎 Alpha」——在中段不断互相侧写，最终合流到海上平台的决战与片尾对话。以下按叙事阶段分节（括注为章节的英文原名），完整剧透到结局。
 
-故事从《死或生4》两年后的世界开场。海莲娜·道格拉斯宣布重组 DOATEC 并举办第五届 DOA 大会，由扎克（Zack）担任赛事主持与招募人。与此同时，两条暗线同时铺开：拜曼（Bayman）在一次巡逻中被一名速度超人、随后原地消散的黑衣兜帽身影袭击，队伍几乎全灭；霞则在寻找三角塔崩毁后突然失踪的 Alpha-152，登上海莲娜的游轮「自由幸存者」（Freedom Survivor）寻求情报。海莲娜答应协助，并安排了疾风与霞见面；霞坚持追猎 Alpha 是自己的战斗，拒绝了疾风的援手，独自上路。她一路被绫音追踪，也被把她当成袭击者的拜曼盯上。
+### 4.1 序章：一场伏击、一次「测试」与两条起线（The Abyss of Death / Put to the Test / Premonition / Everyday Issues / Siblings）
 
-### 4.2 石油平台与 MIST 的布局
+《死或生4》三角塔崩毁两年后，故事以一段冷开场切入：拜曼（Bayman）所率军事巡逻队在巡逻中被一名速度超人、随后原地消散的黑衣兜帽身影突袭，队伍几乎全灭，拜曼面部留下重伤（该身影的身份要到片尾才揭晓）。此后拜曼登上 DOATEC 当家人海莲娜·道格拉斯的游轮「自由幸存者」号（Freedom Survivor），怀疑此事与 DOATEC 有关；海莲娜否认，推测是脱走的前高层维克多·多诺万所为。同一段序章里，霞（Kasumi）也来到船上，向海莲娜打听三角塔崩毁后突然失踪的生物兵器 Alpha-152 的下落，海莲娜答应协助。序章另用两场对局补足群像：扎克（Zack）以一战「测试」西班牙新秀米拉（Put to the Test），海上平台上里格（Rig）与巴斯（Bass Armstrong）则在火警中合力扑灭了直升机的袭击（Everyday Issues），其间穿插一段忍者兄妹的过场（Siblings）。扎克也是海莲娜身边的旧人——三角塔崩毁时他赶到现场救下海莲娜，此后一直帮她推动 DOATEC 的重组，本届大会正是由他出国招募选手。海莲娜同时在序章公开她的姿态：解散生物科技部门、叫停代号 Alpha、Epsilon、Omega 的项目，开除多诺万派系，并以第五届大会向世界展示「新生 DOATEC」。
 
-在 DOATEC 的海上石油平台上，工作人员里格（Rig）迎来一名自称「来自你过去」、前来「测试」他的女人克里斯蒂（Christie），后者仍在替多诺万做事。平台随即遭到直升机袭击，里格与同在此处工作的巴斯（Bass Armstrong）合力扑灭了火。此时戴着瓷面具的多诺万正被看到：他在策划 Project Alpha 的「第四阶段」，命丽莎把 DOATEC 日本分部的负责人宫古带到平台地下的秘密研究所——宫古也是新组织「MIST」的一员。第五届 DOA 大会正是在这座平台上举行。
+### 4.2 霞：三场交手与追猎的起点（Waiting / Runaway Ninja / Looking for Something）
 
-### 4.3 大会线：扎克的招募与几场关键对局
+霞的第一段章节（第 6–8 章）把「追猎」铺开。她先与仍替多诺万做事的丽莎·汉密尔顿交手（Waiting），又和一路追着她、出自霸神门的同母异父妹妹绫音对上（Runaway Ninja），最后被把她当成袭击者的拜曼盯上（Looking for Something）。海莲娜安排疾风与霞见面；霞坚持追猎 Alpha 是自己一人的战斗，拒绝了疾风的援手，独自上路。此后她为追查线索踏上环球行程，一边被绫音追踪，一边被拜曼围堵。
 
-大会线以「群像侧写」的方式推进：扎克在世界各地找到、打赢并招募参赛者。蒂娜（Tina Armstrong）决定重返擂台参赛，她的父亲巴斯为了不被认出而以擂台名「Mr. Strong」报名，父女二人最终在赛场上重新并肩。雷芳（Leifang）一路盯着李剑（Jann Lee），两人在大会前的一列火车上交手，火车出轨翻车，两人之间出现微妙的张力。瞳（Hitomi）仍希望能见到「艾因」（即疾风），打进八强，先后击败西班牙新秀米拉与艾略特，并在间歇与疾风重逢。李剑此前已战胜雷芳与 Mr. Strong，最终击败瞳夺冠，却因先前输给里格而结下私怨，未出席颁奖。
+### 4.3 绫音潜入「自由幸存者」与外围对局（Pursuit / On a Hunch / Growing a Little / Obstacles）
 
-### 4.4 忍者线：克隆体之死与真霞登场
+绫音与兄长疾风一同潜入「自由幸存者」号（Pursuit），并在船上及周边与大会参赛者过招：她先后对上瞳（On a Hunch）、艾略特（Growing a Little）与拜曼（Obstacles）。海莲娜则当面向雾幻天神流的众人摊牌：她摧毁三角塔是为报复多诺万——既为父母在组织内斗中丧命，也为 DOATEC 被他改造成不讲道德的组织；她还透露 Project Alpha 的「第四阶段」将量产霞的克隆体，卖给各国军方。疾风察觉那名四处活动的「霞」有什么不对，命绫音跟住她、查清真实意图。
 
-在日本，隼龙被疾风与绫音找上并加入行动。在「自由幸存者」号上，海莲娜向雾幻天神流众人交代了实情：她摧毁三角塔，是为报复多诺万——既为父母在组织内斗中丧命，也为 DOATEC 被他变成不讲道德的组织；她还透露第四阶段将量产霞的克隆体卖给各大军方。疾风察觉那名四处追踪 Alpha 的「霞」有什么不对，命绫音跟住她查清真实意图。
+### 4.4 新秀、父女与不知身世的女儿：米拉、蒂娜与心（Champ / Meeting / Sparring；Passionate Memories / A Rival Appears / The Road to a Comeback；DOA5 Tournament Announcement / Broken Vessel / 10 Years）
 
-那名身穿蓝色忍者装、在山中一路追猎 Alpha 的「霞」终于找到了地下研究所，击毁了 Alpha-152，却随即被疾风与绫音毫不留情地斩杀，死在隼龙怀里——她的真身只是一具复制了自己记忆与外貌的克隆体「霞 α」，隼龙仍为她的死感到惋惜。隼龙击落来袭的直升机（正是先前袭击平台的那种），疾风则被反水的里格制住——里格实为多诺万的同伙。隼龙放出一只隼传信给一直藏身在村正处的真霞，她随即赶到平台。众人在研究所里击败里格，里格留下一句这是引他们前来的计划后脱身。丽莎发现 Epsilon 计划被重新启动后深感失望，放走了疾风。随后新的生物兵器 α 出现，能变化成霞、疾风、隼龙等人形；疾风、绫音、隼龙最终与真霞合力将其连同研究所一并摧毁。
+大会线以群像侧写的方式推进。米拉线（第 16–18 章）：这位在纽约餐馆兼职服务员的西班牙综合格斗选手先与蒂娜交手（Champ），又与醉拳的布拉德·王过招（Meeting），并在双人赛里与蒂娜组队对布拉德与艾略特（Sparring，全篇第一场正式组队战）。蒂娜线（第 19–21 章）：职业摔角手出身的蒂娜决定重返擂台，先后对上扎克（Passionate Memories）与来自《VR 战士》的莎拉·布莱恩特（A Rival Appears，此役后莎拉被解锁），再与米拉重逢（The Road to a Comeback）。心（Kokoro）线（第 13–15 章）另埋一条身世伏笔：这位练艺妓技艺的少女在东京与母亲宫古同行时看到大会公告，随后先后对上丽莎（DOA5 Tournament Announcement）、李剑（Broken Vessel）与《VR 战士》的结城晶（10 Years，此役后结城晶被解锁）。她并不知情的是，母亲宫古正是 DOATEC 日本分部的负责人、后来加入 MIST 的一方，而她本人则是 DOATEC 创办人 Fame Douglas 的另一名私生女。
 
-### 4.5 结局与片尾：回望与真凶
+### 4.5 扎克的招募与平台上的火（Serious Training / Hangover / The Road to a Comeback；Unknown Woman / Fighters Gather / Flames Rise）
+
+扎克作为大会主持与招募人，在世界各地找到、打赢并招募参赛者：他与李剑对练（Serious Training）、在宿醉中与布拉德交手（Hangover），又在双人战里被蒂娜与米拉夹击（The Road to a Comeback）。平台线同时铺开，而第五届大会正是在这座平台上举行：工作人员里格迎来一名自称「来自你过去」、前来「测试」他的女人克里斯蒂（Unknown Woman），后者仍在替多诺万做事；随后参赛者陆续聚集到平台上（Fighters Gather，里格依次对上李剑、艾略特），平台遭到直升机袭击、燃起大火（Flames Rise）。戴着瓷面具的多诺万在此被看到：他在策划 Project Alpha 的「第四阶段」，命丽莎把 DOATEC 日本分部负责人宫古带到平台地下的秘密研究所——宫古也是新组织「MIST」的一员。
+
+### 4.6 化名「Mr. Strong」的巴斯（Good Little Girl / The Mysterious Masked Wrestler / Family）
+
+蒂娜的父亲、退役摔角传奇巴斯，为不被认出而以擂台名「Mr. Strong」报名参赛，在平台上先与里格过招（Good Little Girl），又以化名对上扎克（The Mysterious Masked Wrestler），最终在赛场上与女儿蒂娜重逢、父女二人重新并肩（Family）。
+
+### 4.7 醉拳师徒与八强外围（Journey / Getting Ready；Milk / The Quarter Finals Begin / The Master）
+
+布拉德·王与艾略特这对师徒——布拉德一路蹭着艾略特的旅程——在途中接到大会消息，两人两度交手（Journey，两次对局各带不同目标），并组队对雷芳与瞳（Getting Ready）。艾略特线（第 34–36 章）：他在与克里斯蒂的对局（Milk）后打进八强外围，先后击败心（The Quarter Finals Begin）与师父布拉德（The Master）；战胜布拉德后，前辈元福也被解锁登场。
+
+### 4.8 雷芳、瞳与李剑：从八强到决赛（Strange Training / Serious Training / His Back；The Quarter Finals Begin / DOA5 Semifinals / I Know What I Must Do；Hot-Blooded Jann Lee / Someone Stronger）
+
+雷芳（第 37–39 章）一路盯着李剑：她与瞳组队对扎克（Strange Training），又与瞳、米拉两度交手（Serious Training / His Back）。瞳（第 40–42 章）仍希望见到「艾因」（即失忆时期的疾风），打进八强，先胜米拉（The Quarter Finals Begin），再于半决赛胜艾略特（DOA5 Semifinals），间歇里与疾风重逢。李剑（第 43–45 章）则在八强线里战胜雷芳与化名的 Mr. Strong，最终击败瞳夺冠（Someone Stronger），却因先前输给里格结下私怨，未出席颁奖。雷芳与李剑在大会前的一列火车上的一场交手，也在这一带留下了两人之间的伏笔。
+
+### 4.9 忍者集结：隼龙的「盟友」与研究所（Sworn Ally / Lab / Meeting Zack）
+
+忍者线提速。隼龙被疾风与绫音找上并加入行动，先与疾风对练以示确认（Sworn Ally），随后深入平台下的研究所、与丽莎交手并触发一次悬崖危机（Lab），途中又与扎克碰上（Meeting Zack）。这条线把他从「龙之忍者」的旁观者推入平台地下的战场。
+
+### 4.10 克隆霞之死（Lies / Talk / Instinct / Showdown / The Code）
+
+霞的第二段章节（第 49–53 章）是全篇的转折。在「自由幸存者」号上，海莲娜向雾幻天神流众人摊牌、交代第四阶段的克隆量产计划（Lies）。那名一路追猎 Alpha 的「霞」先与里格、丽莎交手（Talk / Instinct），随后找到平台地下的研究所，击毁其中的 Alpha-152（Showdown），却随即被疾风与绫音毫不留情地斩杀，死在隼龙怀里（The Code）：她的真身只是一具复制了自己记忆与外貌的克隆体「霞 α」，隼龙仍为她的死感到惋惜。
+
+### 4.11 追查多诺万：拜曼与海莲娜（Flashback / Mugen Tenshin Ninjutsu / Meeting Zack Part II / Alert；Woman in the Wrong Place / Fathers / Lisa's Betrayal / M.I.S.T.）
+
+两条侧写把真凶钉死。拜曼线（第 54–57 章）以一段回顾开场，再把这位为多诺万失踪而独自查案的傭兵推上前线：他与疾风（Mugen Tenshin Ninjutsu）、扎克（Meeting Zack Part II）、克里斯蒂（Alert）逐一交手，一路逼近平台。海莲娜线（第 58–61 章）则交代她重组 DOATEC 的动机——多诺万操纵 Project Alpha、策划暗杀其父（DOATEC 创办人 Fame Douglas），也让她的母亲在组织内斗中丧命；她当年正是亲手启动自毁程序、站在火焰里看着三角塔爆毁。这一段里她先后对上克里斯蒂、心与丽莎（Woman in the Wrong Place / Fathers / Lisa's Betrayal），最终以一段「M.I.S.T.」的过场把故事推向终局。其中与心的一战被命名为「Fathers」并非偶然：两人同为 Fame Douglas 之女，海莲娜认得这层血缘，心却始终不知自己的身世，这一场把大会线里看似支线的角色接回了 DOATEC 的家事。
+
+### 4.12 疾风被擒：研究所里的陷阱（Strange Feeling / My Prey / Kasumi / The Fate of the False / Epsilon's Curse / Hayate in Danger）
+
+疾风的章节（第 62–67 章）收拢决战前的陷阱。他先在平台上与拜曼交手（My Prey），又与那名被认作妹妹的「霞」对上（Kasumi）；随后真相揭开：那名「霞」是复制品（The Fate of the False）。疾风继而在研究所里被反水的里格制住——里格实为多诺万的同伙（Epsilon's Curse）；丽莎发现 Epsilon 计划被重新启动后深感失望，本就动摇，最终放走了疾风（Hayate in Danger）。里格留下一句这是引众人前来的计划后脱身。
+
+### 4.13 真霞登场与 α 决战（Hidden Village / Phase 4 / Alpha / Code of the Shinobi）
+
+隼龙击落来袭的直升机（正是先前袭击平台的那种），并放出一只隼传信给一直藏身在村正处的真霞。真霞随即赶到平台（Hidden Village，先与克里斯蒂交手；Phase 4，对上里格），与疾风、绫音、隼龙合流。研究所深处的生物兵器「α」出现，能变化成霞、疾风、隼龙等人形，以本不可能成立的招式组合连续攻击；众人在此分头对克隆体与「α」展开决战（Alpha / Code of the Shinobi），疾风、绫音、隼龙最终与真霞合力将其连同研究所一并摧毁。
+
+### 4.14 结局与片尾：回望与真凶（结局＋片尾对话）
 
 尾声里，霞与疾风、绫音平静地道别，隼龙与海莲娜在海边目送；霞在心中立誓，一定要亲手打倒多诺万。真正收线的是片尾字幕之后的一段对话：里格与多诺万通话，里格是被揭出的多诺万之子。凭借从各位格斗家身上成功采集到的样本，Project Alpha 得以推进到第四阶段。至此，那名在故事开头袭击拜曼、随后消失的黑衣身影也得到解答——它是霞的新克隆体 PHASE-4。
 
