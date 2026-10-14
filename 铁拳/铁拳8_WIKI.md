@@ -1,12 +1,11 @@
 # 铁拳8（游戏）Wiki
 
-> 说明：本文为《铁拳8》（日文 鉄拳8，英文 Tekken 8，2024）的载体条目，整理范围为万代南梦宫工作室与 Arika 开发、万代南梦宫娱乐发行的本作本体（故事模式《The Dark Awakens》、追加剧情《Unforgotten Echoes》、对战、在线大厅等）及其第一至第三季季票的追加角色与追加舞台。主要依据英文与中文维基百科、Metacritic 与 OpenCritic、万代南梦宫官方站点与官方新闻页、Gematsu、Eurogamer、IGN、PC Gamer 等专业媒体的报道与评测；题记为本条目自写的场景式，逐字原文与原始语言未能回溯，故不引。本作主线紧接《铁拳7》结局，全文包含从序章到结局与后续剧情的完整剧透。「检索时间」统一为 2026 年 10 月。
+> 说明：本文为《铁拳8》（日文 鉄拳8，英文 Tekken 8，2024）的载体条目，整理范围为万代南梦宫工作室与 Arika 开发、万代南梦宫娱乐发行的本作本体（故事模式《The Dark Awakens》、追加剧情《Unforgotten Echoes》、对战、在线大厅等）及其第一至第三季季票的追加角色与追加舞台。主要依据英文与中文维基百科、Metacritic 与 OpenCritic、万代南梦宫官方站点与官方新闻页、Gematsu、Eurogamer、IGN、PC Gamer 等专业媒体的报道与评测；题记引本作最终决战中的一处台词（三岛一八，原文日文并附中译）。本作主线紧接《铁拳7》结局，全文包含从序章到结局与后续剧情的完整剧透。「检索时间」统一为 2026 年 10 月。
 
 :::epigraph
-三岛家的道场在暴风雨里亮着一盏灯。
-木地板上，一道旧裂痕从门口一直裂到神龛前。
-两个人影隔着十几步对站，谁都没先出手；雨点砸在瓦片上，像替他们数着节拍。
-墙上挂着历代锦标赛的旧照片，照片里的眉眼，一张比一张相似。
+力こそすべてだ。
+力量就是一切。
+——三岛一八《铁拳8》最终决战（第十五章）
 :::
 
 ---
@@ -218,7 +217,7 @@ Metacritic 汇总评分：PC 版 91/100、PlayStation 5 版 90/100、Xbox Series
 
 ### 7.2 商业表现
 
-本作在英国首发即登顶销量榜，超过 2023 年发售的《街头霸王6》（据报销量约为后者的两倍）。据英文维基百科引述，本作在 Steam 上线头十天为万代南梦宫带来超过 1300 万美元收入。官方于发售后约一个月（2024 年 2 月 26 日）宣布销量突破 200 万套；2025 年 2 月，官方在「TEKKEN Talk Live: SEASON 2 SPECIAL」上宣布累计突破 300 万套。中文维基百科另记，日本首发当周 PS5 实体版卖出约 2 万套（Famitsu 统计）。首日全球销量约 100 万套一说见诸发行方与媒体表述。
+本作在英国首发即登顶销量榜，超过 2023 年发售的《街头霸王6》（据 GamesIndustry.biz 报道，其英国实体首发销量约为《街头霸王6》的两倍）。据英文维基百科引述，本作在 Steam 上线头十天为万代南梦宫带来超过 1300 万美元收入。官方于发售后约一个月（2024 年 2 月 26 日）宣布销量突破 200 万套；2025 年 2 月，官方在「TEKKEN Talk Live: SEASON 2 SPECIAL」上宣布累计突破 300 万套。中文维基百科另记，日本首发当周 PS5 实体版卖出约 2 万套（Famitsu 统计）。首日全球销量约 100 万套一说见诸发行方与媒体表述。
 
 ### 7.3 奖项
 
@@ -234,7 +233,7 @@ Metacritic 汇总评分：PC 版 91/100、PlayStation 5 版 90/100、Xbox Series
 
 ## 8. 名台词与名场面
 
-> 说明：本作逐字台词的原始语言与可回溯文本未能核实到，故本节只收名场面，不引原文。
+> 说明：本作逐字台词未逐条核实，故本节只收名场面，不引原文（题记另引最终决战中的一句台词，见文首）。
 
 - **名场面·曼哈顿伏击**：风间仁与拉斯、李超狼伏击三岛一八失败，一八在城市中造成数百万平民死亡，并首次向公众展露恶魔之姿、宣布举办铁拳大赛。
 - **名场面·丽奈的加入**：预选赛后，丽奈以协助对抗一八为由加入仁一行，真实目的被其隐藏。
@@ -265,7 +264,7 @@ Metacritic 汇总评分：PC 版 91/100、PlayStation 5 版 90/100、Xbox Series
 - [Kunimitsu, Bob, and Roger Jr. Return to Tekken™ 8 — Bandai Namco Europe](https://en.bandainamcoent.eu/tekken/news/kunimitsu-bob-and-roger-jr-return-tekkentm-8)（第三季季票信息，检索于 2026 年 10 月）
 - [Tekken 8 for PC / PlayStation 5 / Xbox Series X Reviews — Metacritic](https://www.metacritic.com/game/tekken-8/critic-reviews/)（评分数据，检索于 2026 年 10 月）
 - [Tekken 8 — OpenCritic](https://opencritic.com/game/15734/tekken-8)（汇总评分，检索于 2026 年 10 月）
-- [Tekken 8: The Dark Awakens/Transcript — Tekken Wiki（Fandom）](https://tekken.fandom.com/wiki/Tekken_8:_The_Dark_Awakens/Transcript)（剧情线索来源，未采信为逐字台词的依据，检索于 2026 年 10 月）
+- [Tekken 8: The Dark Awakens/Transcript — Tekken Wiki（Fandom）](https://tekken.fandom.com/wiki/Tekken_8:_The_Dark_Awakens/Transcript)（剧情线索来源，题记台词的出处线索；未逐条采信为正文逐字台词的依据，检索于 2026 年 10 月）
 
 ### 本条目存疑与未核实项
 
@@ -273,4 +272,4 @@ Metacritic 汇总评分：PC 版 91/100、PlayStation 5 版 90/100、Xbox Series
 2. **分级**：未检到 ESRB / CERO / PEGI 等分级机构的官方页面，故 2.1 暂记 `待核实`。
 3. **各角色配音演员**：本条目未逐条核实中文 / 日文 / 英文配音名单，故第 6 章各条统一留 `待核实`。
 4. **日本首发实体销量**：中文维基百科记 PS5 实体版首周约 2 万套（引 Famitsu），该数字口径为单一平台的实体销量，非全球或全平台口径。
-5. **题记原文**：本作逐字台词的原始语言与可回溯文本未能核实到，题记采用场景式，第 8 章只收名场面。
+5. **题记原文**：题记所引为最终决战中三岛一八的一句台词，原始语言为日文；全篇逐字台词未逐条核实，故第 8 章只收名场面、不引原文。

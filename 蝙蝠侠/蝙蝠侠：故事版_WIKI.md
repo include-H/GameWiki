@@ -3,10 +3,11 @@
 > 说明：本文为《蝙蝠侠：故事版》（Batman: The Telltale Series，2016）的载体条目，整理范围为 Telltale Games 开发并发行、华纳兄弟互动娱乐（Warner Bros. Interactive Entertainment）以 DC 娱乐（DC Entertainment）标识负责发行的第一季全五章，以及 2019 年的《Shadows Edition》再发行版本。2017 年的第二季《蝙蝠侠：内敌》（Batman: The Enemy Within）与 Rocksteady 工作室的《阿卡姆》系列均为不同作品，本条目只作区分性简述，不展开。主要依据英文维基百科、中文维基百科、Metacritic 评分页、Nintendo Life、Video Games Chronicle 等公开来源，以及 Telltale 官方商店页；Metacritic 分数检索于 2026 年 10 月，其余日期以各来源提供的首发信息为准。全文包含从第一章到第五章结局的完整剧透。
 
 :::epigraph
-哥谭的雨落在韦恩大厦的玻璃幕墙上，也落在犯罪巷的砖缝里。
-市政厅地下的保险库空出一个位置，一枚加密硬盘被人带走。
-庄园的洞穴里蝙蝠从头顶掠过，楼上宴会厅的布鲁斯·韦恩举起酒杯。
-同一个人，两副面孔，都要在同一个夜里做决定。
+I know you're trying to create a myth. But be careful you don't turn into a monster.
+「我知道你想塑造一个神话。但小心，别把自己变成怪物。」
+Sometimes... you need a monster.
+「有时候……你得成为怪物。」
+——阿尔弗雷德·潘尼沃斯与布鲁斯·韦恩《蝙蝠侠：故事版》第一章《影子帝国》
 :::
 
 ---

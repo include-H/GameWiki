@@ -7,7 +7,7 @@ My name is Alex Mercer. I'm the reason for all of this.
 我叫亚历克斯·默瑟。我是这一切的起因。
 They call me a killer, a monster, a terrorist... I'm all of these things.
 他们叫我杀手、怪物、恐怖分子……这些我都承认。
-——亚历克斯·默瑟（Alex Mercer），开场旁白
+——亚历克斯·默瑟（Alex Mercer）《虐杀原形》开场旁白
 :::
 
 ---
@@ -207,7 +207,7 @@ Metacritic 汇总评分为 PC 79/100、PlayStation 3 79/100、Xbox 360 78/100，
 
 ### 7.3 商业表现与奖项
 
-据报道，本作发行当周登上 Steam 销量榜首；Xbox 360 版是 2009 年 6 月北美最畅销的游戏，销量超过 419,900 份，并因此获得「白金销量」（Platinum Hits）认定。据 MCV 于 2012 年 3 月报道，本作全球累计销量约 210 万份。奖项方面，本作在第 13 届 D.I.C.E. 奖（2010 年）获「年度动作游戏」提名。
+据英文维基百科，本作发行当周登上 Steam 销量榜首；Xbox 360 版是 2009 年 6 月北美最畅销的游戏，销量超过 419,900 份，并因此获得「白金销量」（Platinum Hits）认定。据 MCV 于 2012 年 3 月报道，本作全球累计销量约 210 万份。奖项方面，本作在第 13 届 D.I.C.E. 奖（2010 年）获「年度动作游戏」提名。
 
 ### 7.4 历史定位
 
