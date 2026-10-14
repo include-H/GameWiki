@@ -169,7 +169,7 @@
 
 ### 5.4 模拟语与情绪表演
 
-模拟市民使用一种被称为「模拟语」（Simlish）的自创语言交流。它没有与其他语言的字面对照，据整理者观察，其构音揉合了乌克兰语与塔加洛语的成分，也常被听者类比为意大利语或拉丁语的结构，但整体没有语义，靠语气、手势与动作配合情绪来表达。因为人物没有可引用的台词，玩家对角色的理解完全来自行为与表演。这种「听不懂却看得懂」的处理，让本作在没有对白的情况下仍能传达冲突与温情，也成为系列延续至今的标识。
+模拟市民使用一种被称为「模拟语」（Simlish）的自创语言交流。它没有与其他语言的字面对照；据英文维基百科「Simlish」条目，其构音揉合了乌克兰语、塔加洛语等多种真实语言的成分，也常被听者类比为意大利语或拉丁语的结构，但整体没有语义，靠语气、手势与动作配合情绪来表达。因为人物没有可引用的台词，玩家对角色的理解完全来自行为与表演。这种「听不懂却看得懂」的处理，让本作在没有对白的情况下仍能传达冲突与温情，也成为系列延续至今的标识。
 
 ### 5.5 失败状态与死亡
 
@@ -258,6 +258,7 @@
 
 - [The Sims (video game) — Wikipedia（英文）](https://en.wikipedia.org/wiki/The_Sims_(video_game))（检索于 2026 年）
 - [模拟人生 (游戏) — 维基百科（中文）](https://zh.wikipedia.org/wiki/模拟人生_(游戏))（检索于 2026 年）
+- [Simlish — Wikipedia（英文）](https://en.wikipedia.org/wiki/Simlish)（模拟语构音来源，检索于 2026 年）
 - [List of The Sims video games — Wikipedia（英文）](https://en.wikipedia.org/wiki/List_of_The_Sims_video_games)（资料片与合集清单，检索于 2026 年）
 - [The Sims — Metacritic](https://www.metacritic.com/game/the-sims/critic-reviews/?platform=pc)（PC 版评分 92/100，检索于 2026 年）
 - [The Sims Review — GameSpot](https://www.gamespot.com/reviews/the-sims-review/1900-2533406/)（9.1/10）

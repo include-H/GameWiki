@@ -3,10 +3,9 @@
 > 说明：本文为《消逝的光芒》（Dying Light，2015）的载体条目，整理范围为 Techland 开发、原由华纳兄弟互动娱乐发行的本作本体（单人战役、四人合作、非对称对抗「Be the Zombie」），并覆盖 2016 年独立资料片《消逝的光芒：信徒》（Dying Light: The Following）与后续版本关系。主要依据英文与中文维基百科、《消逝的光芒》官方站与发行方公告，以及 IGN、GameSpot、Eurogamer、Polygon、PC Gamer 等专业媒体的评测与报道，评分数据取自 Metacritic，配音阵容取自 Behind The Voice Actors 一类配音数据库。本作设定在中东虚构城市哈兰，与同厂的《死亡之岛》（Dead Island）不是同一系列，剧情不跨系列延续。全文包含从序章到《信徒》结局的完整剧透。检索时间为 2026 年。
 
 :::epigraph
-太阳沉到哈兰的塔楼背后，晾衣绳和天线在屋顶上投下长长的影子。
-一个跑者在两栋公寓楼之间跃过，背包里的解毒剂只剩三支。
-远处传来一声嘶吼，随后是第二声、第三声，像钟表开始走动。
-她停在楼沿握紧紫外线手电，等天黑透。
+This is Ayo speaking, get to the nearest safe house and wait until dawn. Good night and good luck.
+这里是阿约在广播。就近躲进安全屋，等到天亮。晚安，祝你好运。
+——阿约（Ayo）《消逝的光芒》夜间无线电广播
 :::
 
 ---

@@ -3,10 +3,11 @@
 > 说明：本文为《极限竞速：地平线 5》（Forza Horizon 5，2021）的载体条目，整理范围为 Playground Games 开发、Xbox Game Studios 发行的本作本体，以及两部长篇资料片《风火轮》（Hot Wheels）与《拉力赛》（Rally Adventure），车包与外观类附加内容只在「版本与 DLC 关系」中简述。主要依据 Playground Games 与 Forza 官方页面、英文与中文维基百科、Metacritic、Forza Wiki，以及 IGN、GameSpot、Eurogamer、Game Informer 等专业媒体的评测与报道。本作没有线性叙事主线，剧情由若干条独立的「地平线故事（Horizon Story）」短片承载；第 4 章按嘉年华的赛事与季节结构组织，并写明各条故事线的走向与落点，含完整剧透。检索时间为 2026 年。
 
 :::epigraph
-清晨的瓜纳华托，山城的巷子窄得只容一辆车通过，两侧的墙壁刷着橙黄与朱红。
-货机从云层里俯冲下来，一辆越野车被放出舱尾，落在下加利福尼亚的沙丘上。
-火山雪线之上，仪表打出当天最亢奋的一段转速；山谷那头，暴雨正沿着丛林压过来。
-车载收音机换了台，节拍铺满整段海岸公路——嘉年华的旗子已经在墨西哥全境铺开。
+This was the first Beetle in my family but it wasn't the last.
+这是我们家的第一辆甲壳虫，却不是最后一辆。
+Maybe we carry the spirit of our Papa Fernando with us, you know?
+也许……我们都载着 Papa Fernando 的精神，你懂吗？
+——Alejandra《极限竞速：地平线 5》「Vocho」故事终章（第 13 章）
 :::
 
 ---

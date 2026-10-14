@@ -3,10 +3,9 @@
 > 说明：本文为《正当防卫4》（Just Cause 4，2018）的载体条目，整理范围是雪崩工作室（Avalanche Studios）开发、Square Enix 发行的本作主体（单人开放世界战役），以及 2019 年分三波推出的三部扩展包《毁灭的冒失鬼》《恶魔》（Los Demonios）与《危机再起》（Danger Rising）。同一 IP 的其它载体不在此条目内。主要依据英文与中文维基百科、Metacritic、Square Enix 官方财报说明、Steam 与 Epic 商店页，以及 IGN、GameSpot、Game Informer、PC Gamer、PCGamesN、Eurogamer 等专业媒体的报道与评测；世界观与版本细节另参考 Just Cause Wiki（社区 wiki）的条目作线索与补充。全文包含从开局到结局的完整剧透。检索时间为 2026 年 10 月。
 
 :::epigraph
-草原上的龙卷风从地平线卷过来，把一部废弃的拖拉机举到半空。
-索利斯电台的主持人还在念着天气预报，语气像在报一场寻常的雨。
-一个穿皮夹克的男人站在山脊上，抓钩挂在腰间，看风把黑手的运输机吹得歪向一侧。
-他扣紧降落伞，往风暴里走去。
+Don't f**k with a scorpion unless you're prepared to get stung.
+别惹蝎子，除非你准备好挨蜇。
+——里科·罗德里格斯《正当防卫4》伊拉帕行动（Operation Illapa）结局
 :::
 
 ---
