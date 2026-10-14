@@ -3,10 +3,13 @@
 > 说明：本文为《帝国时代：决定版》（Age of Empires: Definitive Edition，2018）的载体条目，整理范围为 Forgotten Empires 开发、Xbox Game Studios 发行、2018 年 2 月 20 日在 Windows 首发的本作本体，以及它一并收录的原版战役与资料片《罗马复兴》（The Rise of Rome）的内容。1997 年原版《帝国时代》只作为「版本关系」在 2.2 中交代，不单独展开。主要依据英文维基百科、《帝国时代》系列 Wiki（Fandom）、Metacritic、Steam 商店页与 PC Gamer、GameSpot 等评测媒体。本作以历史战役为主体、没有虚构主线，第 4 章按各战役的历史阶段复述其进程与落点，含完整剧透。检索时间：2026 年 10 月。
 
 :::epigraph
-尼罗河三角洲的清晨，薄雾还没散，一群瞪羚正穿过东岸的芦苇。
-石器时代的部落在水边支起兽皮棚，猎手攥着削尖的木矛，孩子守着刚学会生的火。
-祭司对着河岸低声吟诵，那声音没有词句，却让对面的战士放下了武器。
-许多年后，人们会在同一片岸边垒起高过树冠的石墙，把神像刻进庙柱。
+Island in the Nile Delta, 8000 BCE
+尼罗河三角洲的一座岛，公元前 8000 年
+Egypt is a land blessed with plentiful plants and wildlife, making it an excellent place to settle your wandering tribe of hunters and gatherers.
+埃及是一片草木鸟兽丰饶的土地，正好安顿你们这支四处游荡的狩猎采集部落。
+Even though your people have primitive technology and rely on stone tools, they are skilled hunters.
+部族的技术还很原始，只能靠石器，却是出色的猎手。
+——场景说明《狩猎》（《埃及的崛起》首关，决定版教程战役）
 :::
 
 ---

@@ -3,9 +3,11 @@
 > 说明：本文为《地铁：逃离》（Metro Exodus，2019）的载体条目，整理范围为 4A Games 开发、Deep Silver 发行的本作本体（单人战役），及其两部剧情资料片《两位上校》《山姆的故事》，以及 2021 年的增强版（Enhanced Edition）与各平台版本；附加内容集中写在「版本与 DLC 关系」，两部资料片的剧情写在第 4 章的资料片小节。原作改编自德米特里·格鲁霍夫斯基（Dmitry Glukhovsky）的《地铁》小说系列，剧情承接小说《地铁 2035》与游戏《地铁：最后的曙光》。主要依据英文、中文、日文维基百科，Metacritic，发行方 Deep Silver 与 Steam 官方商店页面，以及 Game Informer、GameSpot、IGN、GamesRadar+、PC Gamer、Polygon 等专业媒体的评测。全文包含从序章到两种结局的完整剧透。检索于 2026 年。
 
 :::epigraph
-蒸汽机车沿着废弃的铁轨穿过雪原，车头灯照亮冻硬的电线杆和半截陷在泥里的驳船。
-守夜人把最后一支滤毒罐拧上面罩，又看了一眼腕表——指针同时在计滤芯还能撑多久。
-一张地图铺在驾驶台上，被翻到最后一张，边角还没画上终点。
+When it has been years since anyone's heard anything but static and white noise on the radio, who could still believe we're not alone on this Earth?
+当电台里除了杂音和白噪音，已多年没人听到过别的声音时，谁还会相信，我们并非这世上仅存的生灵？
+Which means that somewhere out there, under the skies, there is still a habitable place. We're not doomed to live the rest of our lives underground!
+这意味着，在天空之下的某处，仍有一处可以栖身的地方。我们并非注定要把余生都困在地下！
+——阿尔乔姆《地铁：逃离》序章·莫斯科（阿尔乔姆日记）
 :::
 
 ---

@@ -3,10 +3,9 @@
 > 说明：本文为《往日不再》（Days Gone，2019）的载体条目，整理范围为索尼本德工作室（SIE Bend Studio）开发、索尼互动娱乐发行的本作本体（开放世界单人战役），以及发售后追加的免费内容、2021 年 PC 版与 2025 年 PlayStation 5 重制版。GameAtlas 条目名为「往日不在」，系「往日不再」的错别字，本文正文一律使用正式中文名「往日不再」。主要依据中、英、日三语维基百科，Metacritic、OpenCritic，PlayStation.Blog 与 Bend Studio 官方博客的公告，以及 GameSpot、IGN、Eurogamer、Game Informer、VentureBeat 等专业媒体的评测与报道；角色与配音以英文维基百科与 Days Gone Wiki（Fandom）交叉核对。全文包含从序章到结局、乃至结尾彩蛋的完整剧透。检索时间为 2026 年 10 月。
 
 :::epigraph
-喀斯喀特山脉入秋，霜落在废弃瞭望塔的铁梯上。
-一辆改装过的机车停在防火道尽头，油表指针压着红线。
-山下的锯木厂空地上，上百具身体在夜里同时抬起头，嗅着同一阵风。
-骑手把帽子反戴，拧动油门，让排气管的响声盖过身后的嚎叫。
+Do you know why we keep going? Because what the hell else are we gonna do?
+你知道我们为什么还要继续前行吗？因为——不往前走，我们还能干什么？
+——迪肯·圣约翰《往日不再》
 :::
 
 ---

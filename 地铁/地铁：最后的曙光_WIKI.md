@@ -3,10 +3,15 @@
 > 说明：本文为《地铁：最后的曙光》（Metro: Last Light，2013）的载体条目，整理范围为 4A Games 开发、Deep Silver 发行的游戏本体，以及 2013 年陆续推出的四个资料片（Faction Pack / Tower Pack / Developer Pack / Chronicles Pack）；2014 年的重制版《地铁：归来》（Metro: Last Light Redux）与同年打包发售的《地铁 2033》重制版只在「版本与 DLC 关系」一节交代，不单独展开。主要依据英文、中文与俄文维基百科，Metacritic 汇总评分页，Deep Silver 与 4A Games 的官方公告，以及 Polygon、IGN、GameSpot、Eurogamer、Game Informer、Rock Paper Shotgun、PC Gamer 等专业媒体的报道与评测。全文包含从序幕到两种结局的完整剧透。检索时间为 2026 年 10 月。
 
 :::epigraph
-面具玻璃上凝起一层水汽，又被指腹抹开一道缝；手表的分针还剩两格走完这枚滤芯。
-他数着隧道口的第三个岔道，向左是去年烧掉的岗哨，向右通向没有信号的地面。
-通风换了个方向，风里带着铁锈和柴油味，说明前面某个地方还开着口子。
-有人在黑暗里咳嗽了一声，没有回头，脚步照样往前。
+Just a year ago I stood on top of the TV tower and saw missiles rain on the Botanical Gardens, turning flesh into ashes, smelting metal and glass.
+就在一年前，我站在电视塔顶，看导弹如暴雨般落向植物园，把血肉烧成灰烬，把金属与玻璃熔成流动的浆。
+Nobody and nothing could survive that inferno.
+没有任何人、任何东西能从那样一场炼狱里活下来。
+Yet Khan did find a Dark One there.
+可汗却在那里找到了一只 Dark One。
+Now my mission is to find and eliminate it. To finish what I started.
+如今我的任务，是找到它、除掉它——把当初由我亲手开始的事做完。
+——阿尔乔姆（Artyom）的旁白，《Metro: Last Light》关卡「Ashes」
 :::
 
 ---
@@ -276,4 +281,4 @@ Metacritic 综合评分：PC 82/100、PlayStation 3 80/100、Xbox 360 80/100（�
 3. **销量数字**：本作本体未公布确切销量；《地铁：归来》合集的 150 万套为官方口径，Steam 泄露的约 149 万用户数属第三方数据，均不与本体销量混用。
 4. **配音阵容**：英文配音演员表在不同数据库（IMDb、粉丝维基）之间存在出入，未能交叉确认到权威来源，故 6 章不列具体配音演员。
 5. **俄语标题的用词**：俄文维基记为官方本地化名「Метро 2033: Луч надежды」，与英文原名「Metro: Last Light」并非直译对应，为避免误导，2.1 已同时列出原名与俄语本地化名。
-6. **逐字台词**：英文 Wikiquote 无本作条目，一条可指认到官方文本的逐字名台词未检索到，故第 8 章只写名场面（题记亦改用场景式）。
+6. **逐字台词**：英文 Wikiquote 无本作条目，一条可指认到官方文本的逐字名台词未检索到，故第 8 章只写名场面（题记另引可指认出处的旁白，见文首）。
