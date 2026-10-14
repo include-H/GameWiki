@@ -1,11 +1,11 @@
 # 僵尸世界大战：劫后余生（游戏）Wiki
 
-> 说明：本文为《僵尸世界大战：劫后余生》（World War Z: Aftermath，2021）的载体条目。整理范围是 Saber Interactive 开发并发行的本作——它同时是 2019 年《僵尸世界大战》本体的强化版本与扩展版本：既打包 2019 本体与 2020 年 GOTY 版的马赛篇章，又新增罗马—梵蒂冈、堪察加两个篇章、第一人称模式、重做的近战系统与「先锋」职业。2023 年以后追加的篇章（Valley of the Zeke、Sin City Apocalypse 等）、《行尸走肉》联动与 VR 衍生作都不属于本作首发内容，只在「版本与 DLC 关系」中一行带过。主要依据 Saber Interactive 官方商店页与官方描述、英文维基百科、Metacritic，以及 GameCritics、IGN、GameGrin、Gaming Nexus、COGconnected、GameCrate 等媒体的评测；题记为场景式，名场面均标出所属篇章。检索时间为 2026 年 10 月。全文包含剧透。
+> 说明：本文为《僵尸世界大战：劫后余生》（World War Z: Aftermath，2021）的载体条目。整理范围是 Saber Interactive 开发并发行的本作——它同时是 2019 年《僵尸世界大战》本体的强化版本与扩展版本：既打包 2019 本体与 2020 年 GOTY 版的马赛篇章，又新增罗马—梵蒂冈、堪察加两个篇章、第一人称模式、重做的近战系统与「先锋」职业。2023 年以后追加的篇章（Valley of the Zeke、Sin City Apocalypse 等）、《行尸走肉》联动与 VR 衍生作都不属于本作首发内容，只在「版本与 DLC 关系」中一行带过。主要依据 Saber Interactive 官方商店页与官方描述、英文维基百科、Metacritic，以及 GameCritics、IGN、GameGrin、Gaming Nexus、COGconnected、GameCrate 等媒体的评测；题记为引用式（引 2013 年电影《World War Z》主角格里·莱恩的台词），名场面均标出所属篇章。检索时间为 2026 年 10 月。全文包含剧透。
 
 :::epigraph
-暴雪压住堪察加的燃料库，输油管在冰层里低低地震动。
-取暖器的火苗只够撑到下一个房间；谁先离开炉边，谁的睫毛就先结霜。
-远处，成百上千的脚步声正把雪地踩成一条黑色的路。
+Movement is life.
+移动即生命。
+——Gerry Lane《World War Z》（2013 年电影）
 :::
 
 ---

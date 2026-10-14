@@ -3,10 +3,11 @@
 > 说明：本文为《刺客信条：枭雄》（Assassin's Creed Syndicate，2015）的载体条目，整理范围为育碧魁北克开发、育碧发行的本作本体（1868 年伦敦主线、2015 年现世线，以及以「时间异常」形式追加的第一次世界大战片段）与发售后推出的扩展内容。故事扩展《开膛手杰克》《最后的土邦主》在「版本与 DLC 关系」中列明归属，并在剧情章简述；同世界观的小说《刺客信条：底层》（Assassin's Creed: Underworld）等兄弟载体只留接口，不单独展开。主要依据育碧官方页面与商店页、英文维基百科及其镜像、Metacritic，以及 GameSpot、IGN、Eurogamer、PC Gamer、VG247、Game Informer 等专业媒体的报道与评测。检索于 2026 年 10 月。全文包含从序章到结局的完整剧透。
 
 :::epigraph
-脚手架爬满西区的临街立面，烟囱在东区吐出一整天的煤灰。
-泰晤士河上，汽船拖着驳船驶过，煤气灯一盏盏亮起来。
-一辆黑漆夜车停在环线侧线，车厢里摊着全城的地图与钉满小旗的城区。
-车窗背后的人把指虎扣上指节，推门走进雨里。
+The working class sleep-walks through life, unaware of the machine that drives them.
+工人阶级在人生里梦游，浑然不觉驱动他们的那台机器。
+Let's wake them up then, shall we?
+那就把他们叫醒吧，如何？
+——雅各布·弗莱《刺客信条：枭雄》首支预告片
 :::
 
 ---

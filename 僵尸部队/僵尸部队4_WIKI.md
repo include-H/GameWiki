@@ -3,11 +3,9 @@
 > 说明：本文为《僵尸部队4：死亡战争》（Zombie Army 4: Dead War，2020）的载体条目，整理范围为 Rebellion Developments 开发并自行发行、2020 年 2 月 4 日登陆 PlayStation 4、Windows 与 Xbox One 的本作本体，以及其后的三季季票、Ragnarök 资料片、平台移植与免费更新；同属僵尸部队子系列的前作《僵尸部队三部曲》（Zombie Army Trilogy，2015）与 2025 年的《Zombie Army VR》只在「版本与 DLC 关系」与世界观沿革处简述，不作为本文主线。主要依据英文维基百科（经镜像站 everything.explained.today 访问）、DBpedia、Metacritic、Rebellion 官方网站与新闻稿、Steam 与微软商店页面；因本环境无法直连 en.wikipedia.org 与 Fandom，相关字段以镜像站、数据库与官方渠道交叉核对，个别项目标为「待核实」。全文包含从序章到结局的完整剧透。检索时间：2026 年 10 月。
 
 :::epigraph
-1946 年，意大利的冬天走到最后一段。
-运河的水面上浮着还没收殓的尸体，煤气灯把桥洞照成一截短短的白天。
-安全屋的门从里面闩死，铁链上结了霜。
-有人把最后几发子弹压进弹仓，贴着门板听街上的脚步——那声音比活人慢，比死的人齐。
-屋角的收音机还在响，没有人去换频率。
+We're taking the world back. One bullet at a time.
+我们要把这个世界夺回来——一发子弹，一发子弹地夺。
+——旁白《僵尸部队4：死亡战争》开场
 :::
 
 ---

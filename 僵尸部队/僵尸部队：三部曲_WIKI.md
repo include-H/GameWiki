@@ -3,10 +3,11 @@
 > 说明：本文为合集产品《僵尸部队：三部曲》（Zombie Army Trilogy，简称 ZAT，2015）的载体条目，整理范围为 Rebellion Developments 开发并自行发行的这一合集本体，即其收录的三段战役与「尸潮模式」；作为合集所收录的《狙击精英：纳粹僵尸部队》与《狙击精英：纳粹僵尸部队 2》（均 2013 年，PC 独立扩展包）的原版情况、以及 2020 年续作《僵尸部队 4：死亡战争》的接续关系，只在版本脉络里交代，不另展开。主要依据英文维基百科（经可访问镜像获取正文）、Steam 商店与官方接口数据、Metacritic 各平台评分页、Eurogamer 与 IGN 的公布报道和评测、DBpedia 的结构化记录；中文译名参考 DBpedia 的中文标签。检索时间为 2026 年 10 月。全文包含从序章到结局的完整剧透。
 
 :::epigraph
-柏林，四月末。雪落在烧焦的防空塔上，也落在不再呼吸的人身上。
-无线电里只剩两种声音：一遍遍重复的「坚守」，和越来越近的脚步。
-地堡的铁门从里面闩死，门外的队列安静得不像活人。
-最后一个人把子弹压进枪膛，瞄准镜里，是昨天还穿着同一身军装的影子。
+In the dying days of World War II, Hitler's final desperate act is to unleash his legion of undead soldiers upon an already ravaged Berlin.
+在第二次世界大战的最后日子，希特勒孤注一掷，把他那支亡灵士兵的军团放向早已被战火蹂躏的柏林。
+Only those with nerves of steel and a steady aim stand a chance against Hitler's Nazi Zombie Army!
+唯有神经如铁、枪法沉稳的人，才有机会对抗希特勒的纳粹僵尸部队！
+——第一章「柏林恐怖」开场旁白
 :::
 
 ---
