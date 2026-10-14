@@ -1,14 +1,16 @@
 # 极品飞车：热力追踪（2010）（游戏）Wiki
 
 > 说明：本文为《极品飞车：热力追踪》（Need for Speed: Hot Pursuit，2010）的载体条目。游戏名「热力追踪」在系列中至少对应三款作品——1998 年的《极品飞车III：热力追踪》（Need for Speed III: Hot Pursuit，EA Canada／EA Seattle 开发）、2002 年的《极品飞车：热力追踪2》（Need for Speed: Hot Pursuit 2）与 2010 年由 Criterion Games 开发、Electronic Arts（EA，美商艺电）发行的本作；三者的原名分别为 "Need for Speed III: Hot Pursuit"、"Need for Speed: Hot Pursuit 2" 与不带序号、年份的 "Need for Speed: Hot Pursuit"。据中文维基百科、英文维基百科与 Need for Speed Wiki 三方核对，本作的名称、开发方、平台与 2010 年 11 月的首发时间一致，且被两版维基明确称为该名号的「重启（reboot）」；GameAtlas 条目名「极品飞车：热力追踪」不带罗马数字或「2」后缀，指向的正是 2010 年这一部，故本文以 2010 年 Criterion 版为准，1998 年与 2002 年两部只在「版本与 DLC 关系」中交代其关系，不展开。整理范围为本体的单人双线生涯、在线多人、机动装备与 Autolog 社交系统，并覆盖 2010 至 2011 年的付费下载内容与 2020 年 10 周年重制版；Wii 版因由 Exient Entertainment 另行为之、内容几乎完全不同，只作平台差异记述。本作没有叙事主线，仅有生涯地图上的简短简报与开场片段，因此第 4 章按两条生涯（赛手／警察）的推进结构撰写，不写虚构剧情，也就没有可剧透的情节。主要依据英文与中文维基百科、Metacritic、Fandom 的 Need for Speed Wiki、艺电官方站点与许
-> 多专业媒体（Eurogamer、IGN、Joystiq 等）的报道与评测；题记为场景式（本作无角色台词可引）。检索时间为 2026 年。
+> 多专业媒体（Eurogamer、IGN、Joystiq 等）的报道与评测；题记为引用式（引本作开场旁白）。检索时间为 2026 年。
 
 :::epigraph
-黄昏的 Grand Ocean Road，崖壁一侧是太平洋，另一侧是刚被落日点燃的山脊。
-一辆白色超跑贴着水泥护栏切过弯心，车尾扫起的碎石砸在路面上。
-警方频道里，调度员报出它的车牌，随后是直升机的桨声压下来。
-前方路肩，逆向停着一辆斜出车头的警车，警灯在渐暗的天色里一闪一闪。
-驾驶者没有减速。
+Seacrest County has become the ultimate place to speed.
+海峰郡如今已是飙车的终极去处。
+A playground for the most exotic cars and drivers in the world.
+那是一片供世上最名贵的跑车与最狂热的车手共用的游乐场。
+But this is not a lawless place.
+但这里并非无法之地。
+——开场旁白《Need for Speed: Hot Pursuit》开场动画
 :::
 
 ---

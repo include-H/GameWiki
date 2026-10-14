@@ -1,12 +1,11 @@
 # 敌后敢死队（游戏）Wiki
 
-> 说明：本文为《敌后敢死队》（Deadly Dozen，2001）的载体条目，整理范围为 nFusion Interactive 开发、Infogrames 发行的本作本体——Windows 单机战役，共 10 个任务。2002 年的续作《Deadly Dozen: Pacific Theater》（日本称《デッドリー・ダズン パシフィック・シアター》）与 2022 年的重制版《Deadly Dozen Reloaded》只在「版本与 DLC 关系」中简述，不分别展开。主要依据英文与日文维基百科、Metacritic、GameSpot、IGN、GameSpy、GAME Watch，以及 GameFAQs 收录的由 Lord_Vic 整理的通关攻略；开发侧细节（名称由来、引擎代号、灵感来源）依据日文维基百科转引的 nFusion 访谈。首发日期存在分歧：Metacritic、GameSpot 与游侠网记为 2001 年 10 月 31 日，英文维基百科信息框记为北美 2001 年 11 月 2 日，日文维基百科记为 2001 年 11 月 23 日，本条目以 10 月 31 日为准，分歧记入文末存疑清单。因本作的任务简报与对白缺少可回溯的公开原文，题记不引台词，改走场景式。全文包含到战役结尾的完整剧透。
+> 说明：本文为《敌后敢死队》（Deadly Dozen，2001）的载体条目，整理范围为 nFusion Interactive 开发、Infogrames 发行的本作本体——Windows 单机战役，共 10 个任务。2002 年的续作《Deadly Dozen: Pacific Theater》（日本称《デッドリー・ダズン パシフィック・シアター》）与 2022 年的重制版《Deadly Dozen Reloaded》只在「版本与 DLC 关系」中简述，不分别展开。主要依据英文与日文维基百科、Metacritic、GameSpot、IGN、GameSpy、GAME Watch，以及 GameFAQs 收录的由 Lord_Vic 整理的通关攻略；开发侧细节（名称由来、引擎代号、灵感来源）依据日文维基百科转引的 nFusion 访谈。首发日期存在分歧：Metacritic、GameSpot 与游侠网记为 2001 年 10 月 31 日，英文维基百科信息框记为北美 2001 年 11 月 2 日，日文维基百科记为 2001 年 11 月 23 日，本条目以 10 月 31 日为准，分歧记入文末存疑清单。本作无过场动画，任务由十份简报串联；题记引本作第一关任务简报的原文，简报文本见文末 GameFAQs 收录攻略的转录。全文包含到战役结尾的完整剧透。
 
 :::epigraph
-1944 年 6 月 5 日深夜，犹他海滩以东的沙丘后面，四个人把脸埋进湿沙，等探照灯扫过去。
-铁丝网从退潮线一路铺到崖脚的混凝土地堡，雾里只看得见 MG42 的枪口发白。
-其中一个袖口还缝着军事法庭的囚犯编号，他摸了摸背包里的炸药棒，没说话。
-天亮之后，崖后那四门 155 毫米炮要么哑掉，要么继续把登陆艇钉在滩上。
+This is our first mission, all the top brass will be watching us- so don't screw up.
+这是我们的第一次任务，所有高层都盯着我们——别搞砸了。
+——任务简报官《Deadly Dozen》第一关「拉法耶特行动」简报
 :::
 
 ---
@@ -258,7 +257,7 @@ Metacritic 综合评分为 56/100（基于 7 篇评测，其中正面 1 篇、�
 - [Deadly Dozen Review — GameSpot（Erik Wolpaw，2001-11-21）](https://www.gamespot.com/reviews/deadly-dozen-review/1900-2826694/)（7.1/10 与评述，检索于 2026 年 10 月）
 - [Deadly Dozen ships, demo available — GameSpot（2001-11-02）](https://www.gamespot.com/articles/deadly-dozen-ships-demo-available/1100-2822142/)（出货、定价、单机定位，检索于 2026 年 10 月）
 - [Deadly Dozen review — IGN（Ivan Sulic，2001-11-27）](https://www.ign.com/articles/2001/11/28/deadly-dozen)（6.4/10 与评述，检索于 2026 年 10 月）
-- [Deadly Dozen — Guide and Walkthrough（Lord_Vic，GameFAQs）](https://gamefaqs.gamespot.com/pc/531659-deadly-dozen/faqs/21676)（任务名、地点、目标、队员姓名与专长、装备与技能，检索于 2026 年 10 月）
+- [Deadly Dozen — Guide and Walkthrough（Lord_Vic，GameFAQs）](https://gamefaqs.gamespot.com/pc/531659-deadly-dozen/faqs/21676)（任务名、地点、目标、任务简报原文、队员姓名与专长、装备与技能，检索于 2026 年 10 月）
 - [Deadly Dozen (Windows) — My Abandonware](https://www.myabandonware.com/game/deadly-dozen-d0u)（区域发行与别名，检索于 2026 年 10 月）
 - [Deadly Dozen Reloaded launches April 29 for PC, this summer for PS4, Xbox One, and Switch — Gematsu](https://www.gematsu.com/2022/04/deadly-dozen-reloaded-launches-april-29-for-pc-this-summer-for-ps4-xbox-one-and-switch)（重制版平台与日期，检索于 2026 年 10 月）
 - [Deadly Dozen — Grokipedia](https://grokipedia.com/page/Deadly_Dozen)（仅作线索，未采信其评分与商业数据，检索于 2026 年 10 月）
@@ -271,4 +270,4 @@ Metacritic 综合评分为 56/100（基于 7 篇评测，其中正面 1 篇、�
 4. **十二名队员的姓名与专长**：以 GameFAQs 收录的社区攻略（Lord_Vic）整理为准，属细粒度信息，未能逐条回溯到游戏内文本，记为待核实；其技能数值本条目未引用。
 5. **「nWorld」引擎名**：出自日文维基百科转引的 nFusion 访谈，为开发期暂称，非正式商品名。
 6. **主机版《Deadly Dozen Reloaded》**：官方宣布 2022 年夏登陆 Switch、PS4、Xbox One，但截至 2025 年 11 月检索时未见发售记录，2.2 按「计划未落实」记录。
-7. **题记**：本作任务简报与对白缺少可回溯的公开原文，故不引台词，改走场景式题记；不存在可署名来源。
+7. **题记出处**：题记引本作第一关任务简报原文，署名任务简报官。游戏本体未单独发布官方简报文本，该文本取自 GameFAQs 收录的通关攻略（Lord_Vic）对游戏内简报的转录；角色对白与过场动画确无可回溯原文，故不引。

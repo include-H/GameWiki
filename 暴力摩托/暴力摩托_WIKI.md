@@ -3,10 +3,9 @@
 > 说明：本文是《暴力摩托》（Road Rash）**这一部作品**的载体条目，不是系列主文。GameAtlas 只给出笼统名「暴力摩托 / Road Rash」与年份 1996；检索显示 1996 年对应的是《Road Rash》系列**第三代**在 PlayStation、世嘉土星与 Windows 上的发行，而这一代最早于 1994 年 7 月首发于 3DO 主机（英文维基百科将其立为《Road Rash (1994 video game)》）。据此判定：GameAtlas 的 1996 指向这部具体作品，故按载体条目建档，标题用（1996）区分于 1991 年的初代《暴力摩托》与同名系列。本文覆盖该作的 3DO 原版及其 Sega CD、PlayStation、世嘉土星、Windows 移植版，不含系列其余各代（1991 初代、Road Rash II、Road Rash 3、Road Rash 3D、Road Rash 64、Road Rash: Jailbreak）——它们与本文是并列的独立作品，只在「版本关系」里留一句接口。主要依据英文与中文维基百科、3DO 版官方说明书原文（Internet Archive 收录）、Metacritic、IGN 与 GameSpot 的评测、Sega-16 对主创 Randy Breen 的访谈，以及 Road Rash 玩家维基（Fandom）整理的台词与角色资料；社区内容只作线索，凡未能回溯到权威来源者已在文中标出。本作是竞速格斗游戏，没有脚本化的线性剧情，第 4 章写到生涯模式的收束（夺冠），不含会被破坏的悬念反转。检索时间：2026 年 10 月。
 
 :::epigraph
-夜里的一号公路，警灯的蓝红在反光镜里一明一灭。
-铁链在手套上绕了两圈，前面那辆车的尾灯缩成一粒红点。
-Der Panzer Klub 的霓虹还亮着，车横在门口，没有一辆熄火。
-桌上压着一张单子：奖金、罚单、修车费，明天一起结。
+I live my life as if I were a bad guy in an action film.
+我照着动作片里的反派那样过活。
+——Axle，Der Panzer Klub 赛前对话
 :::
 
 ---

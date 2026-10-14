@@ -3,10 +3,9 @@
 > 说明：本文为《极限竞速：地平线 4》（Forza Horizon 4，2018）的载体条目，整理范围为 Playground Games 开发、微软发行的本体及其两张资料片（《财富岛》Fortune Island、《乐高竞速冠军》LEGO Speed Champions）与各平台版本。本作没有叙事剧情，因此第 4 章按季节轮转与赛事结构组织，并在开头说明原因。同 IP 的主系列《极限竞速》（Forza Motorsport）与续作《极限竞速：地平线 5》只在版本关系与系列定位处提及。主要依据英文与中文维基百科、Metacritic、Playground Games 与 Xbox 官方公告、Forza 官方支持页，以及 IGN、GameSpot、Game Informer、Eurogamer、The Guardian、Polygon、GamesRadar+ 等媒体的评测。检索时间为 2026 年 10 月。
 
 :::epigraph
-十月的科茨沃尔德，落叶铺满百老汇村外那条乡道。一辆深绿色跑车贴着干砌石墙切进弯心，轮胎把碎叶卷到半空。
-向北，湖水地带的德文特湖已经封冻，冰面上一道白色车辙从岸边一直延伸到湖心岛。
-同一条公路，春天是湿漉的沥青与花雨，夏天是发烫的柏油，冬天是结霜的路肩与打滑的后轮。
-嘉年华的旗帜插在每一条山口的尽头，等着有人开过去。
+Hi, it's LaRacer. I'm at the Horizon Festival in the UK! I'm at Horizon! It's awesome! Come join me.
+嗨，我是 LaRacer。我在英国的「地平线嘉年华」！我就在地平线这儿！太棒了，来加入我吧。
+——LaRacer《极限竞速：地平线 4》地平线故事《LaRacer @ Horizon》视频开场
 :::
 
 ---

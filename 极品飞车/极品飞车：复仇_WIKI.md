@@ -3,10 +3,9 @@
 > 说明：本文为《极品飞车：复仇》（Need for Speed Payback，2017）的载体条目，整理范围为 Ghost Games 开发、Electronic Arts 发行的本体（单人剧情、多人线上模式）及其 2018 年 6 月前陆续推出的追加内容（豪华版、速度越野 DLC、各车辆包）。同题材的 2014 年电影《极品飞车》（Need for Speed）与本作不是同一部作品，不在本篇展开。主要依据英文与中文维基百科、Need for Speed Wiki（Fandom）、EA 官方商店页、Metacritic 与 IGN、GameSpot、Polygon、PC World 等专业媒体的评测，以及 NFS Encyclopedia 收录的章节与任务资料。中国各地对本作的译名不统一，正文中的地名与组织名（财富谷、银岩市、金权会等）为常见中文社群译法，官方简繁中文本地化的用词可能与之不同。全文包含从序章到结局、含片尾彩蛋的完整剧透。检索时间为 2026 年。
 
 :::epigraph
-自由沙漠的夜风裹着沙粒，扫过银岩市边缘那座废弃的机场跑道。
-机库的卷帘门半开着，车底盘下亮起一盏工作灯，机油味和轮胎橡胶味混在一起。
-墙上钉着一张财富谷全图，亡命狂飙的赛程被红笔圈了又圈。
-城市另一头，金权会的探照灯在赌场塔顶缓缓转着。
+Imagine a city where risk is an illusion and every bet is rigged. That's what the House wants.
+想象一座风险只是幻觉、每一场赌局都被人做局的城市。这正是金权会想要的。
+——马库斯·威尔（Marcus Weir）《极品飞车：复仇》
 :::
 
 ---

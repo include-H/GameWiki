@@ -3,9 +3,9 @@
 > 说明：本文为《收获日2》（Payday 2，2013）的载体条目，整理范围包括 Overkill Software 开发、505 Games 于 2013 年发行的本体，以及后续由 Starbreeze 与 Overkill 持续多年推出的付费与免费内容（含《犯罪狂潮版》等主机版本与「终极版 / 遗产版」等打包版本）；六十余个 DLC 与各平台移植只在「版本与 DLC 关系」一节归类说明，不逐包展开。主要依据英文与中文维基百科、系列条目与开发商官方公告，评分数据取自 Metacritic，商业与争议信息取自 GamesIndustry.biz、Eurogamer、GameSpot、PC Gamer、Kotaku 等专业媒体，题记与内容细节另参照 PAYDAY 官方页面与社区数据库并逐项标注来源层级。全文包含从主线到结局（含隐藏结局）的完整剧透。检索时间：2026 年。
 
 :::epigraph
-华盛顿的雨落在后巷，四个穿西装的人影把面具别在腰间，还没有戴上。
-厢式车的后门敞着，里面并排立着液压钻、塑胶炸药和几袋没清点过的现金。
-耳机里，那个从没露过面的人报出倒计时：四条街之内，警灯就会亮起来。
+Guys, the thermal drill. Go get it.
+弟兄们，热熔钻，快去拿。
+——贝恩（Bain）《收获日2》银行劫案（Bank Heist）
 :::
 
 ---
@@ -189,7 +189,7 @@
 
 ### 6.3 合同人与关键配角
 
-- 贝恩（Bain，Simon Viklund）：Crime.net 的运营者、帮派的长期经纪人，从不现身；据一条任务描述曾当过警察。结局中被注入致命病毒而死，隐藏结局里疑与总统换身。
+- 贝恩（Bain，Simon Viklund）：Crime.net 的运营者、帮派的长期经纪人，从不现身；据游戏内安全屋支线任务「Cop VS Cop」的任务描述，曾当过警察。结局中被注入致命病毒而死，隐藏结局里疑与总统换身。
 - 牙医（The Dentist，Giancarlo Esposito）：代理富裕客户、处理古物与秘密的中间人，也是唯一能把老 Hoxton 捞出来的人；后期揭示其为幕后反派之一，在白宫密室被帮派击毙。
 - Vernon Locke（Ian Russell）：前 Murkywater 少校，先与帮派为敌、实为掩护，救出贝恩的关键人物。
 - Hector Morales：东海岸毒枭、合同人，出卖 Hoxton 后与 FBI 交易，被帮派处决。
