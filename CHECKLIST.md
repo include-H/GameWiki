@@ -237,12 +237,18 @@
 - [x] **最后的生还者：第一章** — The Last of Us Part I → `最后的生还者/最后的生还者：第一章_WIKI.md`
 - [x] **最后的生还者：第二章** — The Last of Us Part II → `最后的生还者/最后的生还者：第二章_WIKI.md`
 
-## 最终幻想（5/5）
+## 最终幻想（11/11）
 - [x] **最终幻想7 重置版** — Final Fantasy VII Remake → `最终幻想/最终幻想7 重置版_WIKI.md`
 - [x] **最终幻想：核心危机 重聚** — Crisis Core: Final Fantasy VII Reunion → `最终幻想/最终幻想：核心危机 重聚_WIKI.md`
 - [x] **最终幻想16** — Final Fantasy XVI → `最终幻想/最终幻想16_WIKI.md`
 - [x] **最终幻想7 重生** — Final Fantasy VII Rebirth → `最终幻想/最终幻想7 重生_WIKI.md`
 - [x] **最终幻想1-6复刻版** — Final Fantasy I-VI Pixel Remaster → `最终幻想/最终幻想1-6复刻版_WIKI.md`
+- [x] **最终幻想8** — Final Fantasy VIII → `最终幻想/最终幻想8_WIKI.md`
+- [x] **最终幻想9** — Final Fantasy IX → `最终幻想/最终幻想9_WIKI.md`
+- [x] **最终幻想10** — Final Fantasy X → `最终幻想/最终幻想10_WIKI.md`
+- [x] **最终幻想11** — Final Fantasy XI → `最终幻想/最终幻想11_WIKI.md`
+- [x] **最终幻想12** — Final Fantasy XII → `最终幻想/最终幻想12_WIKI.md`
+- [x] **最终幻想14** — Final Fantasy XIV → `最终幻想/最终幻想14_WIKI.md`
 
 ## 最终幻想：新水晶神话（3/3）
 - [x] **最终幻想13** — Final Fantasy XIII → `最终幻想：新水晶神话/最终幻想13_WIKI.md`
