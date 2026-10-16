@@ -26,3 +26,16 @@ WikiAtlas 游戏 Wiki 的**内容仓**（暂时回归"Markdown + git 追踪"的�
 
 `PUT /api/games/{public_id}/wiki`，body `{content, change_summary}`（管理员会话，先 `POST /api/auth/login`）。
 覆盖写，**不可轻易撤销**——按 `index.json` 定位文件后批量推送。
+
+统一走 `scripts/push.py`（凭据读 `GA_PASSWORD` 或 `/root/WikiAltas/.secrets/credentials.md`）：
+
+```bash
+python3 scripts/push.py check          # 登录 + roster 对账 + 文件体检 + 端点探测
+python3 scripts/push.py push --dry-run # 只读：本机 vs 远端差异分布
+python3 scripts/push.py push --limit 1 # 冒烟一条
+python3 scripts/push.py push           # 全量（每条 PUT 后回读校验；中断可重跑，已一致自动跳过）
+python3 scripts/push.py status         # 看最近一次运行小结
+```
+
+注意：GA 入库会去掉内容末尾换行，脚本比较时已归一；无 `public_id` 的条目（人工扩写，如命令与征服正传）不在生产库，不推。
+首次全量回推：**252/252 成功**（2026-10-16，见 `push-log/`）。
