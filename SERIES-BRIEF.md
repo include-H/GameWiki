@@ -2,6 +2,12 @@
 
 你要为 WikiAtlas 内容仓**新增一篇系列主文（Readme）**。对象是一个游戏 IP、子系列、企划或作者作品群——**不是**一部具体作品。只写这一篇，不碰任何其它文件、不碰 GameAtlas。今天日期以会话上下文为准（约 2026-10）。
 
+## 网络访问（本环境必读）
+本环境**直连外网被墙**，所有联网必须走代理 `http://192.168.1.253:7890`（已验证 Wikipedia、Metacritic、各游戏媒体经代理可 200）。做法：
+- shell 里先 `export https_proxy=http://192.168.1.253:7890 http_proxy=http://192.168.1.253:7890`，再 `curl -sL <url>`；或每条命令直接 `curl -x http://192.168.1.253:7890 -sL <url> -o /tmp/p.html`，然后用 read/python 读 `/tmp/p.html`。
+- `websearch` 工具可能返回 401、`webfetch` 可能不走代理；**以 shell + curl 经代理为准**。
+- 优先官方站、新闻稿、Wikipedia、Metacritic、Famitsu/4Gamer 等；社区站只当线索。**不要**因为抓取麻烦就退回「凭记忆」或只抄仓内旧条目。
+
 ## 第一步：读规范（必须逐份读，规则来源不是参考）
 用 read 依次读：
 1. `/root/Game_Wiki/wiki-writing/SKILL.md` — 先判任务模式与交付物。
