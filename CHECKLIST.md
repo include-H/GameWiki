@@ -1,14 +1,14 @@
 # WikiAtlas 游戏 Wiki 重写清单
 
 ## 进度总览
-- 全量：**259 部 · 81 个 IP**
-- 已入库：**259 部**
+- 全量：**262 部 · 81 个 IP**
+- 已入库：**262 部**
 - 待写：0 = 本代理 **0** + 另一代理 **0**（光环/刺客信条/半条命/双人合作）
-- 回推 GameAtlas 生产库：**252/252 成功**（2026-10-16，`scripts/push.py` 全量 + 逐条回读校验；7 篇人工扩写不在生产库，不推）
+- 回推 GameAtlas 生产库：见 push-log/ 最近小结（`python3 scripts/push.py status`）。
 
 ## 约定
 - 结构 `<游戏IP>/<单作>_WIKI.md`；映射见 `index.json`；规范见 `/root/WikiAltas/skills`。
-- 执行说明 `WRITING-BRIEF.md`；派单模板 `DISPATCH.md`；自检 `scripts/qa.py`。
+- 执行说明 `WRITING-BRIEF.md`；派单 `scripts/dispatch.py`；自检 `scripts/qa.py`；远端同步 `scripts/sync.py`。
 
 ## 上古卷轴（2/2）
 - [x] **上古卷轴5：天际** — The Elder Scrolls V: Skyrim → `上古卷轴/上古卷轴5：天际_WIKI.md`
@@ -44,7 +44,7 @@
 ## 传说（1/1）
 - [x] **破晓传说** — Tales of ARISE → `传说/破晓传说_WIKI.md`
 
-## 使命召唤（19/19）
+## 使命召唤（20/20）
 - [x] **使命召唤** — Call of Duty 2003 → `使命召唤/使命召唤_WIKI.md`
 - [x] **使命召唤2** — Call of Duty 2 → `使命召唤/使命召唤2_WIKI.md`
 - [x] **使命召唤：现代战争** — Call of Duty 4: Modern Warfare → `使命召唤/使命召唤：现代战争_2007_WIKI.md`
@@ -64,6 +64,7 @@
 - [x] **使命召唤：现代战争 III 2023** — Call of Duty: Modern Warfare III → `使命召唤/使命召唤：现代战争 III 2023_WIKI.md`
 - [x] **使命召唤：黑色行动 冷战** — Call of Duty: Black Ops Cold War → `使命召唤/使命召唤：黑色行动 冷战_WIKI.md`
 - [x] **使命召唤：黑色行动 6** — Call of Duty: Black Ops 6 → `使命召唤/使命召唤：黑色行动 6_WIKI.md`
+- [x] **使命召唤：现代战争 4** — Call of Duty ®: Modern Warfare 4 → `使命召唤/使命召唤：现代战争 4_WIKI.md`
 
 ## 侠盗猎车手（5/5）
 - [x] **侠盗猎车手 3** — Grand Theft Auto III → `侠盗猎车手/侠盗猎车手 3_WIKI.md`
@@ -168,9 +169,10 @@
 ## 对马岛之魂（1/1）
 - [x] **对马岛之魂** — Ghost of Tsushima → `对马岛之魂/对马岛之魂_WIKI.md`
 
-## 尼尔（2/2）
+## 尼尔（3/3）
 - [x] **尼尔：机械纪元** — NieR:Automata → `尼尔/尼尔：机械纪元_WIKI.md`
 - [x] **尼尔：人工生命(Ver1.22474487139)** — NieR Replicant ver.1.22474487139... → `尼尔/尼尔：人工生命(Ver1.22474487139)_WIKI.md`
+- [x] **龙背上的骑兵 3** — Drakengard3 → `尼尔/龙背上的骑兵 3_WIKI.md`
 
 ## 巫师（3/3）
 - [x] **巫师** — The Witcher → `巫师/巫师_WIKI.md`
@@ -238,23 +240,17 @@
 - [x] **最后的生还者：第一章** — The Last of Us Part I → `最后的生还者/最后的生还者：第一章_WIKI.md`
 - [x] **最后的生还者：第二章** — The Last of Us Part II → `最后的生还者/最后的生还者：第二章_WIKI.md`
 
-## 最终幻想（11/11）
+## 最终幻想（5/5）
 - [x] **最终幻想7 重置版** — Final Fantasy VII Remake → `最终幻想/最终幻想7 重置版_WIKI.md`
 - [x] **最终幻想：核心危机 重聚** — Crisis Core: Final Fantasy VII Reunion → `最终幻想/最终幻想：核心危机 重聚_WIKI.md`
 - [x] **最终幻想16** — Final Fantasy XVI → `最终幻想/最终幻想16_WIKI.md`
 - [x] **最终幻想7 重生** — Final Fantasy VII Rebirth → `最终幻想/最终幻想7 重生_WIKI.md`
 - [x] **最终幻想1-6复刻版** — Final Fantasy I-VI Pixel Remaster → `最终幻想/最终幻想1-6复刻版_WIKI.md`
-- [x] **最终幻想8** — Final Fantasy VIII → `最终幻想/最终幻想8_WIKI.md`
-- [x] **最终幻想9** — Final Fantasy IX → `最终幻想/最终幻想9_WIKI.md`
-- [x] **最终幻想10** — Final Fantasy X → `最终幻想/最终幻想10_WIKI.md`
-- [x] **最终幻想11** — Final Fantasy XI → `最终幻想/最终幻想11_WIKI.md`
-- [x] **最终幻想12** — Final Fantasy XII → `最终幻想/最终幻想12_WIKI.md`
-- [x] **最终幻想14** — Final Fantasy XIV → `最终幻想/最终幻想14_WIKI.md`
 
 ## 最终幻想：新水晶神话（3/3）
 - [x] **最终幻想13** — Final Fantasy XIII → `最终幻想：新水晶神话/最终幻想13_WIKI.md`
 - [x] **最终幻想15** — Final Fantasy XV → `最终幻想：新水晶神话/最终幻想15_WIKI.md`
-- [x] **最终幻想：零式** — Final Fantasy Type-0 → `最终幻想：新水晶神话/最终幻想：零式_WIKI.md`
+- [x] **最终幻想：零式** — FINAL FANTASY TYPE-0™ HD → `最终幻想：新水晶神话/最终幻想：零式_WIKI.md`
 
 ## 杀手（3/3）
 - [x] **杀手5：赦免** — Hitman: Absolution → `杀手/杀手5：赦免_WIKI.md`
@@ -355,11 +351,12 @@
 - [x] **看门狗** — Watch Dogs → `看门狗/看门狗_WIKI.md`
 - [x] **看门狗2** — Watch Dogs 2 → `看门狗/看门狗2_WIKI.md`
 
-## 真三国无双（4/4）
+## 真三国无双（5/5）
 - [x] **真三国无双7：With 猛将传** — Dynasty Warriors 8 → `真三国无双/真三国无双7：With 猛将传_WIKI.md`
 - [x] **真三国无双6：With 猛将传** — Dynasty Warriors 7 → `真三国无双/真三国无双6：With 猛将传_WIKI.md`
 - [x] **真三国无双8：帝国** — Dynasty Warriors 9 → `真三国无双/真三国无双8：帝国_WIKI.md`
 - [x] **真三国无双：起源** — Dynasty Warriors: Origins → `真三国无双/真三国无双：起源_WIKI.md`
+- [x] **真・三国无双２ with 猛将传 Remastered** — DYNASTY WARRIORS 3 Complete Edition Remastered → `真三国无双/真・三国无双２ with 猛将传 Remastered_WIKI.md`
 
 ## 神秘海域（1/1）
 - [x] **神秘海域：盗贼遗产合集** — UNCHARTED™: 盗贼传奇合辑 → `神秘海域/神秘海域：盗贼遗产合集_WIKI.md`

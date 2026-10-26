@@ -19,8 +19,23 @@ WikiAtlas 游戏 Wiki 的**内容仓**（暂时回归"Markdown + git 追踪"的�
 
 ## 清单与映射
 
-- `CHECKLIST.md` —— 全量清单（252 部 · 81 个 IP），按 IP 分组，勾选进度。
+- `CHECKLIST.md` —— 全量清单，按 IP 分组，勾选进度；由 `scripts/qa.py --fix` / `scripts/sync.py sync --checklist` 重建。
 - `index.json` —— 程序用映射：`public_id` → `file`（回推 GameAtlas 时按它定位）。
+
+## 远端同步（拉取）
+
+GameAtlas 新增/改动游戏后，把本仓追踪文件拉齐到最新库状态，详见 `SYNC.md`：
+
+```bash
+python3 scripts/sync.py report             # 只读：本地 vs 远端差异
+python3 scripts/sync.py sync               # 写 index.json + STATUS.json（新增/孤儿关联/内容位）
+python3 scripts/sync.py sync --checklist   # 顺带重算 CHECKLIST.md
+python3 scripts/sync.py sync --drop        # 连同远端已消失条目删除（慎用）
+```
+
+与 `push.py` 方向相反：sync 是 **GameAtlas → 本仓 index**；push 是 **本仓 .md → GameAtlas 库**。
+凭据同 push.py（`GA_PASSWORD` 或 `/root/WikiAltas/.secrets/credentials.md`）。
+人工扩写条目（`public_id=null`，如命令与征服正传）sync 不动、push 不推。
 
 ## 回推 GameAtlas
 

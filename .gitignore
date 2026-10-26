@@ -8,3 +8,6 @@ push-log/
 
 # 本地音乐素材（体积过大，不入库）
 音乐Hires/
+
+# Python 缓存
+__pycache__/
